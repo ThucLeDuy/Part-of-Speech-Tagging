@@ -1,0 +1,787 @@
+﻿start/Ps Không/R ai/P muốn/V cuộc_đời/N mình/P phải/V buồn_bã/A cả/T ,/CH nhưng/C rất/R ít/A người/N trên/E đời/N này/P đạt/V được/V điều/N mình/P mong_muốn/V ./CH end/P_s
+start/Ps Mình/P thích/V lắm/R ./CH end/P_s
+start/Ps Và/C khi/N con/N đi/V ,/CH bà/N òa/V lên/V khóc/V ,/CH đứng/V chắn/V ở/E cửa/N nhất_định/R giữ/V nó/P ở/V nhà/N ./CH end/P_s
+start/Ps Thường/A khi/N ,/CH do/E tác_động/N tích_cực/A của/E văn_học/N và/C sách_báo/N tuyên_truyền/V ,/CH người_ta/P có/V suy_nghĩ/N và/C cảm_xúc/N tiến_bộ/A ,/CH khá/R mãnh_liệt/A đằng/N khác/A ./CH end/P_s
+start/Ps ”/CH ./CH end/P_s
+start/Ps Lại/R đi/V trên/E đường/N Nguyễn_Ái_Quốc/Np ./CH end/P_s
+start/Ps Anh/N ta/P tưởng/V bà/Nc mẹ/N “/CH bôn/X ”/CH lắm/R ./CH end/P_s
+start/Ps Trái_tim/N ơi/T ,/CH vỡ/V ra/R và/C đừng/R bao_giờ/P rung/V nữa/R ./CH end/P_s
+start/Ps N.Anh/X bé_nhỏ/A yêu_dấu/V đêm/N nay/P ở/V đâu/P .../X end/P_s
+start/Ps thế/T rồi/C không/R còn/R mơ/V được/V gì/P nữa/R ,/CH cứ/R trượt/V theo/E những/L đường_cong/N mềm_mại/A .../X end/P_s
+start/Ps Mẹ/N mình/P chưa/R khóc/V bao_giờ/P trong/E những/L lần/N tiễn/V con/N đi/V ./CH end/P_s
+start/Ps Thanh/Np bảo/V không/R dám/V kể/V tình_hình/N thật/A của/E đơn_vị/N cho/E gia_đình/N vì/E nó/P sợ/V gia_đình/N không/R yên_tâm/A ./CH end/P_s
+start/Ps Càng/R nghĩ/V càng/R buồn/V ,/CH nhất_là/X trong/E những/L ngày/N này/P ./CH end/P_s
+start/Ps Thế/T đấy/P ,/CH mẹ/N mình/P chắc/V là/C không/R thế/P ./CH end/P_s
+start/Ps Bao_nhiêu/P điều/N phức_tạp/A giày_vò/V bố_mẹ/N mình/P ./CH end/P_s
+start/Ps Nhưng/C ít/A ai/P kiểm_tra/V mình/P xem/V tình_cảm/N và/C suy_nghĩ/N đó/P có/V thật/A là/C bản_chất/N của/E mình/P hay/C không/R ./CH end/P_s
+start/Ps Càng/R nghĩ/V nhiều/A càng/R thấy/V mông_lung/A và/C thương/V N.Anh/X ,/CH thương/V cả/P mình/P nữa/R ./CH end/P_s
+start/Ps Có_lẽ_nào/X tất_cả/P chỉ/R là/V như_thế/X ./CH end/P_s
+start/Ps Quả_thật/R ,/CH về/V nhà/N ,/CH ở/E bên/N bố_mẹ/N ,/CH gia_đình/N sao/P thanh_thản/A lạ/A ./CH end/P_s
+start/Ps Dắt/V Hải/Np đi/V chơi/V ,/CH một/M lát/N ,/CH chia_tay/V ở/E gốc/N cây/N thứ/N ba/M ,/CH nơi/N nửa/L năm/N trước/N ,/CH ngày/N 30/M -/CH 5/M ,/CH chia_tay/V N.Anh/X .../X end/P_s
+start/Ps Tội_lỗi/N đó/P không/R bao_giờ/P mình/P có_thể/R tự/P tha_thứ/V cho/E được/V ./CH end/P_s
+start/Ps Mình/P lại/R nhớ/V câu_thơ/N của/E Trần_Vàng_Sao/Np ,/CH đại_ý/N :/CH Bao_nhiêu/P nước_mắt/N mẹ/N thấm/V vào/E vạt/N áo/N ,/CH để/E đường/N con/N đi/V không/R bị/V ướt/A .../X end/P_s
+start/Ps rồi/C triển_vọng/N binh/N ,/CH quân_chủng/N cao_xa/A .../X end/P_s
+start/Ps Nhà_cửa/N vẫn/R bẩn/A và/C ngọn/Nc đèn/N vẫn/R trải/V vô_vàn/A đường/N sáng/A ./CH end/P_s
+start/Ps Song/C ta/P biết/V cách/N trả_lời/V ./CH end/P_s
+start/Ps Phong/Np có/R nhận/V được/R không/R ,/CH qua/V Trường_Sơn/Np ,/CH qua/V dốc/N Bà_Định/Np ,/CH dốc/N Nguyễn_Chí_Thanh/Np ,/CH qua/V chặng/Nc đường/N quyết_thắng/V ./CH end/P_s
+start/Ps Mình/P chỉ/R thích/V bộ_binh/N ,/CH đánh/V nhau/N thế/P mới/R khoái/A và/C ít/A bị/V phụ_thuộc/V vào/E máy_móc/N ./CH end/P_s
+start/Ps Mới_đó/X mà/C ta/P xa/V nhau/N ,/CH thật/T là/C kinh_khủng/V ./CH end/P_s
+start/Ps Ở/E gốc/N cây/N thứ/N ba/M này/P ,/CH mình/P đã/R chia_tay/V với/E bạn/N thân_yêu/A nhất/R của/E mình/P .../X end/P_s
+start/Ps Mùa/Nc xuân/N .../X end/P_s
+start/Ps Tưởng_chừng/V có_thể/R che_chở/V cho/E cả/R gia_đình/N ./CH end/P_s
+start/Ps Ngủ/V chán/V rồi/C lại/R thức/V ,/CH lại/R nóng_ruột/A ./CH end/P_s
+start/Ps Họ/P không/R chịu/V nổi/R tình_trạng/N nằm/V đợi/V ghê_sợ/A này/P ./CH end/P_s
+start/Ps Bà/N ngồi/V yên_lặng/A nghe/V đứa/Nc con_trai/N nhỏ/A của/E mình/P thủ_thỉ/V ./CH end/P_s
+start/Ps Mình/P ngoảnh/V lại/R .../X end/P_s
+start/Ps Ở/E đây/P chỉ/R có/V thế/P ./CH end/P_s
+start/Ps Ta/P siết/V chặt/A trong/E nỗi/Nc xúc_động/V làm/V gì/P .../X end/P_s
+start/Ps Bè/N nứa/N phơi/V trên/E cát/N bãi/Nc sông/N Hồng/Np Nơi/N tuổi/N nhỏ/A ta/P đi/V câu/V cá/N Những/L chiếc/Nc xà_lan/N ngày/N ấy/P nông_nổi/A quá/R Nay/P trầm_tĩnh/A ngược/V sông/N chở/V đá/N chữa/V cầu/N .../X end/P_s
+start/Ps Lẽ_ra/X đang/R lạnh/A ./CH end/P_s
+start/Ps Và/C đậm_đà/A là/V bóng_dáng/N N.Anh/X ,/CH hôm_qua/N ,/CH hôm_qua/N ,/CH đứng/V gõ/V cửa/N thật/R nhẹ/A .../X end/P_s
+start/Ps Mất_mát/V nhiều/A ,/CH nhưng/C cố_gắng/V làm_sao/X cho/E mình/P khỏi/V thất_vọng/V ,/CH khỏi/V mất/V nghị_lực/N luôn/R hun/V cháy/V lòng/N mình/P ./CH end/P_s
+start/Ps Cho/E ta/P thảnh_thơi/A ,/CH cho/E N.Anh/X hạnh_phúc/A .../X end/P_s
+start/Ps Hôm/N 5/M -/CH 12/M ,/CH được/R về/V qua/V Hà_Nội/Np mấy/L tiếng/Nu đồng_hồ/N ,/CH mới/R cảm_thấy/V hết/V hạnh_phúc/N đơn_sơ/A mà/C ngày/N thường/A không/R để_ý/V ./CH end/P_s
+start/Ps Thú_vị/V vô_cùng/R ,/CH chỉ/R thiếu/V N.Anh/X ./CH end/P_s
+start/Ps Tạm_biệt/V đôi/M mắt/N đen/A ở/E chân_trời/N ./CH end/P_s
+start/Ps Ở/E xa/A này/P ,/CH nhìn/V ôtô/N ,/CH xe_đạp/N lăn/V từ_tốn/A qua/V các/L thân/N cây/N mà/C muốn/V chạy/V vù/A xuống/V đó/P ./CH end/P_s
+start/Ps Nhanh_nhanh/A mà/C đi/V B/Ny chứ/C không/R thì/C hết/V địch/N đến_nơi/X ./CH end/P_s
+start/Ps TT/Ny -/CH 2_-_12_-_1971/X Chưa/R bao_giờ/P mình/P xa/V nhà/N lâu/A như/C thế_này/P ,/CH chưa/R bao_giờ/P nhớ/V cha_mẹ/N ,/CH anh_em/N và/C bè_bạn/N như/C bây_giờ/P .../X end/P_s
+start/Ps Vũ_trụ/N bao_la/A quá/R mà/C tay/N N.Anh/X nhỏ_nhắn/A chừng/N nào/P .../X end/P_s
+start/Ps Nhưng/C ,/CH không/R sao/P cả/T ,/CH “/CH hạnh_phúc/N bắt_đầu/V từ/E chỗ/N biết/V xa/V nhau/N ”/CH .../X end/P_s
+start/Ps Tội_nghiệp/V N.Anh/X ,/CH cứ/R phải/V buồn/V mãi/R ,/CH buồn/V dai_dẳng/A .../X end/P_s
+start/Ps Buồn/A lắm/T ,/CH cuộc_sống/N riêng/A của/E mình/P ./CH end/P_s
+start/Ps Suốt/A bữa/N cơm/N bà/N không_nói_không_rằng/X ./CH end/P_s
+start/Ps .../X end/P_s
+start/Ps Hết/V mía/N lại/R sắn/N ,/CH sắn/N ăn/V chóng/A no/A ,/CH chóng/A chán/V ./CH end/P_s
+start/Ps Từ/E đây/P ra/V đường/N 18/M chỉ/R có/V một/M khoảng/N đồng/N ./CH end/P_s
+start/Ps Lại/R xa/V Hà_Nội/Np ./CH end/P_s
+start/Ps Chỗ/N ấy/P ,/CH cái/Nc miếu/N nhỏ/A ,/CH ngã/N tư/M ,/CH Văn_Miếu/Np .../X end/P_s
+start/Ps Mẹ/N mình/P dũng_cảm/A lắm/T ,/CH biết/V hi_sinh/V lắm/T ./CH end/P_s
+start/Ps Nhưng/C bây_giờ/P lại/R đang/R là/V mùa/Nc đông/N ./CH end/P_s
+start/Ps Hạnh_phúc/N thả/V những/L đốm/Nc sáng/N bay/V lơ_lửng/A trên/E trời/N ./CH end/P_s
+start/Ps Xe/N dừng/V lại/R ở/E bến/N Nứa/Np ,/CH mình/P vội/A đến/V luôn/R nhà/N các/L bạn/N ,/CH đến/V trường/N .../X end/P_s
+start/Ps Bằng_Việt/Np nhỉ/T ,/CH ừ/T ,/CH Bằng_Việt/Np ,/CH trong/E một/M Mùa/Nc xuân/N xa/V Hà_Nội/Np ./CH end/P_s
+start/Ps Không/R thanh_thản/A như/C mọi/L người/N ,/CH không/R sung_sướng/A và/C nhàn_hạ/A như/C bố_mẹ/N người/N ./CH end/P_s
+start/Ps Tự_dưng/R thấy/V mình/P lớn/V lên/R nhiều/A ./CH end/P_s
+start/Ps Ở/E cái/T cành/N ổi/N đã/R nhẵn/A bóng/A vết/N tay/N mình/P ,/CH Phong/Np với/C mình/P ao_ước/V được/V sống/V những/L giờ_phút/N như_thế/X ./CH end/P_s
+start/Ps Bao_nhiêu/P điều/N hứa_hẹn/V còn/V bỏ_dở/V ,/CH bản_nhạc/N dừng/V lại/R ở/E âm/N da_diết/A nhất/R .../X end/P_s
+start/Ps Tạm_biệt/V ngôi/Nc nhà/N ,/CH tạm_biệt/V con_người/N ,/CH đường_phố/N và/C những/L dòng/Nc cây_xanh/N chảy/V trên/E vỉa_hè/N thành_phố/N ./CH end/P_s
+start/Ps Rồi/C Hà_Nội/Np ,/CH gia_đình/N ,/CH đường/N Nguyễn_Ái_Quốc/Np và/C phố/N Nguyễn_Du/Np .../X end/P_s
+start/Ps Phải_chi/C đừng/R gặp/V N.Anh/X thì/C bây_giờ/P đỡ/V hối_hận/V biết_bao/R ./CH end/P_s
+start/Ps Còn/C sau_này/N chỉ/R là/V đau_khổ/A và/C mòn_mỏi/A ,/CH hối_tiếc/V .../X end/P_s
+start/Ps Toàn/Np bốc_phét/V nào_là/T tập/V ít/A ,/CH ăn/V khỏe/A ,/CH sướng/A ,/CH vui/A .../X end/P_s
+start/Ps Sông/N Hồng/Np ơi/T ,/CH sông/N Hồng/Np .../X end/P_s
+start/Ps Trường/N Tổng_hợp/Np như/C hẹp/A hơn/A hôm_qua/N ,/CH ít/A gặp/V người/N quen_thuộc/A ./CH end/P_s
+start/Ps Thanh/Np nó/P khoái/A lắm/R và/C vanh_vách/A kể/V cho/E mình/P cuộc_sống/N đang/R phát_triển/V của/E thủ_đô/N ./CH end/P_s
+start/Ps Và/C nếu/C chán/V thì/C chịu/V ,/CH dân/N đi/V làm_đồng/V hết/R cả/T rồi/T ,/CH chẳng/R có/V ai/P ở/V nhà/N mà/C nói_chuyện/V ./CH end/P_s
+start/Ps Chán_ngán/A lắm/R rồi/R ,/CH bắt_đầu/V đi/V lùng/V trong/E xóm/N ./CH end/P_s
+start/Ps Thế_là/C kể/V ráo/A ./CH end/P_s
+start/Ps Vả_lại/C ,/CH đi/V bộ_binh/N gần/A dân/N hơn/A ,/CH biết/V nhiều/A điều/N thú_vị/A hơn/A ./CH end/P_s
+start/Ps Giật_mình/V ,/CH sờ/V lên/E vai/N áo/N ,/CH cổ/N áo/N ./CH end/P_s
+start/Ps Phố/N nhỏ/A se_se/A đang/R mùa/Nc gió/N nổi/V Có/V chút/L gì/P xúc_động/V mãi/R theo/V đi/V .../X end/P_s
+start/Ps “/CH Sự_thật/N gồ_ghề/A biết_chừng_nào/R ”/CH ,/CH một/M lần/N anh/N thanh_thản/A viết/V vậy/P ./CH end/P_s
+start/Ps Quanh_quẩn/V với/E cái/Nc sân/N phơi/V rơm_rạ/N ,/CH với/E cái/Nc vại/N chỉ/R hai/M gánh/N nước/N là/C đầy/A ./CH end/P_s
+start/Ps Chính_trị_viên/N Các/Np hỏi/V mình/P thích/V đi/V đâu/P ./CH end/P_s
+start/Ps Nhà_cửa/N bề_bộn/A lắm/R ./CH end/P_s
+start/Ps Thích/V gì/P cái/T con/Nc rùa/N thép/N ấy/P ,/CH chỉ/R oai/A ở/E ngoài/N này/P thôi/T chứ/C khó/A mà/C được/V vào/V trong/N ấy/P ./CH end/P_s
+start/Ps Lê_Như_Thanh/Np và/C Đỗ_Thành/Np xin/V mãi/R cũng/R được/V về/V ./CH end/P_s
+start/Ps Vụt/R ào/V ra/V ,/CH như/C cửa_sông/N ,/CH thời/N sinh_viên/N say_mê/V ,/CH hồ_hởi/A .../X end/P_s
+start/Ps Đêm/N gần/A nhau/N nhất/R lại/R là/V đêm/N chia_tay/V ./CH end/P_s
+start/Ps Câu/N hỏi/V trả_lời/V dễ/A và/C khó/A ./CH end/P_s
+start/Ps Thông/Np bảo/V mình/P đi/V hỏa_lực/N bộ_binh/N ./CH end/P_s
+start/Ps Mai/N ,/CH ta/P xa/V nhau/N rồi/R ,/CH vậy_mà/C có/V ai/P nói/V được/R với/E ai/P điều/N gì/P đâu/T ,/CH cứ/R mặc/V làn/Nc gió/N thơm/A mùi/N đồng_nội/N vuốt_ve/V mái_tóc/N .../X end/P_s
+start/Ps Thương/V N.Anh/X thật/R nhiều/A mà/C không/R biết/V nói/V sao/P ,/CH không/R biết/V làm/V sao/P cả/T ./CH end/P_s
+start/Ps Mình/P gửi/V cùng/A lá/Nc thư/N là/C những/L đoạn/Nc Đường/N chúng_ta/P đi/V học/V thuộc/V từ/E hồi/N đi/V học/V ./CH end/P_s
+start/Ps Sao/P không/R vui/A với/E bạn_bè/N mỉm/V cười/V ./CH end/P_s
+start/Ps Nằm/V nhìn/V đỉnh/N màn/N và/C nghe/V tiếng/N thở/V của/E gia_đình/N ./CH end/P_s
+start/Ps Dạo/N ấy/P mình/P lớp/N 8/M nhỉ/T ,/CH còn/C nhỏ/A quá/R ./CH end/P_s
+start/Ps Nó/P không/R dám/V đến/V trường/N vì/E sợ/V xúc_động/V ./CH end/P_s
+start/Ps Suốt/A đêm/N không/R ngủ/V ,/CH không/R muốn/V ngủ/V tí/N nào/T ./CH end/P_s
+start/Ps N.Anh/X ,/CH giữ/V ngón/N tay/N yêu_dấu/V ấy/P ở/E phím/N đàn/N và/C đừng/R buông/V ra/R ,/CH đừng/R buông/V ,/CH nghe/V thấy/V không/R ,/CH N.Anh/X ,/CH đừng/R mỏi_mệt/A .../X end/P_s
+start/Ps Qua/E cửa_kính/N mờ/A bụi/N ,/CH ta/P bối_rối/A chào/V dòng/N sông/N đỏ/A và/C nhẩm/V đọc/V vần/N thơ/N Lưu_Quang_Vũ/Np ./CH end/P_s
+start/Ps Bao_nhiêu/P đêm/N nằm_mơ/V ,/CH mình/P trở_lại/V buổi/N tối/N cuối_cùng/A ,/CH khi/N N.Anh/X dừng/V xe/N ở/E đằng/N sau/N và/C đặt/V nhẹ/A bàn_tay/N lên/E vai/N trái/A ./CH end/P_s
+start/Ps Dẫu/C có/R phải/V mất/V đi/R những/L tháng/N năm/N đẹp_đẽ/A ấy/P cho/E N.Anh/X bình_yên/A và/C hạnh_phúc/A ./CH end/P_s
+start/Ps Còn/C Thành/Np thì/C khác/A ./CH end/P_s
+start/Ps Vậy_mà/C chưa/R ./CH end/P_s
+start/Ps Nghe/V kể/V dạo/N tổng_tiến_công/V mà/C tiếc/V đứt_ruột/X ./CH end/P_s
+start/Ps Vẫn/R như/C hôm_qua/N ,/CH ngủ/V và/C chơi_bời/V lêu_lổng/V ./CH end/P_s
+start/Ps Đại_đội_trưởng/N Châu/Np mới/R về/V ,/CH trẻ_măng/A ,/CH 24/M tuổi/N ./CH end/P_s
+start/Ps Lại/R thêm/V ba/M người/N nữa/R “/CH tút/V ”/CH về/E Hà_Nội/Np ./CH end/P_s
+start/Ps Và/C trong/E bom_đạn/N ,/CH Phong/Np có/V trả_lời/V câu/N hỏi/V mà/C cuộc_sống/N đặt/V ra/R .../X end/P_s
+start/Ps Tâm_hồn/N nhạy_cảm/A ấy/P ,/CH dễ/A vui/A hơn/A mà/C cũng/R dễ/A buồn/A hơn/A trước/E cuộc_đời/N ./CH end/P_s
+start/Ps Dừng/V lại/R dưới/E chân/N cầu_thang/N ,/CH bùi_ngùi/A và/C buồn/V vô_hạn/A .../X end/P_s
+start/Ps Có_lẽ_nào/X tất_cả/P chỉ/R là/V như_thế/X và/C vĩnh_viễn/A cũng/R chỉ/R là/V như_thế/X ./CH end/P_s
+start/Ps Vụt/R ào/V ra/V ,/CH ôi/T ,/CH kỷ_niệm/N .../X end/P_s
+start/Ps Cuộc_sống/N vẫn/R như/C xưa/N ,/CH ồn_ào/A ,/CH nghịch_ngợm/A ./CH end/P_s
+start/Ps Năm/N nay/P rét/A muộn/A nên/C rét/A dữ/A ./CH end/P_s
+start/Ps Anh/N là/V biệt_động/N của/E Quảng_Ngãi/Np ./CH end/P_s
+start/Ps Thư/N cho/E Phong/Np ,/CH mình/P viết/V :/CH “/CH Còn/R nhớ/V không/R Phong/Np ,/CH dạo/N lớp/N 10/M ,/CH Phong/Np đọc/V trước/E lớp/N bài/N Đường/N chúng_ta/P đi/V khiến/V hai/M đứa/Nc mình/P cảm_động/V ./CH end/P_s
+start/Ps Hơn/A 30/M năm/N đã/R trôi/V qua/V ,/CH nỗi/Nc đau_đớn/A của/E một/M tuổi_trẻ/N trong_veo/A như/C vẫn/R còn/R làm/V đau/V người/N đọc/V .../X end/P_s
+start/Ps Cái/Nc ôtô/N lăn/V bánh/N qua/V cầu/N Long_Biên/Np ./CH end/P_s
+start/Ps Bố_mẹ/N yếu/A đi/R nhiều/A ,/CH gầy/A đi/R nhiều/A ./CH end/P_s
+start/Ps Không/R biết/V bao_giờ/P mới/R như/C Trường_Phước/Np Mãi/R hôm_nay/N mới/R thực/A đông/N về/V .../X end/P_s
+start/Ps Bọn/Nc nó/P trốn/V về/V nhiều/A ,/CH có_lẽ/X vì/E không/R chịu/V được/R cái/T cảnh/N nhớ_nhung/V đáng/R sợ/V này/P ./CH end/P_s
+start/Ps Nghĩ/V về/E Hà_Nội/Np là/V nghĩ/V về/E N.Anh/X ,/CH nghĩ/V đến/E những/L ngày/N bên/N nhau/N đi/V trong/E hương/N đêm/N mùa/Nc hè/N ,/CH của/E đêm/N mùa/Nc thu/N .../X end/P_s
+start/Ps Giờ_phút/N Phong/Np bảo/V con_người/N với/C đất_nước/N là/V một/M và/C người/Nc lính/N trở_thành/V con_người/N lý_tưởng/N của/E thời_đại/N ”/CH ./CH end/P_s
+start/Ps Nghe/V phong_thanh/A trên/E bộ/N lấy/V lính/N lái/V xe_tăng/N ,/CH tụi/Nc nó/P thích/V lắm/R ./CH end/P_s
+start/Ps Đó/P mới/R là/V điều/N quan_trọng/A ./CH end/P_s
+start/Ps Chờ_đợi/V tăm_tích/N những/L lá/Nc đơn/N đã/R thấy/V mòn_mỏi/A ./CH end/P_s
+start/Ps Hỏi/V ,/CH nó/P chỉ/V vào/E lá/Nc đơn/N xin/V hợp_thức_hóa/V ,/CH trong/E đó/P ông/Nc chủ_tịch/N phường/N phê/V :/CH yêu_cầu/V sửa/V lại/R bản_vẽ/N vì/E sát/A cạnh/N nhà/N không/R còn/R là/V hẻm/N đất/N ./CH end/P_s
+start/Ps Đã/R hơn/A ba/M năm/N kể/E từ/E khi/N tôi/P đến/V khu/N ao/N cá/N (/CH P./X 3/M ,/CH Gò_Vấp/Np )/CH thực_hiện/V một_số/L bài/N viết/V theo/V yêu_cầu/N bạn_đọc/N về/E việc/Nc UBND/Ny quận/N phá/V vỡ/V qui_hoạch/N ,/CH cũng/R là/V hơn/A ba/M năm/N tôi/P được/V các/L bác/N kể/V cho/V nghe/V từng/R sự_kiện/N ,/CH từng/R bước_tiến/N ,/CH bước/N lùi/V của/E quá_trình/N đấu_tranh/V ,/CH khiếu_nại/V ./CH end/P_s
+start/Ps ”/CH ./CH end/P_s
+start/Ps Mấy/L tháng/N chạy_vạy/V ,/CH liên_hệ/V ,/CH chờ_chực/V ở/E Văn_phòng/N kiến_trúc_sư/N trưởng/S ,/CH tận_dụng/V tất_cả/P các/L mối/N quen_biết/V ,/CH cuối_cùng/A ông/Nc Võ_Kim_Cương/Np đã/R đích_thân/P xuống/V thực_địa/N ,/CH lại/R xin/V được/R tấm/Nc bản_đồ/N qui_hoạch/V của/E P./X 3/M ./CH end/P_s
+start/Ps Rồi/C có/V tin/N ông/Nc trưởng_đoàn/N thanh_tra/N bị/V cách_chức/V ./CH end/P_s
+start/Ps Hơn/A bốn/M tháng/N ,/CH cuối_cùng/A quận/N cũng/R ra/V quyết_định/N xử_phạt/V hành_chính/N ,/CH buộc/V tháo_dỡ/V vì/E xây_dựng/V trái_phép/A trên/E đất/N công/A ./CH end/P_s
+start/Ps Năm/N 1999/M -/CH 2000/M ./CH end/P_s
+start/Ps Khu_vực/N trước/A cửa/N nhà/N ông/Nc Mại/Np mới/R thấy/V phân/V lô/N bán/V nền/N hóa_ra/X từ/E trước/A đã/R được/R qui_hoạch/V làm/V trường/N tiểu_học/N ./CH end/P_s
+start/Ps Chỉ/R cần/V hỏi/V dân/N ,/CH chứng_cớ/N nằm/V ngay/R trong/E hồ_sơ/N nhà_đất/N của/E từng/R hộ/N ,/CH và/C tất_nhiên/A ,/CH trong/E tủ_sắt/N của/E các/L phường/N ,/CH quận/N ./CH end/P_s
+start/Ps Bên/N P./X 17/M nghe/V nói/V cũng/R sôi_sục/V lắm/R ./CH end/P_s
+start/Ps Thấy/V mấy/L người/N đến/V đo/V đo/V ,/CH vẽ/V vẽ/V bên/N con/Nc hẻm/N sát/A nhà/N ,/CH chắc/V là/C sắp/R tiến_hành/V mở_rộng/V ,/CH không/R biết/V nhà/N mình/P có/V bị/V đụng_chạm/V gì/P ,/CH có/V phải/V dời/V sân/N ,/CH thu_hẹp/V nhà/N không/R .../X end/P_s
+start/Ps Hẻm/N vẫn/R bị/V bít/V ,/CH ngôi/Nc nhà/N vẫn/R tồn_tại/V ,/CH không/R bị/V tháo_dỡ/V ,/CH cưỡng_chế/V ./CH end/P_s
+start/Ps Thế/R nhưng/C ông/Nc chủ_tịch/N quận/N lại/R không/R đồng_ý/V ,/CH đôi_co/V ,/CH cãi_cọ/V và/C khẳng_định/V thanh_tra/V sai/A ./CH end/P_s
+start/Ps Năm/N 2002/M ./CH end/P_s
+start/Ps Con/Nc hẻm/N là/V lối/N đi/V của/E cả/P tổ/N 95/M này/P ,/CH không/R chỉ/R là/V tiện_lợi/A mà_còn/C là/V lối/N thoát/V hiểm/A nữa/R ./CH end/P_s
+start/Ps Thế/R nhưng/C có/V cái/N gì/P đó/P đã/R bị/V tháo_dỡ/V trong/E lòng/N mình/P ,/CH trong/E lòng/N những/L người/Nc dân/N ở/E đây/P ./CH end/P_s
+start/Ps Cuộc/Nc đấu_tranh/V của/E các/L bác/N đã/R bắt_đầu/V trước/E đó/P nhiều/A năm/N ,/CH từ/E 1999/M ./CH end/P_s
+start/Ps Mình/P và/C bà_con/N đã/R bỏ_phiếu/V bầu/V ra/R những/L người/Nc lãnh_đạo/N đâu/R phải/V là/C để/E bảo_vệ/V quyền_lợi/N bất_hợp_pháp/A như_vậy/X ./CH end/P_s
+start/Ps Nhà/N mình/P có_thể/A chưa/R cần/V sổ_đỏ/N ,/CH nhưng/C việc/N làm/V cho/V rõ/A trắng_đen/A thì/C không_thể/R dừng/V lại/R ./CH end/P_s
+start/Ps So_sánh/V với/E thực_tế/N :/CH những/L dãy/Nc nhà/N to_nhỏ/A san_sát/A ,/CH chen_chúc/V nhau/N ,/CH áp/V sát/A và/C chồng/V lên/R hàng_rào/N sân_bay/N ,/CH hàng/R trăm/M con/Nc hẻm/N quanh_co/A ,/CH chật_chội/A ./CH end/P_s
+start/Ps TT/Ny -/CH Báo/N vừa/R đăng/V tin/N ông/Nc Trần_Kim_Long/Np -/CH chủ_tịch/N UBND/Ny Q./X Gò_Vấp/Np (/CH TP./X HCM/Np )/CH -/CH bị/V bắt/V ,/CH tôi/P liền/R nhận/V được/R mấy/L cú/Nc điện_thoại/N của/E các/L bác/N hưu_trí/V P./X 3/M ,/CH Gò_Vấp/Np :/CH “/CH Vậy/P là/C thành_công/V được/R một_nửa/M rồi/R ,/CH nhà_báo/N ạ/I .../X end/P_s
+start/Ps Chỉ/R tính/V riêng/A khu/N ao/N cá/N ,/CH lượng/N đất/N công/A biến/V thành/V đất/N tư/A đã/R lên/V đến/T hàng/R chục/M ngàn/M mét_vuông/N ,/CH qui/V ra/R vàng/N ,/CH ra/V tiền/N .../X end/P_s
+start/Ps Những/L người/N đã/R ký/V giấy/N cắt/V đất/N ,/CH cấp/V nhà/N cứ/R luôn/R miệng/N thanh_minh/V ,/CH giải_thích/V rằng/C đó/P là/V do/E nhu_cầu/N của/E người/Nc dân/N ,/CH những/L người/N đã/R bị/V giải_tỏa/V nhà/N ở/E đâu_đó/P và/C không/R có/V chỗ/N ở/V ./CH end/P_s
+start/Ps Bà_con/N nhìn/V nhau/N ,/CH và/C mừng/V ./CH end/P_s
+start/Ps Thở_phào/V ./CH end/P_s
+start/Ps Ở/E nhà/N mỗi/M người/N ,/CH đơn/N khiếu_nại/V ,/CH tài_liệu/N chồng/V từng/R xấp/N dày/A .../X end/P_s
+start/Ps Một/M cán_bộ/N hưu_trí/V kể/V Đưa/V đơn/N lên/E UBND/Ny quận/N ,/CH chờ_đợi/V .../X end/P_s
+start/Ps Cả/P phường/N ,/CH cả/P quận/N rộn/V lên/R vì/E khiếu_nại/V ,/CH lần/N nào/P họp/V chi_bộ/N cũng/R nghe/V bàn/V về/E đất_đai/N ,/CH nhà_cửa/N ./CH end/P_s
+start/Ps Một/M buổi/N sáng/N ,/CH đứa/Nc con_trai/N đi/V làm/V giấy_tờ/N nhà/N về/R mặt_mày/N đỏ_bừng/A ./CH end/P_s
+start/Ps Theo/E những/L gì/P chúng_tôi/P biết/V ,/CH dân/N biết/V thì/C thanh_tra/N kết_luận/V đúng/A ,/CH nhưng/C chưa/R hết/V ./CH end/P_s
+start/Ps Mấy/L ông/N bên/N thanh_tra/N nhân_dân/N đã/R tìm/V ra/R được/R một/M biên_bản/N kết_luận/V của/E thanh_tra/N quận/N về/E việc/Nc sử_dụng/V đất/N ở/E P./X 3/M từ/E 1996/M ,/CH trong/E đó/P có/V cả/P một/M miếng/Nc đất/N đã/R được/V cấp/V để/E đổi/V lấy/V xe/N Jeep/Nb ./CH end/P_s
+start/Ps Bực/V vì/E đường/N xa/A thì/C ít/A ,/CH bực/V vì/E chuyện/N đổi/V trắng/A thay/V đen/A thì/C nhiều/A ./CH end/P_s
+start/Ps Trên/E giấy_tờ/N không/R thấy/V nói/V gì/P chuyện/N qui_đổi/V ,/CH mua_bán/V ./CH end/P_s
+start/Ps Dân/N thắc_mắc/V ,/CH cán_bộ/N phường/N trả_lời/V :/CH quận/N lấy/V đất/N để/E trả/V công/N san_lấp/V mặt_bằng/N ./CH end/P_s
+start/Ps Mọi/L chuyện/N không_thể/R chìm_xuồng/V ./CH end/P_s
+start/Ps "/CH ./CH end/P_s
+start/Ps Bà_con/N biết/V chuyện/N này/P ,/CH quyết_tâm/V làm/V rõ/A vụ_việc/N càng/R cao/A hơn/R .../X end/P_s
+start/Ps Bà_con/N lắc_đầu/V ngán_ngẩm/V ,/CH nhưng/C chúng_tôi/P không/R tin/V ,/CH chúng_tôi/P phải/V tiếp_tục/V .../X end/P_s
+start/Ps Quả/T là/V việc/Nc đấu_tranh/V để/E bảo_vệ/V những/L thành_quả/N cách_mạng/N không/R hề/T đơn_giản/A ./CH end/P_s
+start/Ps Té_ra/X lại/R là/V chuyện/N lớn/A ,/CH không/R phải/V nhà/N mình/P bị/V thu/V vào/R để/E mở_rộng/V hẻm/N mà/C là/C con/Nc hẻm/N bị/V người/N khác/A đổ/V gạch/N đá/N xây/V thành/V nhà/N ./CH end/P_s
+start/Ps Cả/P xóm/N xúm/V lại/R ,/CH ngồi_bệt/V xuống/V nền/N nhà/N mà/C xem/V bản_đồ/N ./CH end/P_s
+start/Ps Mọi/L người/N trong/E xóm/N đều/R bực_dọc/V ,/CH không/R yên/A mỗi/M khi/N đi/V vòng/V qua/V các/L con/Nc hẻm/N ngoắt_ngoéo/A đằng/N trước/A đằng/N sau/A để/E ra/V đường/N ./CH end/P_s
+start/Ps Con/Nc đường/N hợp_thức_hóa/V như/C thế_nào/P ?/CH ”/CH ,/CH đọc/V lên/R mà/C đau/A ,/CH mà/C không_thể/R dừng/V lại/R ./CH end/P_s
+start/Ps mấy_mươi/L mà/C quận/N không/R trả_lời/V ,/CH cũng/R không/R bác/V đơn/N ,/CH và/C như/C thế/P thì/C không_thể/R khiếu_nại/V lên/R cấp/N cao/A hơn/R được/R ./CH end/P_s
+start/Ps Nhưng/C chúng_tôi/P vẫn/R cứ/R phải/V tiếp_tục/V .../X end/P_s
+start/Ps Không_thể/R chấp_nhận/V được/R ./CH end/P_s
+start/Ps Cánh/N cửa/N cơ_quan_chức_năng/N nào/P cũng/R có_vẻ/X như/C quá/R hẹp/A ,/CH đơn/N thư/N đưa/V đến/R cứ/R chồng_chất/V ,/CH phủ/V bụi/N ./CH end/P_s
+start/Ps Cả/P chi_bộ/N ,/CH cả/P mấy/L chi_bộ/N cùng/A nhau/N vào_cuộc/V ./CH end/P_s
+start/Ps Đơn/N khiếu_nại/V của/E tổ_dân_phố/N gửi/V đến/E lần/N thứ/N .../X end/P_s
+start/Ps Sau/E một/M năm/N ,/CH UBND/Ny quận/N đã/R đảo_ngược/V quan_điểm/N ,/CH cho/V rằng/C qui_hoạch/N hẻm/N được/V duyệt/V sau/E khi/N việc/N sang_nhượng/V diễn/V ra/R ./CH end/P_s
+start/Ps Trong/E bản_đồ/N ,/CH khu_vực/N ao/N cá/N hiện/V ra/R với/E những/L dải/Nc cây_xanh/N rộng/A ,/CH phân_cách/V khu/N dân_cư/N với/E sân_bay/N ,/CH những/L công_viên/N ,/CH trường_học/N ,/CH đường/N rộng/A ,/CH thẳng_tắp/A .../X end/P_s
+start/Ps Bà_con/N cả/P tổ/N đều/R đồng_lòng/A ký_tên/V vào/E đơn/N khiếu_nại/V ./CH end/P_s
+start/Ps Ông/Nc chủ_tịch/N quận/N bị/V bắt/V ./CH end/P_s
+start/Ps Thế_là/C cuộc/N đấu_tranh/V đã/R bắt_đầu/V có/V kết_quả/N ./CH end/P_s
+start/Ps Vô_lý/A quá/R ./CH end/P_s
+start/Ps Nhưng/C cứ/R chờ/V ,/CH cứ/R tiếp_tục/V gửi/V ,/CH cứ/R đến/V trụ_sở/N ban/N thanh_tra/N ,/CH phòng/N tiếp/V dân/N để/E đợi/V tin_tức/N ./CH end/P_s
+start/Ps Cuối_cùng/N cũng/R có/V kết_luận/N ./CH end/P_s
+start/Ps Và/C sững_sờ/A ,/CH hiểu/V được/R vì/E sao/P ông/Nc phó/S kiến_trúc_sư/N trưởng/S cứ/R lắc_đầu/V mãi/R ./CH end/P_s
+start/Ps Thế/R nhưng/C không/R phải/A ./CH end/P_s
+start/Ps UBND/Ny phường/N khăng_khăng/V với/E quan_điểm/N :/CH đây/P không/R phải/A hẻm/N chung/A mà/C là/V đất/N thuộc/V sở_hữu/N của/E nhà/N ông/Nc hàng_xóm/N ./CH end/P_s
+start/Ps Cũng/R có/V những/L ý_kiến/N e_ngại/V về/E việc/Nc đảng_viên/N không/R được/V ký_tên/V tập_thể/N cùng/C quần_chúng/N ,/CH nhưng/C đa_số/N đều/R thuận/A lòng/N ./CH end/P_s
+start/Ps Thế_là/C trường_học/N không/R có/V ./CH end/P_s
+start/Ps “/CH Đoàn/N thanh_tra/V thành_phố/N xuống/V làm_việc/V cả/P tháng/N ,/CH chúng_tôi/P hồi_hộp/V theo_dõi/V tin_tức/N ./CH end/P_s
+start/Ps Không_thể/R được/R ./CH end/P_s
+start/Ps Ông/Nc Sơn/Np ở/E chi_bộ/N bên/N đã/R bị/V kỷ_luật/V ,/CH cách_chức/V thanh_tra/N nhân_dân/N ,/CH bản_thân/N tôi/P cũng/R bị/V mang_tiếng/V bươi/V móc/V ,/CH bị/V gọi/V lên/R ủy_ban/N làm_việc/V nhiều/A lần/N ./CH end/P_s
+start/Ps Nhưng/C đã/R đấu_tranh/V thì/C phải/V chấp_nhận/V ,/CH biết/V làm_sao/X được/R ./CH end/P_s
+start/Ps Năm/N 2001/M ./CH end/P_s
+start/Ps Hỏi/V ,/CH họ/P đưa/V giấy_tờ/N mua_bán/V đã/R được/V phường/N xác_nhận/V ./CH end/P_s
+start/Ps Các/L chủ/N nhà/N đều/R cho/V biết/V phải/V mua/V đất/N bằng/E tiền/N ,/CH rất/R nhiều/A tiền/N ,/CH nhiều/A vàng/N ./CH end/P_s
+start/Ps Năm/N 2005/M ./CH end/P_s
+start/Ps Bây_giờ/P M./X ra/V đi/V không/R gặp/V Thùy/Np ,/CH như/C lá/Nc thư/N M./X viết/V lại/R :/CH “/CH Sự/Nc sống/V của/E tình_yêu/N không/R cần/V sự/Nc có_mặt/V của/E nhau/N ,/CH dù/C ở/E Nam/Np hay/V Bắc/Np ,/CH dù/C là/C gần/A nhau/N hay/C cách/V ngàn/M dặm/Nu đường/N nắng_mưa/N cát/N bỏng/A .../X end/P_s
+start/Ps không/R có/V những/L giây_phút/N ấm_áp/A giữa/E bạn_bè/N bên/N lọ/N hoa/N nhỏ/A với/E những/L bông/Nc hồng/N thơm_ngát/A để/V trên/E bàn/N ./CH end/P_s
+start/Ps Đời/N người/N ai/P cũng/R chết/V một/M lần/N ./CH end/P_s
+start/Ps Nhớ/V ba/N ,/CH nhớ/V má/N ,/CH nhớ/V những/L người/N vừa/R ra/V đi/V .../X end/P_s
+start/Ps Nhưng/C cuộc_đời/N thật/R lắm/A nỗi/Nc éo_le/A ./CH end/P_s
+start/Ps Không_thể_nào/R mình/P lại/R nghĩ/V sự_việc/N như/C bây_giờ/P ./CH end/P_s
+start/Ps ”/CH ./CH end/P_s
+start/Ps không_thể/R đáp_ứng/V với/E trái_tim/N sôi_nổi/A yêu_thương/V của/E mình/P ./CH end/P_s
+start/Ps Thùy_Trâm/Np quá/R đặc_biệt/A và/C quá/R nhiều/A điều/N em/N kể/V cho/E chúng_tôi/P ngay/R cũng/R như/C chúng_tôi/P kể/V cho/E gia_đình/N em/N khiến/V điều/N đó/P càng/R trở_nên/V rất/R rõ/A nét/N ./CH end/P_s
+start/Ps Có/V một/M người/Nc con_gái/N tuổi/N 20/M (/CH kỳ/N 5/M )/CH :/CH Nỗi/Nc buồn/V người/Nc con_gái/N ./CH end/P_s
+start/Ps không/R buồn/V khi/N lễ/N kỷ_niệm/V sinh_nhật/N của/E Th/Np chỉ/R có/V lá/N rừng/N ướt_đẫm/A trong/E mưa/N dào_dạt/A khẽ/A nói/V với/E Th/Np những/L lời/N thân_mến/A ./CH end/P_s
+start/Ps 12.4.68/X ./CH end/P_s
+start/Ps bỗng_dưng/R mình/P buồn/V vô_kể/R ./CH end/P_s
+start/Ps Bài/Nc thơ/N tràn_ngập/A niềm/Nc mến_yêu/V chân_thành/A và/C nỗi/Nc đau_xót/A trước/E mối/N tình/N tan_vỡ/V của/E mình/P ./CH end/P_s
+start/Ps Hãy/R nhìn/V lại/R đi/R ,/CH bên/N cạnh/N Thùy/Np có/V bao_nhiêu/P đồng_chí/N ,/CH bao_nhiêu/P thanh_niên/N đã/R cống_hiến/V tuổi_trẻ/N của/E họ/P cho/E cách_mạng/N ,/CH họ/P ngã/V xuống/R chưa/R hề/R được/V hưởng/V hạnh_phúc/N ./CH end/P_s
+start/Ps Một/M bài/Nc thơ/N làm/V tặng/V cho/E mình/P ,/CH bài/Nc thơ/N của/E một/M thương_binh/N đang/R nằm/V viện/N ,/CH xuất_phát/V từ/E lòng/N mến_thương/V cảm_phục/V đối_với/E một/M người/Nc bác_sĩ/N đã/R chăm_sóc/V anh/N và/C mọi/L bệnh_nhân/N khác/A một_cách/N tận_tình/A ./CH end/P_s
+start/Ps Ở/E đây/P Th/Np thiếu/V nhiều/A nhưng/C cũng/R rất/R đầy_đủ/A ./CH end/P_s
+start/Ps Hoa/N thơm/A phải/V được/V tưới/V bằng/E nước/N mát/A trong_lành/A ./CH end/P_s
+start/Ps Hãy/R lấy/V niềm/Nc tự_hào/A mà/C quên/V đi/R thất_vọng/V ./CH end/P_s
+start/Ps Hôm_nay/N đọc/V lại/R những/L lá/Nc thư/N từ/E ngoài/N Bắc/Np ,/CH thư/N của/E Thái/Np ,/CH của/E Phương/Np ,/CH của/E cậu/N Hiền/Np .../X end/P_s
+start/Ps Dĩ_nhiên/A lòng/N con/N bao_giờ/P cũng/R ao_ước/V được/V trở/V về/E với/E mẹ/N với/E ba/N ,/CH với/E miền/N Bắc/Np ngàn_vạn/M yêu_thương/V ./CH end/P_s
+start/Ps Thư/N Frederic_Whitehurst/Np gửi/V Đặng_Kim_Trâm/Np ./CH end/P_s
+start/Ps Bên/N trong/E nỗi/Nc nhớ/V hình_như/X có/V một/M nỗi/Nc buồn/A sâu_kín/A ,/CH thầm_lặng/A nhưng/C rất/R nặng_nề/A ./CH end/P_s
+start/Ps Lúc/N ở/E Texas/Np tôi/P nói/V với/E mọi/L người/N rằng/C đó/P có_thể/R là/V ý_tưởng/N của/E tôi/P nhưng/C ý_tưởng/N đó/P sinh/V ra/V từ/E khi/N tôi/P nhìn/V thấy/V những/L đứa/Nc trẻ/N bị/V đốt/V cháy/V ở/E Quảng_Ngãi/Np bao_nhiêu/P năm/N về/V trước/A ./CH end/P_s
+start/Ps Ở/E đâu/P anh/N cũng/R vẫn/R là/V anh/N của/E tám/M năm/N qua/V và/C nhiều/A năm/N nữa/R để/E mà/C yêu/V em/N tha_thiết/A ./CH end/P_s
+start/Ps Tôi/P sẽ/R rất/R vinh_dự/A nếu/C được/V trả/V tiền/N mời/V mẹ/N các/L bạn/N đến/V để/E cầm/V hai/M quyển/Nc nhật_ký/N ,/CH hoặc/C là/C Kim/Np hoặc/C Hiền/Np hoặc/C Hồ_Nam/Np đều/R được/V ./CH end/P_s
+start/Ps M./X đã/R không/R làm/V được/R như/C vậy/P và/C mình/P đã/R bắt/V con/Nc tim/N mình/P phải/V quên/V đi/R những/L gì/P đã/R nuôi/V sống/V nó/P trong/E hơn/A mười/M năm/N nay/P ./CH end/P_s
+start/Ps Cuộc_đời/N đã/R dành/V cho/E ta/P một/M đoạn/Nc đường/N như/C vậy/P thì/C hãy/R ráng/V mà/C đi/V ,/CH bao_giờ/P gặp/V lại/R nhau/N hãy/R nói/V tiếp/R đến/E tương_lai/N ./CH end/P_s
+start/Ps Nhưng/C nỗi/Nc buồn/A còn/V vì/E lá/Nc thư/N của/E mẹ/N ,/CH lá/Nc thư/N ngắn_ngủi/A ,/CH có/V giấu/V nỗi/Nc đau_buồn/V và/C thương_nhớ/V nhưng/C nỗi/Nc đau_buồn/V ấy/P vẫn/R toát/V lên/V dù/E chỉ/R trong/E một_vài/L chữ/N mẹ/N chưa/R cân_nhắc/V kỹ/A trước/E khi/N viết/V ./CH end/P_s
+start/Ps Tôi/P không/R giàu/A nhưng/C cũng/R không/R quá/R nghèo/A đến/T mức/N gia_đình/N tôi/P phải/V phản_đối/V mong_muốn/V đó/P ./CH end/P_s
+start/Ps Chia_tay/V -/CH những/L cuộc/Nc chia_tay/V trên/E mảnh/Nc đất/N khói_lửa/N này/P ai/P mà/C biết/V được/R ngày/N gặp/V lại/R như/C thế_nào/P ,/CH có/V hay_là/C không/R có/V ./CH end/P_s
+start/Ps và/C nhớ/V cả/T một/M người/Nc bệnh_nhân/N đang/R chờ/V mình/P đến/V với/E anh/N nữa/R ./CH end/P_s
+start/Ps Mình/P không/R hề/T đòi_hỏi/V phải/V gần/A nhau/N ,/CH phải/V cưới/V nhau/N mà/C chỉ/R mong/V rằng/C dù/E giữa/E bom/N rơi/V đạn/N nổ/V ,/CH giữa/E lửa_khói/N chiến_trường/N tình_yêu/N vẫn/R sáng_ngời/A rực_rỡ/A ./CH end/P_s
+start/Ps Chúc/V Thùy/Np vững/A bước/V trên/E con/Nc đường/N vinh_quang/A mà/C Th/Np đã/R chọn/V ./CH end/P_s
+start/Ps Chúc/V M./X ,/CH người/N đồng_chí/N yêu_thương/V ,/CH lên_đường/V bình_an/A ./CH end/P_s
+start/Ps Và/C tôi/P có_thể/R nhìn/V thấy/V bác_sĩ/N Đặng/Np tiếp_tục/V sự_nghiệp/N y_tế/N của/E mình/P ngay/R cả/T khi/N chị/N đã/R chết/V đi/R ,/CH tiếp_tục/V chăm_sóc/V đồng_bào/N mình/P bằng/E chính/T câu_chuyện/N của/E chị/N ./CH end/P_s
+start/Ps Ở/E đây/P Th/Np ./CH end/P_s
+start/Ps Hạnh_phúc/N trong/E tình_yêu/N đã/R không/R đến/V với/E mình/P ./CH end/P_s
+start/Ps Dù_sao/C vết_thương/N lòng/N vẫn/R đang/R rỉ/V máu/N ,/CH dù/C mình/P có/V muốn/V lấy/V công_việc/N ,/CH lấy/V mọi/L nỗi/Nc nhớ/V khác/A để/V lên/V trên/N nó/P vẫn/R trỗi/V dậy/V xót_xa/A vô_cùng/R ./CH end/P_s
+start/Ps Sao/P Th/Np lại/R nghĩ/V đến/V riêng_tư/A ./CH end/P_s
+start/Ps Và/C chúng_tôi/P đã/R tìm/V được/R gia_đình/N em/N ./CH end/P_s
+start/Ps Cô/N gái/N có_thể/R nhận/V thấy/V vẻ/N đẹp/A ngay/T giữa/N cuộc/Nc chiến_tranh/N đó/P quá/R đặc_biệt/A ,/CH không_thể/R bị/V giấu/V kín/A mà/C không/R cho/V mọi/L người/N cùng/A biết/V .../X end/P_s
+start/Ps Rừng/N chiều/N sau/E một/M cơn/Nc mưa/V ,/CH những/L lá/N cây/N xanh/A trong/A trước/E ánh/Nc nắng/N ,/CH mỏng_mảnh/A xanh/A gầy/A như/C bàn_tay/N một/M cô/N gái/N cấm_cung/V ./CH end/P_s
+start/Ps Thùy/Np đã/R cho/V chúng_ta/P mọi/L hi_vọng/N về/E tương_lai/N ./CH end/P_s
+start/Ps Ở/E đây/P Th/Np không/R có/V cái/Nc hạnh_phúc/N đi/V cạnh/N người_yêu/N trên/E con/Nc đường/N vắng/A khi/N ánh/Nc chiều/N tím/A dần/R trong/E buổi/N hoàng_hôn/N ./CH end/P_s
+start/Ps Mình/P đã/R gặp/V lại/R M./X ./CH end/P_s
+start/Ps Phải_chăng/X vì/E đây/P là/V thời_gian/N cuối_cùng/A anh/N có_thể/R đến/V thăm/V em/N trước/E lúc/N lên_đường/V ,/CH nhưng/C thời_gian/N ấy/P đã/R trôi/V đi/R và/C như/C vậy/P là/V không/R gặp/V anh/N trước/E khi/N chia_tay/V ./CH end/P_s
+start/Ps Anh/Nc Robert/Np và/C tôi/P đã/R nghĩ/V rằng/C nếu/C không/R tìm/V được/R gia_đình/N chị/N thì/C chúng_tôi/P sẽ/R xuất_bản/V một/M cuốn/Nc sách/N về/E chị/Nc Thùy/Np và/C gia_đình/N em/N -/CH nếu/C còn/V sống/V -/CH sẽ/R biết/V về/E chị/N ./CH end/P_s
+start/Ps Hãy/R quên/V đi/V mà/C tìm/V lại/R niềm/Nc hi_vọng/V mới_mẻ/A xanh/A tốt/A trong_lành/A hơn/A ./CH end/P_s
+start/Ps Cách/N giải_quyết/V đó/P cũng/R được/V ./CH end/P_s
+start/Ps Đừng/V nhìn/V ra/E Bắc/Np ,/CH hãy/R nhìn/V ở/E đây/P ,/CH ở/E mảnh/Nc đất/N còn/V nóng_bỏng/A đạn/N bom/N đau_thương/A và/C lửa_khói/N này/P ./CH end/P_s
+start/Ps Ngoài/N ấy/P ai/P cũng/R mong/V mình/P hạnh_phúc/A ,/CH ai/P cũng/R tưởng/V mình/P hạnh_phúc/A khi/N gặp/V lại/R M/Ny .../X end/P_s
+start/Ps Và/C căn/Nc phòng/N mà/C Th/Np đang/R ngồi/V để/E ghi/V lên/R trang/Nc vở/N đời/N của/E mình/P thêm/V một/M trang/Nc mới/A chính/T là/V chiếc/Nc hầm/N chật_chội/A ướt_át/A này/P ./CH end/P_s
+start/Ps Đọc/V bài/N thơ/N .../X end/P_s
+start/Ps Hãy/R sống/V với/E nhau/N như/C một/M người/N thân_yêu/A nhất/A trên/E đời/N ./CH end/P_s
+start/Ps hôm_nay/N chỉ/R có/V dòng/N suối/N ào_ào/A tuôn/V nước/N về/E xuôi/N ./CH end/P_s
+start/Ps Và/C tôi/P không/R biết/V phải/V làm/V thế_nào/X ./CH end/P_s
+start/Ps Khi/N xa/V nhau/N mình/P đã/R thiết_tha/A thầm/A gọi/V tên/N M./X trong/E từng/R giây/Nu từng/R phút/Nu nhưng/C khi/N gặp/V nhau/N mình/P đã/R để/V cho/E lòng/N tự_ái/V ngự_trị/V lên/V trên/A tình_yêu/N ./CH end/P_s
+start/Ps Đó/P không/R phải/A một/M lời/N khoa_trương/V mà/C hoàn_toàn/A là/V sự_thật/N ./CH end/P_s
+start/Ps Rất/R lâu/A rồi/R mình/P không/R nghĩ/V đến/R M/Ny .../X end/P_s
+start/Ps Nhưng/C cuộc_đời/N sao/P lắm/A nỗi/Nc éo_le/A ./CH end/P_s
+start/Ps Đây/P mới/R là/V điều/N đáng/V buồn/A nhất/R trong/E quan_hệ/N với/E M./X ./CH end/P_s
+start/Ps Quyền/N quyết_định/V là/V hoàn_toàn/A do/E em/N .../X end/P_s
+start/Ps Một/M nỗi/Nc nhớ/V mênh_mang/A bao_trùm/V quanh/N mình/P ./CH end/P_s
+start/Ps Dù/C anh/Nc Thiết/Np ,/CH dù/E Hào/Np ,/CH Nghinh/Np .../X end/P_s
+start/Ps Bác_sĩ/N Đặng_Thùy_Trâm/Np là/V một/M anh_hùng/N đối_với/E toàn/L thế_giới/N ./CH end/P_s
+start/Ps Anh/N ta/P nói/V lên/R những/L lời_nói/N xót_xa/A cay_đắng/A của/E một/M cô/N gái/N bị/V người_yêu/N phụ_bạc/V ./CH end/P_s
+start/Ps Ở/E đây/P mình/P cũng/R sẽ/R dành/V trọn/A cuộc_sống/N cho/E chiến_đấu/V và/C công_tác/N -/CH không_thể_nào/R có/V tình_yêu/N được/R và/C M./X ở/E đó/P chắc/V cũng/R không_thể_nào/R có/V được/R một/M tình_yêu/N chân_chính/A khi/N nghĩ/V đến/E ai/P khác/A ngoài/E mình/P ./CH end/P_s
+start/Ps Không_khí/N trầm_lặng/A và/C buồn/V lạ_lùng/A ./CH end/P_s
+start/Ps Th/Np ơi/T ,/CH Th/Np ./CH end/P_s
+start/Ps Anh/N ta/P tìm_hiểu/V kỹ/A về/E mình/P và/C viết/V bài/Nc thơ/N tặng/V mình/P ./CH end/P_s
+start/Ps Chiều/N nay/P sao/P buồn/A da_diết/A ./CH end/P_s
+start/Ps Hai/M tuần/N qua/V đã/R chứng_minh/V điều/N đó/P ./CH end/P_s
+start/Ps Gửi/V theo/V M./X ngàn_vạn/M nhớ_thương/V ,/CH tình/N nhớ_thương/V của/E một/M người/N bạn/N và/C một/M người/N đồng_chí/N ./CH end/P_s
+start/Ps 26.11.69/X ./CH end/P_s
+start/Ps M./X không/R phải/A là/V của/E riêng/A mình/P ,/CH đành_rằng/X M./X chỉ/R dành/V tình_yêu/N cao/A nhất/A cho/E Đảng/Np ,/CH cho/E nhân_dân/N ,/CH nhưng/C nếu/C để/V cho/E mình/P quá/R ít/A yêu_thương/V thì/C .../X end/P_s
+start/Ps Và/C mình/P đã/R lên_đường/V vào/V Nam/Np theo/V tiếng/N gọi/V của/E Tổ_quốc/N và/C tình_yêu/N ./CH end/P_s
+start/Ps Thêm/V một/M tuổi_đời/N ,/CH thêm/V một/M năm/N lửa_khói/V trên/E chiến_trường/N miền/N Nam/Np gian_khổ/A ./CH end/P_s
+start/Ps Ai/P cũng/R tưởng/V rằng/C hạnh_phúc/N đó/P không/R có/V gì/P sánh/V được/R ./CH end/P_s
+start/Ps Một_mình/X đã/R đủ/A giải_quyết/V rồi/T ,/CH một_mình/X đủ/A sức/N chôn/V sâu/A cả/T chín/M năm/N thương_yêu/V hi_vọng/V ấy/P xuống/V tận/E đáy/N đất/N sâu/A rồi/R -/CH mảnh/Nc đất/N tâm_hồn/N mình/P vẫn/R màu_mỡ/A ,/CH vẫn/R đủ/A sức/N để/E gieo/V lên/V đó/P một/M mùa/N hoa/N tươi/A đẹp/A được/R kia_mà/X ./CH end/P_s
+start/Ps .../X end/P_s
+start/Ps Th/Np không/R buồn/A vì/E sau_này/N mở/V lại/R những/L trang/Nc sổ/N này/P Th/Np sẽ/R tự_hào/V về/E những/L năm/N tuổi_trẻ/N của/E mình/P ./CH end/P_s
+start/Ps Tôi/P biết/V điều/N này/P giống/A như/C chuyện/N cổ_tích/N ,/CH nhưng/C chuyện/N cổ_tích/N cũng/R có_thể/R trở_thành/V sự_thật/N ./CH end/P_s
+start/Ps ai_ai/P đi_nữa/X đã/R cảm_thương/V san_sẻ/V với/E mình/P ,/CH mình/P vẫn/R không/R muốn/V ./CH end/P_s
+start/Ps Mẹ/N yêu/V ơi/T ,/CH nếu_như/C con/N của/E mẹ/N có/V phải/V ngã/V xuống/R vì/E ngày_mai/N thắng_lợi/V thì/C mẹ/N hãy/R khóc/V ít/A thôi/T mà/C hãy/R tự_hào/A vì/E các/L con/N đã/R sống/V xứng_đáng/A ./CH end/P_s
+start/Ps Cả/P khu/N nhà/N bệnh_nhân/N im_lặng/A ,/CH bên/N khu/N nhân_viên/N cũng/R chỉ/R nghe/V thấy/V tiếng/N Hường/Np rì_rầm/A trò_chuyện/V với/E ai/P ./CH end/P_s
+start/Ps Th/Np không/R buồn/A khi/N bản_nhạc/N mừng/V Th/Np ./CH end/P_s
+start/Ps Cho_nên/C Th/Np hãy/R cười/V đi/R ,/CH hãy/R vui/A đi/R khi/N vở/N đời/N mở/V sang/V một/M trang/Nc mới/A đầy/A vinh_quang/A ,/CH đẹp_đẽ/A ./CH end/P_s
+start/Ps Hỡi/I tất_cả/P mọi/L người/N ,/CH không/R cần/V tưới/V lên/V mảnh/Nc đất/N ấy/P những/L giọt/Nc lệ/N xót_thương/V đâu/P ./CH end/P_s
+start/Ps Tám/M năm/N về/E trước/N dưới/E rặng/Nc cây/N trên/E con/Nc đường/N cũ/A mình/P tiễn/V M./X đi/V Nam/Np ,/CH không/R một/M lời/N hứa_hẹn/V ,/CH không/R một/M giọt/Nc nước_mắt/N trong/E buổi/N chia_tay/V để/E rồi/C suốt/A năm/M năm/N sau/A mình/P dành/V trọn/A tình_yêu/N thiết_tha/A chung_thủy/A cho/E người/Nc giải_phóng_quân/N ấy/P ./CH end/P_s
+start/Ps Vì_thế/C ý_tưởng/N của/E em/N về/E một/M cuốn/Nc sách/N cũng/R trùng/V giống/A ý_tưởng/N của/E chúng_tôi/P ./CH end/P_s
+start/Ps Tôi/P đã/R nhượng/V quyền_sở_hữu/N của/E mình/P đối_với/E hai/M quyển/Nc nhật_ký/N này/P cho/E bảo_tàng/N ,/CH vì_thế/C tôi/P không_thể/R quyết_định/V về/E tương_lai/N của/E chúng/P nữa/R nhưng/C tôi/P muốn/V mẹ/N các/L bạn/N phải/V được/V sờ/V thấy/V những/L dòng/N chữ/N đó/P ,/CH sờ/V thấy/V những/L trang/Nc giấy/N và/C cảm_nhận/V được/R tình_yêu/N trong/E hai/M cuốn/Nc sách/N đó/P ./CH end/P_s
+start/Ps mình/P buồn/V vô_hạn/A ./CH end/P_s
+start/Ps Mẹ/N yêu/V ơi/T ,/CH con/N hiểu/V lòng/N mẹ/N héo_hon/A đau_xót/A khi/N con/N của/E mẹ/N còn/R phải/V lăn/V mình/N trong/E lửa_đạn/N ,/CH những/L lá/Nc thư/N của/E con/N ,/CH của/E các/L em/N gửi/V đến/E mẹ/N chỉ/R nói/V lên/R một/M phần/N vạn/M sự/Nc gian_khổ/A ác_liệt/A vậy_mà/C mẹ/N đã/R lo_lắng/V như/C vậy/P ./CH end/P_s
+start/Ps trôi_giạt/V khắp/A nơi/N ./CH end/P_s
+start/Ps “/CH Mây/N đen/A ”/CH cũng/R còn/R là/V sự/Nc u_ám/V ở/E những/L cảnh/N đời/N nghệ_sĩ/N có/V tuổi/N có/V tên/N nhưng/C qua/V thời/N ,/CH lỡ/V vận/N ./CH end/P_s
+start/Ps Tiền/N nhà/N mỗi/M tháng/N là/V nỗi/N lo/V thường_niên/A của/E ông/N ./CH end/P_s
+start/Ps ”/CH ./CH end/P_s
+start/Ps Tới/V tuổi/N này/P ông/N vẫn/R hát/V chính/A cho/E những/L đoàn/Nc hát_bội/N mùa/Nc cúng/V đình/N ./CH end/P_s
+start/Ps Bởi/E ,/CH ra_vô/V thì/C ngại/V phải/V đi/V ngang/V qua/V phòng/N gia_đình/N người_ta/P ./CH end/P_s
+start/Ps Sinh/V năm/N 1937/M ,/CH theo/V nghề/N hát/V từ/E hồi/N bé/N tí/A với/E nghệ_danh/N Hồng_Sáp/Np ,/CH bà/N đóng/V đủ/A thứ/Nc vai/N từ/E tì/N nữ/N ,/CH quân/N hầu/V ,/CH vũ_nữ/N cho/V tới/V đào/N độc/A ,/CH đào/N lẳng/V ./CH end/P_s
+start/Ps Xóm/N lao_động/N ít/A khách/N ,/CH vợ_chồng/N ông/N và/C vợ_chồng/N con_trai/N phải/V nhận/V may/V lại/R từ/E những/L tiệm/N lớn/A ,/CH tiền/N công/N chẳng/R bao_nhiêu/P ,/CH hàng/N lúc/N đắt/A lúc/N ế/A ./CH end/P_s
+start/Ps Có/V người/N đến/V thu/V tiền/N ,/CH ông/N bảo/V là/V tiền/N hụi/N ;/CH song/E bà/N vợ/N lại/R nói/V là/V tiền/N góp/V mượn/V 100.000/X đ/Nu trả/V 120.000/X đồng/Nu ,/CH khi/N ế/A khách/N vợ_chồng/N ông/N năn_nỉ/V mượn/V tiền/N kiểu/N này/P để/E chi_tiêu/V ./CH end/P_s
+start/Ps Bạn_bè/N cũng/R chẳng/R mấy_ai/X đến/V thăm/V ông/N ,/CH có/V phần/N do/E ông/N mặc_cảm/V không/R giao_du/V nên/C hoàn_cảnh/N không/R được/R biết/V đến/R ./CH end/P_s
+start/Ps Trên/E căn/Nc gác/N hóa_trang/V ở/E rạp/N Hưng_Đạo/Np ,/CH một/M nghệ_sĩ/N già/A ốm/A hom_hem/A ngồi/V lẫn/R trong/E đám/Nc “/CH quân_sĩ/N ”/CH đã/R thu_hút/V chúng_tôi/P bằng/E vẻ/N say_mê/V hát_xướng/V lồ_lộ/A qua/V từng/P nét/N vẽ/V hóa_trang/V cực_kỳ/R chăm_chút/V .../X end/P_s
+start/Ps Hồi/N ấy/P ông/N phong_độ/N với/E số/N cân/N trên/A 60/M kg/Nu ./CH end/P_s
+start/Ps Mỗi/M đêm/N hát/V ông/N được/V trả/V 150.000/X đồng/Nu ,/CH hai/M ,/CH ba/M tháng/N mới/R hát/V một/M suất/N ,/CH ngoài_ra/X ông/N sống/V bằng/E nghề/N may/A đồ/N hát/V lúc/N có/V lúc/N không/R cho/E cơ_sở/N Bạch_Nga/Np ./CH end/P_s
+start/Ps Dành_dụm/V mua/V được/V miếng/Nc đất/N sình_lầy/N ở/E quận/N 4/M cất/V cái/Nc nhà/N nhỏ/A ./CH end/P_s
+start/Ps HCM/Ny có/V khoảng/A 500/M nghệ_sĩ/N ,/CH công_nhân/N sân_khấu/N nghèo/A cần/V được/V giúp_đỡ/V ./CH end/P_s
+start/Ps Chỉ/R khoảng/A 12/M m2/Nu nhưng/C có/V đến/T năm/M con_người/N ăn_ở/V lẫn/R bảy/M máy/N may_vá/V nơi/N đây/P ,/CH lại/R không/R có/V nhà_vệ_sinh/N ,/CH phải/V đi/V vệ_sinh/V công_cộng/A ./CH end/P_s
+start/Ps Tuồng/N Song_kiếm/Np uyên_ương/N hôm/N mồng/N 10/M Tết/Np Ất_Dậu/Np ./CH end/P_s
+start/Ps Theo/E lời/N chỉ_dẫn/V của/E nhiều/A người/N ,/CH tôi/P tìm/V đến/V nơi/N ông/N trọ/V trong/E một/M con/Nc hẻm/N vòng_vèo/A ,/CH tối_tăm/A ở/E khu/N chợ/N Cầu_Muối/Np ./CH end/P_s
+start/Ps Song/C ông/N lại/R chắc/V lưỡi/N :/CH “/CH Tui/P có/V nghề/N còn/V đỡ/V ./CH end/P_s
+start/Ps Có/V những/L hoàn_cảnh/N rất/R đau_lòng/A :/CH không/R nhà_cửa/N ,/CH không/R con_cháu/N hoặc/C con_cháu/N quá/R khổ/A không/R lo/V được/R phải/V đi/V bán/V vé_số/N ,/CH đi/V ăn_xin/V ,/CH làm_thuê_làm_mướn/X .../X end/P_s
+start/Ps Ông/Nc Tần_Nguyên/Np -/CH phó/S Ban/Np Ái_hữu/Np nghệ_sĩ/N -/CH cho/V biết/V :/CH Ở/E TP/Ny ./CH end/P_s
+start/Ps Đến/V gặp/V bạn_bè/N thì/C mặc_cảm/V hồi/N xưa/N là/V kép/N chính/A ,/CH bầu/N gánh/N ,/CH có/V tiền/N giúp_đỡ/V người/N này/P người/N kia/P ,/CH họ/P đối_xử/V khác/A ;/CH bây_giờ/P nghèo/A ,/CH người_ta/P nghĩ/V mình/P đến/V xin/V tiền/N ,/CH mượn/V tiền/N ./CH end/P_s
+start/Ps Căn/Nc nhà/N nhiều/A tầng/N lầu/N nhưng/C cũ_kỹ/A ,/CH cáu/A bẩn/A ,/CH chuột/N to/A bằng/A bắp_chân/N chạy/V quanh/A ./CH end/P_s
+start/Ps Nghệ_sĩ/N cải_lương/N tuồng/N cổ/A -/CH hát_bội/N Ba_Lâm/Np từng/R là/V kép/N chính/A Đoàn_Minh_Tơ/Np hẳn_hoi/A ./CH end/P_s
+start/Ps Chúng_tôi/P giật_mình/V khi/N biết/V người/N phụ_nữ/N trông/V lam_lũ/A ,/CH hằng/R đêm/N lo/V phục_trang/N cho/E diễn_viên/N tại/E rạp/N Hưng_Đạo/Np cũng/R là/V nghệ_sĩ/N ./CH end/P_s
+start/Ps Trên/E sân_khấu/N ông/N vào_vai/V vua/N ,/CH điệu_bộ/N uy_nghi/A ,/CH vẻ/N mặt/N tinh_anh/A ,/CH giọng/N ca/V trầm/A ấm/A ,/CH song/C có_điều/X ông/N quá/R nhỏ_con/A với/E chiều/N cao/N 1,60/X m/Nu ,/CH nặng/A 44/M kg/Nu ./CH end/P_s
+start/Ps Song/C niềm/Nc tự_hào/A nghệ_sĩ/N của/E ông/N thì/C chẳng/R ai/P sánh/V bằng/A ./CH end/P_s
+start/Ps Một/M lần/N duy_nhất/A khiến/V ông/N cảm_động/V nhắc/V hoài/R là/V gần/A đây/P một/M anh/N công_nhân/N hậu_đài/N Đoàn_Huỳnh_Long/Np cũ/A tên/N Vượng/Np ,/CH giờ/N làm_ăn/V khấm_khá/A ,/CH đi/V tìm/V ông/N ,/CH dẫn/V đi/V nhậu/V ,/CH khi/N về/V đưa/V 500.000/X đồng/Nu bảo/V “/CH anh/N đi/V may/V quần_áo/N mặc/V ”/CH ./CH end/P_s
+start/Ps Ông/N ở/E trên/N tầng/N cao/A nhất/R ,/CH trong/E một/M căn/Nc phòng/N chỉ/R khoảng/A 6/M m/Nu 2/M ,/CH vách/N bằng/E ván/N ép/V ,/CH muốn/V vào/V phải/V đi/V qua/V một/M phòng/N khác/A ngăn/V với/E phòng/N ông/N chỉ/R bằng/E một/M tấm/Nc vải/N ./CH end/P_s
+start/Ps Xin/V ông/N cho/V xem/V hình/N đi/V hát/V ngày_xưa/N thì/C còn/V lại/R chẳng/R mấy/L tấm/Nc ./CH end/P_s
+start/Ps Ông/N rất/R ít/A lời/N ,/CH hỏi/V nhiều/A mới/R nói/V ,/CH mặt/N cứ/R dàu_dàu/A ,/CH người/N ốm/A quắt_queo/A ./CH end/P_s
+start/Ps Nhìn/V ông/N xót_xa/A ,/CH tôi/P bảo/V :/CH “/CH Chú/N ăn_uống/V như_thế/X nên/C ốm/A quá/R !/CH ”/CH ./CH end/P_s
+start/Ps Cũng/R may/A ,/CH chủ/N nhà/N cho/V ông/N trả/V làm/V vài/L đợt/N trong/E tháng/N hoặc/C cho/E thiếu/A nếu/C xoay/V không/R ra/V ./CH end/P_s
+start/Ps Cùng/C lứa/N với/E tui/P có/V Ngọc_Cung/Np ,/CH nghỉ/V hát/V rồi/C ngày/N phải/V đi/V bán/V vé_số/N ,/CH tối/N ngủ/V lang_thang/V ./CH end/P_s
+start/Ps Cải_lương/N đang/R hồi/N khó_khăn/A ,/CH nghệ_sĩ/N nghèo_khó/A càng/R thêm/V khó/A ./CH end/P_s
+start/Ps Đời/N đi/V hát/V từ/E khi/N mới/R 15/M tuổi/N bạc/A như/C vôi/N ,/CH ấy/T vậy_mà/C khi/N nghe/V hỏi/V “/CH nếu/C được/R làm/V lại/R từ/E đầu/N có/V chọn/V nghề/N hát/V nữa/R không/R khi/N kết_cục/N cũng/R như_vầy/X ?/CH ”/CH ,/CH con_người/N khốn_khó/A ấy/P lại/R đoan_chắc/V mình/P vẫn/R theo/V nghề/N hát/V .../X end/P_s
+start/Ps Ông/N lắc_đầu/V :/CH “/CH Do/E buồn/A ,/CH mặc_cảm/V là/V chính/A ./CH end/P_s
+start/Ps Hạnh_phúc/N lớn/A nhất/R của/E ông/N là/V những/L lần/N được/V mời/V hát/V ,/CH được/V bạn_bè/N ghé/V thăm/V ./CH end/P_s
+start/Ps Trong/E phòng/N đáng_giá/A nhất/R là/V chiếc/Nc quạt_máy/N cũ/A ,/CH ánh_sáng/N tù_mù/A với/E chiếc/Nc bóng_đèn/N nhỏ_xíu/A vì/E sợ/V hao/V điện/N ,/CH chủ/N rầy/V ./CH end/P_s
+start/Ps Chụp/V cho/V ông/N một/M tấm/Nc hình/N bằng/E máy/N kỹ_thuật_số/N ,/CH xem/V hình/N mình/P tại_chỗ/A ,/CH ông/N mãi/R trầm_trồ/V cái/Nc máy/N hay/A ghê/A ,/CH lạ/A ghê/A ,/CH bảo/V chắc/V kiếp/N sau/N mới/R mua/V nổi/R khi/N biết/V nó/P có/V giá/N vài/L triệu/M đồng/Nu ./CH end/P_s
+start/Ps Gặp/V khán_giả/N cũng/R ngại/V vì/E bây_giờ/P mình/P khổ/A ,/CH mình/P xấu/A ./CH end/P_s
+start/Ps Ông/N đã/R đốt/V gần/A hết/V trong/E những/L cơn/Nc suy_sụp/V tinh_thần/N ./CH end/P_s
+start/Ps Lâu/A quá/R không/R thấy/V y/P qua/V đây/P ,/CH hỏi_thăm/V mới/R biết/V đau/A ,/CH không/R tiền/N thuốc/N ,/CH không/R người/N lo/V ./CH end/P_s
+start/Ps Hết/V vốn/N ,/CH ông/N vay/V tiền/N xã_hội_đen/N ,/CH lãi_mẹ_đẻ_lãi_con/X đến/T phải/V bán/V nhà/N ,/CH vợ_chồng/N chia_tay/V .../X end/P_s
+start/Ps Hơn/A 60/M tuổi/N ,/CH người/N hom_hem/A ,/CH ông/N lo_lắng/V làm/V con_tính/N cơm_gạo/N ./CH end/P_s
+start/Ps Cả/P đời/N đi/V hát/V ông/N chuyên/A đóng/V kép/N độc/A ,/CH kép/N lão/N qua/V các/L đoàn/N Minh_Kỳ/Np ,/CH Ngọc_Đáng/Np ,/CH Minh_Tơ/Np .../X end/P_s
+start/Ps Mình/P hát/V không/R là/V ngôi_sao/N nhưng/C cái/Nc danh_dự/N ,/CH cái/Nc tiếng/N mình/P cao/A ,/CH hát/V hay/A ,/CH nhiệt_tình/N ,/CH được/V bà_con/N biểu_dương/V ”/CH .../X end/P_s
+start/Ps Các/L con/N bà/N người/N đi/V giữ/V xe/N ,/CH người/N làm/V nhạc_công/N ,/CH người/N cũng/R đóng/V vai/N tì/N nữ/N như/C bà/N nên/C chẳng_thể/R bảo/V bọc/V mẹ/N ./CH end/P_s
+start/Ps Hát/V bữa/N hôm_nay/N lãnh/V lương/N ăn/V cho/E ngày_mai/N ”/CH ./CH end/P_s
+start/Ps Sáu/M tháng/N dọn/V về/V đây/P không/R biết/V có/V bao_nhiêu/P ngày/N ông/N ngồi/V như/C cái/Nc bóng/N trong/E phòng/N suốt/A ngày/N như_thế/X ./CH end/P_s
+start/Ps nhịn/V luôn/R nếu/C không/R vay_mượn/V được/R ./CH end/P_s
+start/Ps Cả/P đời/N bà/N lang_thang/V theo/V đoàn/N hát/V ,/CH lập/V gia_đình/N ,/CH có/V con_cái/N cũng/R không/R có/V được/R cái/Nc nhà/N ./CH end/P_s
+start/Ps Lẽ/N sống/V của/E ông/N bây_giờ/P là/V những/L lần/N hiếm_hoi/A được/R mời/V đi/V hát/V ./CH end/P_s
+start/Ps Nhưng/C ông/N bảo/V :/CH “/CH Nghệ_sĩ/N mà/T ,/CH có/V mấy_ai/X giàu/A được/V bằng/E nghề/N hát/V ./CH end/P_s
+start/Ps Một/M nghệ_sĩ/N già/A cám_cảnh/V cả/P đời/N làm/V nghệ_sĩ/N của/E mình/P như_thế/X để/E ví/V những/L thân_phận/N như/C ông/N là/V “/CH mây/N đen/A ”/CH trên/E bầu_trời/N so/V với/E tia/Nc chiếu/V lấp_lánh/A của/E “/CH ngôi_sao/N ”/CH ./CH end/P_s
+start/Ps TT/Ny -/CH "/CH Chỉ/R hát/V toàn/R vai/N phụ/A ,/CH chẳng/R mấy_ai/X nhớ/V mặt/N biết/V tên/N ,/CH cuộc_sống/N gần/A như/C chỉ/R quanh_quẩn/V trong/E hậu_trường/N với/E đồng_lương/N có/V hát/V có/V ăn/V ,/CH không/R hát/V khỏi/R ăn/V -/CH cuộc_đời/N buồn/A như/C sân_khấu/N đêm/N nghỉ/V hát/V !/CH ”/CH ./CH end/P_s
+start/Ps cũng/R cả/P triệu/M ./CH end/P_s
+start/Ps Sinh/V 1929/M ,/CH 50/M năm/N theo/V nghề/N ,/CH đến/E tuổi/N này/P ,/CH sau/E khi/N mất/V sức_khỏe/N làm/V thợ_mộc/N ,/CH thợ_nề/N ,/CH ông/N vẫn/R cặm_cụi/V kiếm/V sống/V bằng/E nghề/N may/V hia/N phục_trang/N ,/CH làm/V phướn/N ,/CH đồ/N chưng/V cho/E sân_khấu/N ở/E một/M nơi/N heo_hút/A tại/E Nhà_Bè/Np ./CH end/P_s
+start/Ps Vậy_mà/X những/L đêm/N sân_khấu/N sáng/V đèn/N ,/CH chúng_tôi/P đã/R xúc_động/V biết_bao/R khi/N chứng_kiến/V nhiều/A nghệ_sĩ/N lớn_tuổi/A ,/CH lam_lũ/A thiếu_thốn/A trong/E cuộc_sống/N hằng/R ngày/N nhưng/C niềm/Nc say_mê/V sân_khấu/N thì/C giàu_có/A vô_hạn/A .../X end/P_s
+start/Ps Cắm_cúi/V mưu_sinh/V ,/CH ông/N hầu_như/R chẳng/R biết/V thế_giới/N bên/N ngoài/N ./CH end/P_s
+start/Ps Hiện/N Ban/Np Ái_hữu/Np nghệ_sĩ/N chỉ/R có_thể/A nhận/V nuôi/V 20/M nghệ_sĩ/N già/A neo_đơn/A và/C giúp_đỡ/V mỗi/L tháng/N chút_ít/N tiền/N cho/E 50/M nghệ_sĩ/N khác/A .../X end/P_s
+start/Ps Chết/V rồi/R ,/CH chết/V ngoài/E đường/N .../X end/P_s
+start/Ps Đoàn/N hát/V không/R còn/V ,/CH một/M cơn/Nc đau/V bệnh/N mười/M mấy/L năm/N trước/N phải/V đi/V vay/V nặng_lãi/N cũng/R đủ/A khiến/V ông/N phải/V bán/V nhà/N ./CH end/P_s
+start/Ps Cái/Nc ăn/V có/V thì/C no/A ,/CH ngon/A một_chút/L ;/CH không/R có/V thì/C cả/P ngày/N một/M gói/Nc mì/N tôm/N mua/V chịu/V dưới/N nhà/N cũng/R xong/V ,/CH hoặc/C .../X end/P_s
+start/Ps Tiền/N ăn/V ,/CH tiền/N học/V cho/E cháu/N nội/A ,/CH tiền/N ốm_đau/A .../X end/P_s
+start/Ps Về/E già/A ,/CH nghỉ/V hát/V ,/CH nhiều/A năm/N trước/N bà/N đói_khát/A ,/CH lang_thang/V ngủ/V đình/N ngủ/V chợ/N ./CH end/P_s
+start/Ps Nhưng/C một/M năm/N chỉ/V hát/V được/R 2/M -/CH 3/M suất/N ./CH end/P_s
+start/Ps ,/CH cũng/R thuộc/V hàng/N nghệ_sĩ/N có/V tên/N ,/CH cũng/R được/V huy_chương/N bạc/N liên_hoan/N sân_khấu/N nhưng/C đồng_lương/N chẳng/R bao_giờ/P dư_dả/A ./CH end/P_s
+start/Ps Tôi/P đã/R ba/M lần/N tự_tử/V nhưng/C số/N chưa_thể/R chết/V ”/CH ./CH end/P_s
+start/Ps Ông/N chính/T là/V nghệ_sĩ/N Điền_Phong/Np -/CH từng/R cùng/A nghệ_sĩ/N Đức_Lợi/Np hát/V kép/N chính/T tại/E Đoàn/Np cải_lương/N tuồng/N cổ/A Huỳnh_Long/Np những/L năm/N 1980/M ./CH end/P_s
+start/Ps Tết/N năm/N rồi/R được/V Hội/Np Sân_khấu/Np giúp_đỡ/V 100.000/X đ/Nu và/C 10/M kg/Nu gạo/N ông/N rất/R mừng/V ,/CH nhắc/V hoài/R nhưng/C rồi/R buồn_thiu/A :/CH “/CH Năm/N nay/P tui/P bị/V gạch/V tên/N khỏi/V danh_sách/N được/R nhận/V quà/N rồi/T !/CH ”/CH ./CH end/P_s
+start/Ps Thời/N hoàng_kim/N ,/CH tiền_bạc/N dư_dả/A ,/CH một/M người/N bà_con/N xa/A làm/V bầu/N hát/V bị/V lỗ/V ,/CH thương/V anh_em/N trong/E đoàn/N khổ/A ,/CH mê/V nghề/N ,/CH nể/V tình/N thân_quen/A ,/CH ông/N nhận/V làm/V bầu/N gánh/N Đoàn/Np An_Giang/Np -/CH Khánh_Hồng/Np ./CH end/P_s
+start/Ps Nghiệp/N làm/V bầu/N của/E ông/N còn/R trải/V qua/V hai/M ,/CH ba/M đoàn/N hát/V khác/A ,/CH nhưng/C đi/V xuống/V chứ/C không/R đi/V lên/V -/CH từ/E đoàn/N lớn/A xuống/V đoàn/N nhỏ/A ,/CH đoàn/N tỉnh/N xuống/V đoàn/N huyện/N ,/CH xã/N ./CH end/P_s
+start/Ps Thú_vui/N của/E ông/N dồn/V hết/V vào/E sở_thích/N nghe/V cải_lương/N ,/CH nhưng/C gia_tài/N chỉ/R có/V ba/M băng/N cassette/Nb tuồng/N kiếm_hiệp/N cũ/A xì/R ,/CH chiếc/Nc máy_hát/N dành_dụm/V mua/V được/R đã/R đem/V đi/R cầm/V vì/E 30/M Tết/Np Ất_Dậu/Np vừa_rồi/X trong/N nhà/N không/R có/V một/M hột/Nc gạo/N ./CH end/P_s
+start/Ps Giờ/N về/V ở/V nhà/N mướn/V với/E con/N bên/N quận/N 7/M ,/CH được/V cơ_sở/N Bạch_Nga/Np nhận/V vào/R làm/V mặc/V đồ/N hội/N với/E tiền/N công/N vài/L chục/M nghìn/M một/M đêm/N hát/V ,/CH bà/N bảo/V mình/P rất/R vui/A vì/E hằng/R tuần/N còn/R được/R đến/V với/E sân_khấu/N ,/CH được/V sống/V trong/E thế_giới/N nghệ_sĩ/N ./CH end/P_s
+start/Ps Căn/Nc phòng/N mướn/V của/E nghệ_sĩ/N Thanh_Quang/Np nằm/V trong/E một/M con/Nc hẻm/N nhỏ/A ở/E quận/N 4/M ./CH end/P_s
+start/Ps Nhưng/C xem_ra/X niềm/Nc vui/A của/E bà/N cũng/R thật/R chông_chênh/A ,/CH bởi/E tuổi_đời/N ngày_càng/X chồng_chất/V và/C số/N đêm/N sân_khấu/N sáng/A đèn/N cũng/R thấy/V mong_manh/A ./CH end/P_s
+start/Ps Bây_giờ/P còn/R có_thể/R may_vá/V nhưng/C sức/N đã/R yếu/A ,/CH mắt/N bắt_đầu/V mờ/A ,/CH cái/Nc lo/V ngày_tháng/N của/E ông/N canh_cánh/A ./CH end/P_s
+start/Ps Tất_cả/N đều/R được/V viết/V trên/E đất/N Savanakhet/Np trong/E lòng/N hoài/V hương/N của/E người/N con/N xa/A xứ/N ./CH end/P_s
+start/Ps chiếc/Nc máy_vi_tính/N ./CH end/P_s
+start/Ps Và/C cũng/R mỗi/M ngày/N ,/CH những/L tập/Nc từ_điển/N dày_cộp/A luôn/R nằm/V trước/E mặt/N bác_sĩ/N Trần_Kim_Lân/Np ./CH end/P_s
+start/Ps Lân/Np kể/V :/CH về/V Lào/Np chữa/V bệnh/N cứu/V người/N không/R chỉ/R bằng/E kiến_thức/N tây_y/N ,/CH rừng/N Lào/Np nhiều/A cây_thuốc/N quí/A ,/CH nhưng/C để/E hiểu/V cho/E rõ/A ngọn_ngành/N cây_thuốc/N không_thể/R dựa/V vào/E những/L từ_ngữ/N phổ_thông/N ,/CH cần/V phải/V có/V một/M bộ/Nc từ_điển/N ,/CH ít_ra/X là/C để/E tra_cứu/V nhưng/C một/M bộ/Nc từ_điển/N như/C anh/N cần/V thì/C chưa/R ai/P làm/V ./CH end/P_s
+start/Ps Một/M ám_ảnh/V khôn_nguôi/X với/E anh/N là/V hai/M đứa/Nc con/N của/E anh/N ,/CH cũng/R giống/A như/C những/L đứa/Nc trẻ/N sinh/V ra/V trên/E đất/N Lào/Np ,/CH tuy/C bố_mẹ/N là/V người/Nc Việt/Np nhưng/C do/E tiếp_xúc/V với/E môi_trường/N từ/E lúc/N mới/R sinh/V nên/C hầu_như/R nói/V thạo/A tiếng/N Lào/Np hơn/A tiếng/N Việt/Np ./CH end/P_s
+start/Ps Rồi/C anh/N rời/V Huế/Np với/E tấm/N bằng/N bác_sĩ/N tây_y/N và/C thêm/V nghề/N chữa/V bệnh/N bằng/E đông_y/N ./CH end/P_s
+start/Ps Mãi/R đến/E năm/N 1997/M ,/CH mong_mỏi/V về/E cuốn/Nc từ_điển/N lại/R bùng/V lên/V trong/E Lân/Np ,/CH lý_do/N đầu_tiên/A là/C nhờ/V có/V .../X end/P_s
+start/Ps Bây_giờ/P ,/CH ngoài/N nghề/N y/N ,/CH anh_em/N cho/V biết/V Lân/Np còn/R là/V “/CH tay/N tổ/N ”/CH về/E sửa_chữa/V máy_vi_tính/N ở/E Savanakhet/Np ,/CH phòng/N làm_việc/V của/E anh/N ngổn_ngang/A những/L máy/N là/C máy/N đủ/A chủng_loại/N ,/CH mới/A có/V cũ/A có/V ./CH end/P_s
+start/Ps Hồi/N đó/P đường_sá/N thâm_u/A ,/CH phỉ/N vẫn/R hoạt_động/V mạnh/A trên/E tuyến/N ,/CH đi/V từ/E Savanakhet/Np về/E Huế/Np mất/V mấy/L ngày_đường/N chứ/C không/R được/V như/C bây_giờ/P ./CH end/P_s
+start/Ps Bấy_giờ/P chưa/R có/V máy_vi_tính/N ,/CH phải/V viết_tay/V ,/CH nguồn/N tư_liệu/N duy_nhất/A là/C dựa/V vào/R hai/M cuốn/Nc từ_điển/N Lào/Np -/CH Lào/Np và/C Việt/Np -/CH Việt/Np ./CH end/P_s
+start/Ps Chiếc/Nc máy_vi_tính/N là/V trợ_lực/V rất/R lớn/A cho/E Lân/Np trong/E việc/N tập_hợp/V dữ_liệu/N ,/CH đi/V chữa/V bệnh/N châm_cứu/V cho/E bà_con/N người/Nc Lào/Np bao_giờ/P anh/N cũng/R kè/V thêm/V một/M cuốn/Nc sổ_tay/N ,/CH từ/N nào/P không/R hiểu/V thì/C hỏi/V ,/CH ghi_chép/V ,/CH tập_hợp/V .../X end/P_s
+start/Ps Cùng/C Lân/Np ra/V ngồi/V bên/N sông/N Mekong/Np nhìn/V con_nước/N xuôi/V về/E đất/N Việt/Np ,/CH nghe/V anh/N kể/V bao/P chuyện/N buồn_vui/A khi/N sống/V nơi/N đất_khách_quê_người/X ./CH end/P_s
+start/Ps Tốt_nghiệp/V bác_sĩ/N (/CH tây_y/N )/CH Đại_học/N Y_khoa/N Huế/Np từ/E năm/N 1989/M ,/CH học/V xong/V lại/R theo/V nghề/N thuốc/N đông_y/N với/E sư/N Tuệ_Tâm/Np ở/E Tuệ_Tĩnh_Đường_Diệu_Đế/Np (/CH Huế/Np )/CH ./CH end/P_s
+start/Ps Về/V lại/R Savanakhet/Np ,/CH những/L bác_sĩ/N chưa/R nhập_tịch/V Lào/Np như/C Lân/Np theo/V qui_định/N của/E nước/N bạn/N không/R được/V mở/V phòng_mạch/N riêng/A ,/CH chỉ/R có_thể/R vào/V làm/V cho/E các/L phòng_mạch/N của/E bác_sĩ/N người/N Lào/Np đứng_tên/V ./CH end/P_s
+start/Ps Lúc/N đầu/N anh/N dùng/V vi_tính/N theo/V kiểu/N học/V mò_mẫm/V vì/E ở/E Savanakhet/Np bấy_giờ/P không/R có/V ai/P dạy/V ,/CH hư/A thì/C tự/P sửa/V ,/CH mỗi/M lần/N về/V Huế/N mua/V thêm/V sách/N tự/P học/V ./CH end/P_s
+start/Ps Những/L năm/N sau/E giải_phóng/V ,/CH quốc_lộ/N 9/M chạy/V từ/E Đông_Hà/Np lên/V Lao_Bảo/Np ,/CH lên/V tận/E Savanakhet/Np ở/E bờ/Nc đông/N sông/N Mekong/Np là/V con/Nc đường/N quá_cảnh/V của/E xe/N chạy/V từ/E Lào/Np về/E cảng/N Đà_Nẵng/Np bốc/V hàng/N viện_trợ/N và/C cũng/R là/V con/Nc đường/N buôn_lậu/V hàng_hóa/N từ/E đất/N Thái/Np vào/E VN/Ny ,/CH Lân/Np và/C bạn_bè/N thường_xuyên/A đi/V về/V theo/E những/L chuyến/N xe/N trên/E con/Nc đường/N ấy/P ./CH end/P_s
+start/Ps Đó/P là/V một/M công_trình/N đời/N người/N thật_sự/A ,/CH dù/E anh/N là/V một/M bác_sĩ/N chứ/C không/R phải/A là/V một/M nhà/Nc ngôn_ngữ/N ./CH end/P_s
+start/Ps Đi/V học/V đường/N xa/A cách_trở/V nhưng/C làm/V Lân/Np hiểu/V rõ/A ý_nghĩa/N của/E hai/M tiếng/N quê/N nhà/N ./CH end/P_s
+start/Ps Cả/T năm/M đầu_sách/N này/P đều/R đã/R được/V Cục/N Xuất_bản/N Lào/Np cấp/V giấy_phép/N xuất_bản/V vào/E năm/N 2003/M ,/CH nhưng/C anh/N chưa/R đủ/A tiền/N để/E in/V ./CH end/P_s
+start/Ps Năm/N 1989/M ,/CH ý_nghĩ/N làm/V từ_điển/N đến/V với/E anh/N và/C một/M nhóm/N bạn_bè/N ./CH end/P_s
+start/Ps Lân/Np cùng/C anh/Nc Hứa_Ngọc_Minh/Np ,/CH lúc/N đó/P là/V hiệu_trưởng/N trường/N này/P ,/CH cùng/A lập/V ra/R nhóm/N để/E thực_hiện/V cuốn/Nc từ_điển/N Việt/Np Lào/Np -/CH Lào/Np Việt/Np ./CH end/P_s
+start/Ps Những/L năm_tháng/N làm/V sinh_viên/N y_khoa/N Huế/Np ,/CH anh/N triền_miên/A trong/E những/L trận/Nc sốt_rét/N ,/CH sáu/M năm/N đại_học/N không/R đếm/V hết/R Lân/Np đã/R trùm_chăn/X dọc/A đường/N bao_nhiêu/P bận/N ./CH end/P_s
+start/Ps Sắp/R tới/V đây/P ,/CH khi/N hành_lang/N kinh_tế/N đông/N tây/N với/E tuyến/N quốc_lộ/N 9/M xuyên/V suốt/A trên/E đất/N Lào/Np ,/CH đi/V qua/V những/L địa_danh/N ,/CH thắng_tích/N mang/V đầy/A dấu_ấn/N văn_hóa/N của/E đất_nước/N triệu/M voi/N ,/CH hẳn/R những/L từ_điển/N này/P sẽ/R rất/R hữu_dụng/A cho/E du_khách/N và/C những_ai/P tìm_kiếm/V cơ_hội/N làm_ăn/V trên/E đất/N này/P ./CH end/P_s
+start/Ps Ở/E Savanakhet/Np có/V rất/R nhiều/A bác_sĩ/N người/Nc Việt/Np như/C anh/N Lân/Np ,/CH chỉ/R riêng/T gia_đình/N bên/N vợ/N của/E anh/N đã/R có/V năm/M bác_sĩ/N ,/CH kể/V thêm/V dâu/N rể/N nữa/R là/C gần/A chục/M người/N ,/CH đủ/A sức/N thành_lập/V một/M bệnh_viện/N nhỏ/A ./CH end/P_s
+start/Ps Ở/E Savanakhet/Np có/V một/M ngôi/Nc trường/N của/E người/Nc Việt/Np mang/V tên/N Trường/N Thống_Nhất/Np ,/CH dành/V cho/E con_em/N người/Nc Việt/Np ./CH end/P_s
+start/Ps Bác/Nc Trần_Chí_Thuận/Np ,/CH hội_trưởng/N Hội/N Việt_kiều/N ở/E Savanakhet/Np ,/CH kể/V rằng/C từ/E những/L năm/N sau/E giải_phóng/V ,/CH Hội/N Việt_kiều/N đã/R gửi/V con_em/N mình/P về/E Huế/Np học/V để/E có/V cái/Nc gốc/N đậm_đà/A của/E quê_hương/N ./CH end/P_s
+start/Ps Và/C những/L đêm/N ngồi/V miệt_mài/A bên/N máy_vi_tính/N thực_hiện/V những/L công_trình/N này/P anh/N thấy/V yêu/V đất_nước/N mình/P hơn/R ,/CH thấy/V vợi/V đi/V nỗi/Nc hoài/V hương/N và/C cũng/R để/E trả/V ơn/N mảnh/Nc đất/N xứ/N người/N đã/R cưu_mang/V đùm_bọc/V ./CH end/P_s
+start/Ps Từ/E công_trình/N công_phu/A này/P ,/CH anh/N đã/R thực_hiện/V thêm/R các/L cuốn/Nc Từ_điển/N Việt/Np -/CH Lào/Np dày/A 1.130/X trang/N ,/CH hai/M cuốn/Nc Tục_ngữ/N Lào/Np -/CH Việt/Np và/C Tục_ngữ/N Việt/Np -/CH Lào/Np mỗi/M cuốn/Nc dày/A gần/A 200/M trang/N ,/CH cuốn/Nc Từ_đồng_âm/N Lào/Np -/CH Việt/Np dày/A 280/M trang/N ./CH end/P_s
+start/Ps Sau/E gần/A bảy/M năm/N miệt_mài/A ,/CH bộ/Nc từ_điển/N Lào/Np -/CH Việt/Np đầu_tiên/A của/E bác_sĩ/N Trần_Kim_Lân/Np đã/R thực_hiện/V xong/R với/E độ/N dày/A 1.140/X trang/N (/CH khổ/N 18x26/M cm/Nu )/CH ,/CH bao_gồm/V 31.000/X từ/N mới/A có/V phiên_âm/V đầy_đủ/A với/E trên/A 15.000/X ví_dụ/N ngữ_cảnh/N ,/CH 700/M câu/N tục_ngữ/N Lào/Np có/V đối_chiếu/V với/E những/L câu/N tục_ngữ/N Việt/Np tương_đương/A và/C hàng/R ngàn/M từ_đồng_âm/N ,/CH đồng_nghĩa/A ,/CH bảng/N so_sánh/V đối_chiếu/V ./CH end/P_s
+start/Ps Trần_Kim_Lân/Np là/V một/M trong/E số/N những/L học_sinh/N khóa/N đầu/N về/E học/V tại/E Huế/Np ,/CH học/V hết/V trung_học/N rồi/C thi/V đậu/V vào/E Đại_học/N Y_khoa/N Huế/Np ./CH end/P_s
+start/Ps TT/Ny -/CH Cuộc_sống/N nhớ/V quê_hương/N và/C tiếng/N Việt/Np trên/E đất/N Lào/Np đã/R khiến/V bác_sĩ/N Trần_Kim_Lân/Np ,/CH tên/N Lào/Np là/V Phonesavanh_Chanthavong/Np ,/CH chỉ/R mới/R ngoài/A 40/M tuổi/N mà/C đã/R cho/V ra_đời/V từ_điển/N Việt/Np -/CH Lào/Np ,/CH Lào/Np -/CH Việt/Np dày/A hàng/R ngàn/M trang/N ,/CH viết/V cả/T các/L phần_mềm/N từ_điển/N Việt/Np -/CH Lào/Np ,/CH Pháp/Np -/CH Lào/Np và/C Anh/Np -/CH Lào/Np ,/CH rồi/C thành_ngữ/N -/CH tục_ngữ/N Lào/Np ,/CH từ_đồng_âm/N Lào/Np -/CH Việt/Np .../X end/P_s
+start/Ps Công_việc/N của/E người/N thầy_thuốc/N cuốn_hút/V Lân/Np mỗi/M ngày/N ,/CH chữa/V cho/E người/Nc Việt/Np ,/CH chữa/V cho/E bạn/N Lào/Np ./CH end/P_s
+start/Ps Thế/T rồi/C Lân/Np được/V sư/N Tuệ_Tâm/Np chữa/V dứt/V căn_bệnh/N sốt_rét/N ,/CH nghĩ/V rằng/C bao_nhiêu/P năm/N theo/V tây_y/N mà/C bó_tay/V ,/CH nay/P nhờ/V đông_y/N mà/C dứt/V bệnh/N ,/CH vậy/P là/C Lân/Np khăn_gói/N theo/V thầy/N Tuệ_Tâm/Np học/V thuốc/N ./CH end/P_s
+start/Ps Anh/N nói/V rằng/C tuy/E chẳng/R xa_xôi/A gì/T chặng/Nc đường/N từ/E đây/P về/E quê/N nhà/N ,/CH nhưng/C xa/A hay/C gần/A cũng/R đã/R là/V xứ_sở/N khác/A ,/CH phong_tục/N khác/A ./CH end/P_s
+start/Ps Cuộc/N mưu_sinh/V hằng/R ngày/N đã/R chiếm/V quá/R nhiều/A thời_gian/N ,/CH không/R đủ/A sức/N dành/V cho/E công_trình/N ý_nghĩa/N kia/P nữa/R ,/CH công_việc/N đành/V tạm/A gác/V lại/R ./CH end/P_s
+start/Ps Từ/E Nghĩa_Hiệp/Np chúng_tôi/P về/V Nghĩa_Phương/Np ./CH end/P_s
+start/Ps Cả/P làng/N đứng/V trước/E nguy_cơ/N đói_kém/A ,/CH bệnh_tật/A ,/CH nhiều/A nhà/N không/R còn/V một/M hạt/Nc thóc/N như/C nhà/N cụ/Nc Phạm_Bồi/Np ,/CH Phạm_Cho/Np ,/CH Nguyễn_Thị_Ký/Np .../X end/P_s
+start/Ps Những/L đứa/Nc trẻ/N mặt_mày/N lem_luốc/A ,/CH đứa/Nc thiếu/V áo/N ,/CH đứa/Nc thiếu/V quần/N cứ/R ngằn_ngặt/A khóc/V đòi/V cơm/N ./CH end/P_s
+start/Ps Đám_tang/N người/Nc cựu_chiến_binh/N Lưu_Văn_Phùng/Np ,/CH trưởng_thôn/N Nhân_Ân/Np ,/CH xã/N Phước_Thuận/Np ,/CH huyện/N Tuy_Phước/Np được/V tiến_hành/V vội_vã/A vào/E sáng/N 27/M -/CH 10/M ,/CH ngay/R sau/E khi/N tìm/V thấy/V thi_thể/N ./CH end/P_s
+start/Ps TT/Ny -/CH Trận/N lũ/N khủng_khiếp/V vừa_qua/X đã/R cướp/V đi/R sinh_mạng/N 15/M người/Nc dân/N các/L huyện/N An_Nhơn/Np ,/CH Tuy_Phước/Np ,/CH Hoài_Ân/Np ,/CH Phù_Cát/Np ,/CH Phù_Mỹ/Np (/CH Bình_Định/Np )/CH ./CH end/P_s
+start/Ps ”/CH ./CH end/P_s
+start/Ps Vùng/N ven/N sông/N Vệ/Np thuộc/V các/L xã/N Hành_Tín_Tây/Np ,/CH Hành_Thiện/Np (/CH huyện/N Nghĩa_Hành/Np )/CH ,/CH Nghĩa_Hiệp/Np (/CH huyện/N Tư_Nghĩa/Np )/CH và/C Đức_Lợi/Np (/CH huyện/N Mộ_Đức/Np )/CH cành/N tre/N ,/CH chuối/N ngã/V đổ/V ngổn_ngang/A ./CH end/P_s
+start/Ps Nhiều/A năm/N rồi/R sóng/N dữ/A xô/V ngã/V ,/CH cuốn/V trôi/V 30/M ngôi/Nc nhà/N ở/E hai/M dãy/N trước/A ./CH end/P_s
+start/Ps Nhiều/A hộ/N chỉ/R kịp/A đưa/V con_cái/N đến/E các/L nhà/N kiên_cố/A tránh/V lũ/N ./CH end/P_s
+start/Ps Lúa/N trong/E nhà/N thì/C bị/V ngập/V nước/N ,/CH hơn/A 8.000/X ha/Nu lúa/N và/C hoa_màu/N ngoài/E đồng/N thì/C bị/V ngập/V lũ/N ,/CH hàng/R vạn/M người/Nc dân/N nông_thôn/N Bình_Định/Np chỉ/R còn/R biết/V ngửa/V mặt/N kêu_trời/V ./CH end/P_s
+start/Ps Trên/E đường/N làng/N cũng/R bê_bết/A bùn/N ,/CH anh/Nc Nguyễn_Chậm/Np ,/CH xã_đội/N phó/N xã/N Nghĩa_Phương/Np ,/CH kể/V :/CH “/CH 16/M giờ/N hôm_qua/N (/CH 26/M -/CH 10/M )/CH ,/CH bà_con/N đưa_tang/V thằng/Nc Hiệp/Np đông/A lắm/R ./CH end/P_s
+start/Ps đi/V luôn/R ”/CH ./CH end/P_s
+start/Ps Đến/E trưa/N hôm_sau/N mới/R tìm/V được/R xác/N cách/V nơi/N bị/V nước/N cuốn/V chừng/A 600/M m/Nu ./CH end/P_s
+start/Ps Suốt/A mấy/L ngày/N qua/R ,/CH vợ/N ông/N cứ/R lảm_nhảm/V réo/V gọi/V tên/N chồng/N ngoài/E triền/N đê/N .../X end/P_s
+start/Ps Trong/E hai/M ngày/N qua/R ,/CH sau/E khi/N lũ/N rút/V ,/CH đám_tang/N của/E 15/M người/N chết/V mới/R bắt_đầu/V tiến_hành/V ./CH end/P_s
+start/Ps Biết/V nhà/N khổ/A ,/CH nó/P bị/V bệnh/N động_kinh/V nhưng/C cũng/R đi/V học/V sửa/V xe/N ,/CH rồi/C che/V cái/Nc chòi/N sửa/V xe_đạp/N ./CH end/P_s
+start/Ps Làng/N biển/N Định_Tân/Np ,/CH xã/N Bình_Châu/Np ,/CH huyện/N Bình_Sơn/Np nằm/V sát/A cửa_biển/N Sa_Kỳ/Np ,/CH bị/V xói_lở/V dữ_dội/A ./CH end/P_s
+start/Ps “/CH Còn/R sống/V là/V may/V rồi/R chú/N ơi/I ,/CH làng/N tui/P bên/N sông/N Côn/Np thế_này/X ,/CH nước/N dâng/V nhanh/A quá/R ,/CH chỉ/R vài/L giờ/N nên/C cả/P làng/N chạy/V lũ/N không/R kịp/A ,/CH may/V nhờ/V anh_em/N thanh_niên/N xung_kích/V Chữ_thập_đỏ/N cứu_hộ/V ,/CH di_dời/V ”/CH -/CH lão_nông/N Phạm_Bồi/Np 83/M tuổi/Nu kể/V lại/R ./CH end/P_s
+start/Ps Chiều/N hôm/N đó/P nước/N lũ/N dâng/V cao/A ./CH end/P_s
+start/Ps Theo/E tính_toán/V ban_đầu/N ,/CH tổng/N thiệt_hại/A ở/E Quảng_Ngãi/Np trong/E đợt/N lũ/N này/P lên/V đến/T trên/A 28,2/X tỉ/M đồng/Nu ./CH end/P_s
+start/Ps Các/L hộ/N có/V nhà/N bị/V sập/V ,/CH bị/V nước/N lũ/N cuốn/V trôi/V ,/CH mất_mát/V tài_sản/N được/R hỗ_trợ/V ba/M tháng/N lương_thực/N ./CH end/P_s
+start/Ps Trong/E ngôi/Nc nhà/N nhỏ/A ,/CH bên/N bàn_thờ/N nghi_ngút/A khói_hương/N ,/CH bà/Nc Trần_Thị_Sa/Np ,/CH mẹ/N của/E Hiệp/Np (/CH 20/M tuổi/Nu )/CH ,/CH kể/V :/CH “/CH Anh/N nó/P ,/CH thằng/Nc Danh/Np ,/CH phải/V vào/V Nam/Np làm/V đủ/A nghề/N kiếm/V tiền/N gửi/V về/R nuôi/V vợ_con/N ./CH end/P_s
+start/Ps Bây_giờ/P 25/M ngôi/Nc nhà/N dãy/N sau/A ,/CH trong/E đó/P có/V ngôi/Nc nhà/N của/E chị/N ,/CH đang/R chấp_chới/V bên/N mép/N biển/N theo/V từng/R cơn/Nc sóng/N dữ/A ./CH end/P_s
+start/Ps Đến/E sáng/N 27/M -/CH 10/M ,/CH tại/E xóm/N Chợ/Np ,/CH thôn/N Đại_Lợi/Np (/CH xã/N Cát_Nhơn/Np ,/CH huyện/N Phù_Cát/Np )/CH ,/CH bà_con/N vẫn/R chưa/R hết/V bàng_hoàng/A ./CH end/P_s
+start/Ps Nhưng/C chống_đỡ/V cũng/R không/R nổi/R ”/CH ./CH end/P_s
+start/Ps Bây_giờ/P lũ/N rút/V ,/CH ngoài/A đồng/N rau_màu/N nát/A dập/V ,/CH trong/A nhà/N lúa/N gạo/N ướt/A hết/V ”/CH ./CH end/P_s
+start/Ps Chị/Nc Nguyễn_Thị_Kinh/Np nói/V :/CH “/CH Hết/V ảnh_hưởng/N của/E bão/N số/N 6/M ,/CH rồi/C bão/N số/N 7/M và/C đến/E cơn/Nc áp_thấp/N này/P ,/CH sóng/N bổ/V sạt_lở/V dữ/A quá/R ,/CH chịu/V không/R thấu/R ”/CH ./CH end/P_s
+start/Ps Chưa/R lúc_nào/P chén/N cơm/N đối_với/E người/Nc dân/N quê/N tui/P quí/A như/E lúc/N này/P ”/CH -/CH anh/Nc Trần_Văn_Cư/Np ,/CH phó_chủ_tịch/N xã/N Cát_Nhơn/Np ,/CH nói/V ./CH end/P_s
+start/Ps Anh/Nc Chậm/Np cùng/C bà_con/N chòm_xóm/N thuê/V ghe/N đi/V tìm/V ./CH end/P_s
+start/Ps Vừa/R bị/V trượt/V chân/N ,/CH ông/N bị/V cuốn/V phăng/R vào/E dòng/Nc lũ/N và/C mất_hút/V ,/CH dân_làng/N kêu/V cứu/V trong/E tuyệt_vọng/V ./CH end/P_s
+start/Ps Nhiều/A khu/N dân_cư/N vùng_biển/N bị/V đe_dọa/V ./CH end/P_s
+start/Ps Tình_làng_nghĩa_xóm/N trong/E hoạn_nạn/N ,/CH bà_con/N san_sẻ/V từng/P bát/N canh/N lõng_bõng/A nấu/V bằng/E nước/N mưa/N với/E mì/N gói/N chia/V nhau/N ./CH end/P_s
+start/Ps Sở/N Y_tế/N đã/R cấp/V 200/M cơ_số/N thuốc/N (/CH trị_giá/V 180/M triệu/M đồng/Nu )/CH cho/E tuyến/N y_tế/N cơ_sở/N ,/CH đồng_thời/A phối_hợp/V với/E chính_quyền/N địa_phương/N triển_khai/V công_tác/N vệ_sinh/V môi_trường/N ,/CH xử_lý/V nguồn/N nước/N để/E phòng_chống/V dịch_bệnh/N có/V nguy_cơ/N bùng_phát/V ./CH end/P_s
+start/Ps Kiếm_ăn/V từng/R ngày/N đã/R khó/A nhưng/C mỗi/M năm/N phải/V bỏ/V ra/R 3/M -/CH 5/M triệu/M đồng/Nu mua/V bao/N dồn/V cát/N ,/CH mua/V thân/N cây/Nc dương/N về/V làm/V bờ/N cừ/N chống_đỡ/V ./CH end/P_s
+start/Ps Hàng/R trăm/M nhà/N bị/V ngập/V lũ/N ,/CH bị/V sập/V đổ/V ,/CH toàn_bộ/L heo/N ,/CH gà/N ,/CH lúa/N thóc/N ngâm/V trong/E nước/N suốt/A mấy/L ngày/N qua/R nên/C tình_trạng/N đói_kém/A là/V phổ_biến/A ./CH end/P_s
+start/Ps Hơn/A 5.000/X căn/Nc nhà/N bị/V ngập/V trong/E nước/N ,/CH gần/A 100/M căn/Nc nhà/N bị/V sập/V đổ/V ,/CH một_số/L nhà/N bị/V lũ/N cuốn/V trôi/V giờ_đây/P chỉ/R còn/R trơ/A lại/R nền/N nhà/N lở_lói/V và/C những/L khu/N vườn/N xơ_xác/A ,/CH tan_hoang/A ./CH end/P_s
+start/Ps Riêng/A tại/E xã/N Cát_Nhơn/Np (/CH huyện/N Phù_Cát/Np )/CH có/V 71/M ngôi/Nc nhà/N bị/V ngập_chìm/V trong/E nước/N lũ/N suốt/A bốn/M ngày/N qua/R ,/CH nhiều/A nhà/N đã/R bị/V sập/V đổ/V hoàn_toàn/A ./CH end/P_s
+start/Ps 420/M ngôi/Nc nhà/N bị/V sập/V hoặc/C ngập/V ,/CH trên/A 1.500/X ha/Nu lúa/N và/C hoa_màu/N ngập/V ,/CH 3.145/X m/Nu kênh/N mương/N thủy_lợi/N cùng/C 65/M công_trình/N trên/E kênh/N bị/V sạt_lở/V ,/CH 21,6/X ha/Nu hồ/N tôm/N bị/V hư_hỏng/V nặng/A ./CH end/P_s
+start/Ps Trên/E những/L bờ_rào/N ,/CH khóm/Nc tre/N đây_đó/P vẫn/R còn/V vướng/V xác/N gia_cầm/N ,/CH gia_súc/N ./CH end/P_s
+start/Ps “/CH Người_lớn/N ăn/V quấy_quá/A gì/P cũng/R được/V ,/CH nhưng/C cái/Nc khó/A bây_giờ/P là/V chuyện/N kiếm/V chén/N cơm/N hằng/R ngày/N cho/E lũ/Nc trẻ/N ./CH end/P_s
+start/Ps Anh/Nc Cao_Kiện/Np nhà/N bị/V sập/V ,/CH phải/V che/V bạt/N ở/E tạm/A trong/E sân/N bóng/N ,/CH thở_dài/V nói/V :/CH “/CH Bà_con/N ở/E đây/P sống/V bằng/E những/L chiếc/Nc ghe/N máy/N nhỏ/A hành_nghề/V lưới/N ba/M trên/E đầu/N ngọn/Nc sóng/N ./CH end/P_s
+start/Ps Ở/E Quảng_Ngãi/Np ,/CH chiều/N 27/M -/CH 10/M ,/CH trời/N hửng/V nắng/N và/C lũ/N trên/E những/L dòng/N sông/N rút/V dần/R ./CH end/P_s
+start/Ps Cái/Nc thằng/P thỉnh_thoảng/R lên/V cơn/N động_kinh/N đó/P mà/T ”/CH ./CH end/P_s
+start/Ps Nhà/N nào/P còn/V gạo/N thì/C không/R nấu/V cơm/N mà/C dành/V để/E nấu/V cháo/N trắng/A chia/V cho/E lũ/Nc trẻ/N ./CH end/P_s
+start/Ps Đi/V trên/E con/Nc đường/N làng/N bùn/N đất/N lẹp_nhẹp/A ,/CH ông/Nc Lý_Minh_Hưng/Np ,/CH cán_bộ/N xã/N Nghĩa_Hiệp/Np ,/CH nói/V :/CH “/CH Nước/N sông/N Vệ/Np dâng/V lên/R nhanh/A quá/R ./CH end/P_s
+start/Ps Hàng/R ngàn/M con_người/N nhếch_nhác/A chân_đất/N đầu/N trần/A bị/V mất/V nhà_cửa/N do/E lũ/N cuốn/V ,/CH những/L cánh/N đồng/N lúa/N chín/A mấy/L hôm/N trước/A chưa/R kịp/A gặt/V giờ/N chỉ/R còn/R trơ/A lại/R thân/N rạ/N trên/E chân/N ruộng/N bị/V thủy/N phá/V ,/CH cát/N bồi/V là/C cảnh_tượng/N bao_trùm/V ./CH end/P_s
+start/Ps Một_số/L trường_hợp/N bị/V lũ/N xoáy/V bất_thần/A cuốn/V mất/V xác/N như/C ông/Nc Lưu_Văn_Phùng/Np ,/CH trưởng_thôn/N Nhân_Ân/Np ở/E Phước_Thuận/Np ,/CH đang/R lúc/N hộ_đê/V ,/CH như/C em/N bé/N Nguyễn_Ngọc_Trực/Np -/CH học_sinh/N lớp/N 3/M (/CH thôn/N Tân_Hòa/Np ,/CH xã/N Nhơn_Hòa/Np ,/CH huyện/N An_Nhơn/Np )/CH đang/R trên/E đường/N đi/V học/V về/R ./CH end/P_s
+start/Ps Hiệp/Np bị/V lũ/N cuốn/V lúc/N 16/M giờ/Nu ngày/N 24/M -/CH 10/M ,/CH khi/N nước/N lũ/N dâng/V cao/A ./CH end/P_s
+start/Ps Bà_con/N kể/V :/CH thấy/V lũ/N dâng/V nhanh/A quá/R ,/CH sắp/R vỡ/V đê/N nên/C ông/N vận_động/V dân_làng/N ra/V hộ_đê/V ./CH end/P_s
+start/Ps Đến/E sáng/N 27/M -/CH 10/M -/CH 2005/M ,/CH lũ/N bắt_đầu/V rút/V ,/CH hàng/R ngàn/M nông_dân/N vẫn/R chưa/R hết/V bàng_hoàng/A khi/N đang/R đối_mặt/V với/E cảnh/N màn_trời_chiếu_đất/N .../X end/P_s
+start/Ps Một/M không_khí/N tang_thương/A bao_trùm/V lên/R hầu_khắp/X các/L làng_mạc/N khu_vực/N phía/N đông/N ven/N biển/N các/L huyện/N Tuy_Phước/Np ,/CH Phù_Cát/Np ,/CH An_Nhơn/Np ./CH end/P_s
+start/Ps Nó/P đi/V rồi/C .../X end/P_s
+start/Ps Hội/N Chữ_thập_đỏ/N tỉnh/N Bình_Định/Np đã/R trích/V gần/A 30/M triệu/M đồng/Nu mua/V mì/N gói/N ,/CH dầu_ăn/N ,/CH chăn/N màn/N để/E cứu_trợ/V khẩn_cấp/A cho/E các/L vùng/N bị/V thiệt_hại/A nặng/A ./CH end/P_s
+start/Ps Theo/E thống_kê/N của/E Ban/N chỉ_huy/V phòng_chống/V lụt/N bão/N và/C tìm_kiếm/V cứu/V nạn/N tỉnh/N Quảng_Ngãi/Np ,/CH trong/E đợt/N mưa_lũ/N này/P toàn/R tỉnh/N có/V hai/M người/N chết/V ./CH end/P_s
+start/Ps Nhiều/A tuyến/N đường/N ở/E các/L huyện/N miền/N núi/N bị/V sạt_lở/V ./CH end/P_s
+start/Ps Chị/Nc Tám/Np -/CH mẹ/N cháu/N bé/Nc Nguyễn_Ngọc_Trực/Np ,/CH 8/M tuổi/Nu ,/CH học_sinh/N lớp/N 3/M ở/E Nhơn_Hòa/Np bị/V lũ/N cuốn/V -/CH cứ/R khư_khư/A ôm/V bọc/N quần_áo/N cũ/A của/E con/N khóc/V không/R thành/V tiếng/N :/CH “/CH Thằng/P bé/N chết/V trên/E đường/N đi/V học/V về/V ,/CH trong/E bụng/N chưa/R kịp/A có/V chén/N cơm/N ,/CH tội_tình/A chi/P bấy/A hỡi/I trời/N .../X end/P_s
+start/Ps Một/M bà/N mẹ/N ngồi_bệt/V trên/E bãi/Nc cỏ/N ,/CH vừa/R quạt/V vừa/R che/V nắng/N cho/E con_gái/N đang/R mệt_mỏi/V gối_đầu/V trong/E lòng/N ./CH end/P_s
+start/Ps “/CH Ở/E đây/P ăn/V một/M bữa/N cơm/N bằng/E mấy/L chục/M ổ/Nu bánh_mì/N của/E mẹ/N ,/CH tiền/N gửi/V xe/N cũng/R mất/V một/M ổ/N ”/CH -/CH Quyên/Np nói/V ./CH end/P_s
+start/Ps Không/R biết/V Quyên/Np có/V thi/V đậu/V vào/E Trường/N ĐH/Ny Kinh_tế/Np không/R nhưng/C trong/E ước_mơ/N của/E Quyên/Np có/V lắm/A nỗi/Nc u_buồn/A ./CH end/P_s
+start/Ps Chú/Nc Thế_Anh/Np bảo/V :/CH “/CH Chú/N rất/R vui/A khi/N mấy/L đứa/Nc con/N vào/V được/V ĐH/Ny ,/CH nhưng/C không/R đậu/V thì/C cũng/R không/R sao/P ./CH end/P_s
+start/Ps Chú/Nc Tư/Np (/CH Vũng_Tàu/Np )/CH cũng/R nói/V :/CH “/CH Tui/P có/V ba/M con/N ,/CH chỉ/R đứa/Nc gái/N út/A này/P được/R học/V hết/V phổ_thông/N ./CH end/P_s
+start/Ps Mấy/L cô/N bé/N khác/A bẽn_lẽn/A trả_lời/V “/CH tàm_tạm/A ”/CH trước/E câu/N hỏi/V về/E bài/N thi/V rồi/C xúm/V vào/E mấy/L tờ/Nc bài/N giải/V môn/N toán/N vừa/R mua/V được/R mà/C bàn_luận/V .../X end/P_s
+start/Ps Có/V ông/N bố/N ngồi/V cả/T buổi/N tìm_hiểu/V tuyến/N xe_buýt/N để/E tìm/V nhà_trọ/N cho/E con/N thi/V đợt/N thứ/N hai/M .../X end/P_s
+start/Ps Các/L ông/N bố/N ,/CH bà/N mẹ/N thi/V nhau/N kể/V về/E giấc/N mơ/V được/R đưa/V con/N vào/E ĐH/Ny ,/CH về/E những/L đêm/N con/N thức/V làm/V bài_tập/N ,/CH mẹ/N không/R ngủ/V ,/CH cha/N cũng/R trằn_trọc/V như/E thuở/N “/CH bên/N ướt/A mẹ/N nằm/V ,/CH bên/N ráo/A con/N lăn/V ”/CH ngày/N nào/P ./CH end/P_s
+start/Ps Loan/Np đến/V từ/E Vũng_Tàu/Np ,/CH thi/V vào/V khoa/N lý/N Trường/N ĐH/Ny Sư_phạm/Np ,/CH khóc/V tức_tưởi/A khi/N kể/V cô/N đã/R nhầm_lẫn/V dấu/N cộng/V (/CH +/CH )/CH ,/CH dấu/N trừ/V (/CH -/CH )/CH trong/E bài/Nc toán/N ./CH end/P_s
+start/Ps Ngày_xưa/N mỗi/M tháng/N gửi/V tiền/N cho/E chúng/P ăn_học/V là/C tôi/P phải/V chạy/V khắp/A xóm/N vay/V ,/CH gửi/V ba_bốn/M lần/N mới/R đủ/A vài/L trăm_ngàn/M ,/CH nhà/N chẳng/R có/V gì/P để/E bán/V ”/CH ./CH end/P_s
+start/Ps ”/CH ,/CH lập_tức/R các/L bà/N khác/A đồng_thanh/R phản_đối/V :/CH “/CH Lâu/A sao/P được/R ./CH end/P_s
+start/Ps Người/N mừng/V vui/A khi/N nghe/V con/N làm/V bài/N được/R ,/CH người/N nét/N mặt/N buồn/A vì/E con/N làm/V không/R hết/V bài/N ./CH end/P_s
+start/Ps “/CH Sống/V ở/E Sài_Gòn/Np sẽ/R tốn_kém/V lắm/R ./CH end/P_s
+start/Ps Mỗi/L ngày/N cậu/N đi/V bộ/N 5/M -/CH 6/M km/Nu để/E đến/V trường/N ,/CH nửa_đêm/N cầm/V đèn/N ra/V lô/N cao_su/N làm/V thợ/N cạo/V mủ/N ./CH end/P_s
+start/Ps Một/M lát/N các/L em/N về/V ,/CH đầy_ắp/A tiếng/N cười/V ,/CH lời/N hỏi_han/V và/C cả/T những/L giọt/Nc nước_mắt/N .../X end/P_s
+start/Ps Phải/V lâu/A hơn/R nữa/R để/E mấy/L đứa/Nc đủ/A thời_gian/N làm/V bài/N chứ/T ”/CH ./CH end/P_s
+start/Ps HCM/Ny ./CH end/P_s
+start/Ps Mẹ/N ngăn_cản/V ,/CH cậu/N cặn_kẽ/A tính_toán/V :/CH “/CH Cứ/R để/V con/N làm/V để/E có/V tiền/N học/V thêm/V ,/CH không/R thì/C mẹ/N lo/V sao/P nổi/R ”/CH ./CH end/P_s
+start/Ps Một/M ông/N bố/N leo/V lên/V yên/N xe/N Honda/Np ,/CH đứng/V dựa/V vào/E gốc/N cây/N để/E dõi/V mắt/N tìm/V con/N ./CH end/P_s
+start/Ps Nói/V rồi/R mọi/L người/N quay/V sang/V an_ủi/V Loan/Np ,/CH cô/N bé/N nức_nở/V kể/V rằng/C mẹ/N đang/R phải/V nằm/V bệnh_viện/N ,/CH nghe/V con/N làm/V bài/N không/R được/V chắc/A sẽ/R buồn/A lắm/R ./CH end/P_s
+start/Ps Cánh/N cửa/N ĐH/Ny còn/R mở/V rộng/A nhiều/A năm/N nữa/R mà/T ”/CH ./CH end/P_s
+start/Ps TT/Ny -/CH Một/M bà/N mẹ/N giật_mình/V trước/E cổng/N trường/N khi/N nghe/V vọng/V ra/V tiếng/N chuông/N báo/V bắt_đầu/V giờ/N thi/V ./CH end/P_s
+start/Ps Chị/Nc Ba/Np (/CH Đồng_Nai/Np )/CH nói/V :/CH “/CH Không/R vào/V ĐH/Ny được/R năm/N nay/P thì/C cháu/N có_thể/R ôn/V thi/V cho/E sang_năm/N ,/CH cũng/R có_thể/R học/V trung_cấp/A ,/CH cao_đẳng/A ./CH end/P_s
+start/Ps Bà/N mẹ/N ngồi/V bên/N phải/A kể/V về/E tô/N hủ_tiếu/N với/E giá/N khủng_khiếp/A 7.000/X đ/Nu mà/C mẹ_con/N bà/N mới/R đánh_liều/V vào/V quán/N ăn/V khi/N sáng/N ./CH end/P_s
+start/Ps Kết_thúc/V buổi/N thi/V thứ/N ba/M ,/CH quay/V lại/R thăm/V các/L phòng/N trọ/V tôi/P đã/R thấy/V các/L túi_xách/N ,/CH vali/Nb xếp_đặt/V gọn_gàng/A ./CH end/P_s
+start/Ps Đó/P là/V những/L hình_ảnh/N phóng_viên/N Tuổi_Trẻ/Np ghi/V lại/R được/V trong/E đợt/N thi/V đại_học/N đầu_tiên/A tại/E TP/Ny ./CH end/P_s
+start/Ps “/CH Bán/V vậy/P chứ/C bán/V nữa/R ,/CH bán/V hết/V đất/N ,/CH hết/V nhà/N thì/C tôi/P cũng/R bán/V ,/CH lên/V đây/P bán/V vé_số/N cho/E con/N ăn_học/V tôi/P cũng/R bằng_lòng/V ”/CH -/CH chị/Nc Ba_Miên/Np ở/E Đồng_Tháp/Np góp/V chuyện/N ./CH end/P_s
+start/Ps Bà/N mẹ/N đến/V từ/E Bình_Dương/Np say_sưa/V kể/V về/E cậu/N con_trai/N tên/N Nhu/Np của/E bà/N ./CH end/P_s
+start/Ps Tụi/Nc nhỏ/N mà/C thi/V đậu/V thì/C tụi/Nc tui/P càng/R lo/V hơn/R ”/CH ./CH end/P_s
+start/Ps Mấy/L ông/N bố/N ,/CH bà/N mẹ/N nâng_niu/V mang/V cho/E con/N từng/P hộp/Nc cơm/N được/V Hội/N Sinh_viên/N phát/V miễn_phí/V cho/E những/L người/N ở/V phòng/N trọ/V miễn_phí/V .../X end/P_s
+start/Ps Em/N ráng/V làm/V bài/N lắm/T nhưng/C lại/R cũng/R muốn/V nghỉ/V học/V ,/CH đi/V làm/V ngay/R để/E giúp/V mẹ/N ”/CH ./CH end/P_s
+start/Ps Vòng/V quanh/N các/L điểm/N thi/V ,/CH bao_nhiêu/P thí_sinh/N là/V bấy_nhiêu/P hoàn_cảnh/N ./CH end/P_s
+start/Ps Có/V bà/N mẹ/N chuẩn_bị/V cùng/A con/N đón/V xe/N về/V quê/N ,/CH ở/E đó/P còn/V ruộng/N vườn/N ,/CH gà/N vịt/N ./CH end/P_s
+start/Ps HCM/Ny )/CH gần/A trưa/N ngày/N thi/V đầu_tiên/A 4/M -/CH 7/M ,/CH tôi/P chen/V lẫn/R vào/E một/M đám/Nc đông/A các/L bà/N mẹ/N đang/R ngồi_bệt/V trên/E bồn/Nc cây/N ven/N đường/N chờ/V con/N ./CH end/P_s
+start/Ps Một/M phụ_nữ/N ngồi/V bên/N vừa/R quạt/V mồ_hôi/N nhễ_nhại/A trên/E mặt/N vừa/R đồng_tình/V :/CH “/CH Nhà/N tôi/P cũng/R thế/P ,/CH phải/V ráng/V lo/V cho/E tụi/Nc nhỏ/N ăn_học/V ,/CH có_học/A mới/R đỡ/V cực/A ./CH end/P_s
+start/Ps Ở/V phòng/N trọ/V miễn_phí/V trên/E đường/N Lý_Chính_Thắng/Np ,/CH chú/Nc Thế_Anh/Np tâm_sự/V :/CH “/CH Bây_giờ/P được/R như_vậy/X là/C đỡ/V lắm/T ,/CH nhờ/E mấy/L đứa/Nc lớn/N đã/R đi/V làm/V có/V thu_nhập/N ./CH end/P_s
+start/Ps Tố_Quyên/Np nhà/N ở/E Biên_Hòa/Np ,/CH ngồi/V dưới/E chân/N một/M cột/N điện/N trước/E cổng/N Trường/N Chu_Văn_An/Np sau/E giờ/N thi/V toán/N ,/CH ngân_ngấn/A nước_mắt/N :/CH “/CH Ba/N mong/V em/N thi/V đậu/V ,/CH còn/C mẹ/N thì/C .../X end/P_s
+start/Ps Chú/Nc Tư_Định/Np ở/E Tiền_Giang/Np cũng/R đồng_ý/V thế/P ./CH end/P_s
+start/Ps ,/CH rồi/C quay/V sang/R xếp/V lại/R cái/Nc mền/N ,/CH cái/Nc gối/N cho/E rộng/A chỗ/N ./CH end/P_s
+start/Ps Trước/E cổng/N Trường/N Marie_Curie/Np (/CH TP/Ny ./CH end/P_s
+start/Ps Và/C đôi/M mắt/N lại/R hướng/V vào/E phòng/N thi/V ngóng_trông/V ./CH end/P_s
+start/Ps Những/L người/N xa_lạ/A với/E giọng/N nói/V mang/V nhiều/A âm_sắc/N khác/A nhau/N từ/E các/L miền/N nhanh_chóng/A trở_thành/V thân_mật/A ./CH end/P_s
+start/Ps Làm_vườn/V nắng/V lên/V ,/CH mưa/V xuống/V là/C đã/R thấy/V bấp_bênh/A hũ/N gạo/N ”/CH -/CH bà/N thở_dài/V ./CH end/P_s
+start/Ps Họ/P chứng_minh/V trước_hết/N bằng/E việc/N khăn_gói/N theo/V con/N ,/CH co/V chân/N bó_gối/V suốt/A đêm/N trên/E sàn/N nhà/N và/C căn/Nc gác/N cộng/V lại/R chưa/R được/V 60/M m2/Nu mà/C đợt/N thi/V này/P phải/A chứa/V tới/T 60/M người/N ./CH end/P_s
+start/Ps Các/L ông/N bố/N ,/CH bà/N mẹ/N ngồi/V xung_quanh/N âu_yếm/V nghe/V con_gái/N nói_chuyện/V phương_trình/N đồ_thị/N ,/CH dao_động/V điều_hòa/V ,/CH phản_ứng/V oxy_hóa/V .../X end/P_s
+start/Ps Quyên/Np kể/V ba_mẹ/N em/N phải/V thức/V dậy/V từ/E 12/M g/Nu đêm/N mỗi/M ngày/N để/E làm/V bánh_mì/N ,/CH cả/T ngày/N ba/N đi/V bỏ_mối/V ,/CH mẹ/N mang/V bánh_mì/N bán_lẻ/V để/E có/V thêm/V vài/L đồng/Nu tiền/N lãi/V ./CH end/P_s
+start/Ps Vừa/R ngồi/V xuống/V vệ/N đường/N ,/CH họ/P nói/V :/CH “/CH Nhiều/A thứ/Nc lắm/T nhưng/C thôi/V ,/CH chờ/V con/N thi/V xong/V dẫn/V con/N đi/V ăn/V luôn/R ,/CH bây_giờ/P có_lẽ/X nó/P đói/V lắm/R rồi/R ”/CH ./CH end/P_s
+start/Ps Con/N học/V được/R đến/E đâu/P thì/C mình/P cũng/R ráng/V lo/V đến/E đấy/P ”/CH ./CH end/P_s
+start/Ps Họ/P cùng/A nhau/N thực_hiện/V một/M ước_mơ/N .../X end/P_s
+start/Ps Nó/P lên/V được/R ĐH/Ny thì/C phải/V đổi/V mấy/L vuông/Nu tôm/N tôi/P cũng/R ưng/V ,/CH nếu/C không/R đậu/V được/R thì/C thôi/V ,/CH cũng/R tùy/V nó/P chọn/V nghề/N ,/CH chọn/V nghiệp/N ”/CH ./CH end/P_s
+start/Ps “/CH Mà/C tôi/P lo/V không/R nổi/R thật/A ./CH end/P_s
+start/Ps Linh/Np (/CH Đà_Lạt/Np )/CH kể/V làm/V bài/Nc toán/N không/R tốt/A ,/CH đã/R nản/V lắm/T ,/CH mắt/N mở/V không/R lên/V nữa/R vì/E cả/P đêm/N không/R ngủ/V ,/CH nhưng/C “/CH vừa/R cầm/V tới/E đề/N thi/V môn/N lý/N thì/C em/N tỉnh/A hẳn/R ,/CH làm/V một_mạch/N từ/E đầu/N tới/E cuối/N ”/CH ./CH end/P_s
+start/Ps Họ/P cùng/A có/V một/M câu_chuyện/N ,/CH một/M nỗi/Nc lo/V ,/CH một/M mong_mỏi/V ./CH end/P_s
+start/Ps Một_vài/L bà/N tranh_thủ/V cùng/A nhau/N đi/V bộ/N ra/V một/M quán/N gần/A đó/P ăn/V chút/L lót_dạ/V ,/CH nhưng/C vừa/R đi/V đã/R quay/V trở_lại/V ,/CH bồn_chồn/A ./CH end/P_s
+start/Ps Trên/E đường/N xuất_hiện/V nhiều/A cặp/N cha/N -/CH con/N ,/CH mẹ/N -/CH con/N ,/CH hay/C có_khi/X là/C cả/T nhà/N ,/CH tay_xách_nách_mang/X vừa/R đi/V vừa/R dò/V bản_đồ/N ./CH end/P_s
+start/Ps Con/N vẫn/R là/V con/N yêu/V của/E mình/P ,/CH cơ_hội/N thì/C vẫn/R còn/V nhiều/A ”/CH ./CH end/P_s
+start/Ps Cực/A thì/C đã/R cực/A rồi/R -/CH anh/Nc Đạt/Np cười/V ,/CH nói/V về/E hai/M cha_con/N ngồi/V trên/E giường/N đối_diện/V -/CH Tui/P cũng/R mới/R nhận/V bố_con/N họ/P về/V từ/E sáng/N ./CH end/P_s
+start/Ps Đây/P là/V một/M trong/E số/N hơn/R 50/M gia_đình/N ở/E La_Chữ/Np năm/N nay/P có/V con/N thi/V vào/V đại_học/N ./CH end/P_s
+start/Ps Và/C họ/P đều/R rộng/A lòng/N với/E tất_cả/L TS/Ny ,/CH người_nhà/N ./CH end/P_s
+start/Ps Anh/Nc Lê_Đông/Np ,/CH bí_thư/N Xã_đoàn/N Hương_Chữ/Np ,/CH cho/V biết/V để/E giúp_đỡ/V mùa/N thi/V ,/CH hơn/A 30/M tình_nguyện_viên/N xã_đoàn/N đã/R vào_cuộc/V ./CH end/P_s
+start/Ps Con/N họ/P cũng/R giống/A con/N mình/P đi/V thi/V ./CH end/P_s
+start/Ps Vốn/R nhà/N ở/E trong/E hẻm/N khá/R xa/A trường_thi/N nên/C khi/N nhiều/A gia_đình/N trong/E làng/N nuôi/V người/N ở/V trọ/V mà/C nhà/N mình/P không/R ai/P tìm/V đến/V ,/CH ông/Nc An/Np đã/R “/CH sáng_kiến/V ”/CH sai/V đứa/Nc con/N trai/N ra/V đường_cái/N đón/V TS/Ny ./CH end/P_s
+start/Ps Tính/V đến/E chiều/N 6/M -/CH 7/M ,/CH hơn/A 700/M hộ/N thơm_thảo/A của/E làng/N La_Chữ/Np đã/R nằm/V trong/E danh_sách/N cho/V trọ/V ,/CH và/C ít_nhất/X 1.000/X TS/Ny và/C người_nhà/N đã/R được/V các/L tình_nguyện_viên/N bố_trí/V tại/E chỗ/N trọ/V hoàn_toàn/A miễn_phí/V trong/E làng/N ./CH end/P_s
+start/Ps Trong/E mùa/Nc tuyển_sinh/V năm/N trước/N ,/CH gia_đình/N ông/N cũng/R giúp/V ăn_ở/V cho/E năm/M người_nhà/N và/C TS/Ny từ/E xa/A đến/V ,/CH từ_chối/V nhận/V bất_cứ/R đồng_tiền/N nào/P ./CH end/P_s
+start/Ps Bằng/E tấm/N lòng/N thơm_thảo/A đến/E lạ_lùng/A ,/CH ai_ai/P cũng/R bắt_tay/V vào/E lo/V ăn/V lo/V ở/V cho/E các/L sĩ_tử/N từ/E khắp/N đất_nước/N đổ/V về/R dự/V thi/V đại_học/N tại/E làng/N mình/P mà/C không/R nhận/V bất_cứ/R một/M thứ/Nc gì/P ngoài/E việc/N mong/V sao/P thí_sinh/N đỗ_đạt/V ./CH end/P_s
+start/Ps Họ/P được/V chia/V thành/V ba/M nhóm/N ,/CH hai/M nhóm/N đón/V thí_sinh/N ở/E hai/M đầu/N đường/N vào/V làng/N ở/E ngã/N ba/M đường/N tránh/V Huế/Np và/C quốc_lộ/N 1A/M ,/CH nhóm/N còn/V lại/R túc_trực/V tại/E cổng/N Trường/N Hương_Chữ/Np để/E dẫn/V TS/Ny vào/V tận/E các/L nhà/N cho/V ở/V trọ/V ./CH end/P_s
+start/Ps Ông/Nc Dũng/Np khoe/V gia_đình/N ông/N là/V một/M trong/E những/L nhà/N đầu_tiên/A trong/E làng/N đón/V hai/M TS/Ny về/V từ/E một/M tuần/N trước/N đó/P ./CH end/P_s
+start/Ps Có/V rau/N ăn/V rau/N ,/CH có/V cháo/N ăn/V cháo/N ,/CH chật/A nhà/N chứ/C chật/A chi/T bụng/N chú/N nờ/T !/CH ”/CH ./CH end/P_s
+start/Ps Theo/E ông/Nc Thuyên/Np ,/CH trong/E mùa/Nc tuyển_sinh/V năm/N 2004/M cả/P làng/N La_Chữ/Np có/V hơn/A 400/M gia_đình/N đã/R giúp/V gần/A 1.000/X TS/Ny và/C người_nhà/N tá_túc/V ăn_uống/V ,/CH hầu_hết/N trong/E số/N đó/P đều/R không/R lấy/V một/M đồng/Nu nào/P ./CH end/P_s
+start/Ps Giúp_đỡ/V được/R ai/P thì/C cứ/R giúp/V để/E sau/N cho/E con_cháu/N hưởng/V ”/CH -/CH nói/V rồi/C ông/N Dũng/Np dẫn/V chúng_tôi/P đi/V khoe/V góc/N học/V riêng/A được/V giăng/V bởi/E tấm/Nc màn/N mà/C ông/N “/CH thiết_kế/V ”/CH cho/E hai/M TS/Ny đến/V trọ/V ./CH end/P_s
+start/Ps Khó/A mấy/L thì/C khó/A chứ/C có/V thêm/V bốn/M ,/CH năm/M người/N nữa/R đến/V ở/E cũng/R được/V ./CH end/P_s
+start/Ps Cho_nên/C tui/P biết/V rõ/A nỗi/Nc khổ/A của/E người/N thi/V và/C gia_đình/N ”/CH ./CH end/P_s
+start/Ps Cũng/R chuyện/N giúp_đỡ/V TS/Ny ,/CH người/N dân/N La_Chữ/Np đến/E nay/P vẫn/R thường/R nhắc/V đến/E câu_chuyện/N của/E gia_đình/N ông/Nc Lê_Đình_An/Np trong/E mùa/Nc tuyển_sinh/V 2004/M ./CH end/P_s
+start/Ps ”/CH -/CH ông/Nc Thuyên/Np nói/V ./CH end/P_s
+start/Ps Bởi_vì/E ,/CH nói/V như/C ông/Nc Sót/Np ,/CH “/CH tui/P nếm/V đủ/A khi/N đưa/V mấy/L đứa/Nc trước/N đi/V thi/V xa/A ,/CH rồi/C đài_thọ/V ăn_học/V đại_học/N ,/CH chuyện/N cực/A hết_biết/X ./CH end/P_s
+start/Ps Ông/Nc Lê_Đình_Sót/Np ,/CH năm/N nay/P có/V con/N gái/N thi/V vào/E ĐH/Ny ở/E Huế/Np ,/CH cũng/R nhận/V thêm/V năm/M TS/Ny từ/E Thanh_Hóa/Np đến/E trọ/V ,/CH ăn/V và/C ở/V cùng/A ./CH end/P_s
+start/Ps “/CH Gạo/N nhà/N tui/P thì/C sẵn/A ,/CH nhỡ/V có/V thiếu_thốn/A thì/C bà_con/N trong/E làng/N giúp/V thêm/V mớ/Nc rau/N chén/N cà/N nên/C mấy/L người/N ở/V cũng/R đủ/A cả/T ”/CH -/CH ông/N nói/V ./CH end/P_s
+start/Ps Còn/C ông/Nc Phan_Đức_Bình/Np ,/CH đưa/V con/N gái/N là/V Phan_Thị_Dung/Np vào/V trọ/V thi/V ,/CH nói/V về/E tấm/N lòng/N rộng_mở/A và/C thơm_thảo/A mà/C người/N dân_làng/N La_Chữ/Np dành/V cho/E gia_đình/N ông/N :/CH “/CH Dù/C chi/P đi_nữa/X con/N gái/N tui/P cũng/R chứng_kiến/V được/R cái/T đẹp/A ,/CH cái/T tốt/A của/E lòng/N người/N ,/CH nhất_là/X đối_với/E người_dưng/N ./CH end/P_s
+start/Ps Nhà/N ông/Nc Lê_Văn_Sạn/Np là/V một/M hộ/N nghèo/A của/E xã/N vì/E cả/P gia_đình/N chỉ/R dựa/V vào/E năm/M sào/Nu ruộng/N trong/E khi/N người/N vợ/N đau/V liên_miên/A ./CH end/P_s
+start/Ps Chỉ/R mong/V răng/P cả/P sáu/M đứa/N đậu/V hết/V ”/CH -/CH ông/Nc Sót/Np cười/V ./CH end/P_s
+start/Ps Đến/E khi/N họ/P về/V ,/CH ông/N còn/R lần_lượt/R đạp/V xe/N chở/V tất_cả/P mọi/L người/N ra/V tận/E bến_xe/N phía/N Bắc/Np nằm/V cách/V đó/P hơn/A 3/M km/Nu để/E tiễn/V về/V quê/N ./CH end/P_s
+start/Ps TT/Ny -/CH Những/L ngày/N này/P ,/CH nhịp/N sống/V của/E cả/P làng/N thuần/A nông/N ấy/P thật/R kỳ_lạ/A ./CH end/P_s
+start/Ps Căn/Nc nhà/N ông/Nc Hà_Xuân_Dũng/Np ,/CH một/M gia_đình/N sáu/M mặt/N con/N cũng/R thuộc/V dạng/N khó_khăn/A trong/E làng/N ,/CH thuộc/V hàng/N “/CH hiếm/A thấy/V ”/CH :/CH bộ/Nc cửa/N phên_nứa/N tạm_bợ/A ,/CH nền/N đất/N nện/V ,/CH tường/N chưa/R tô/V trét/V ,/CH không/R một/M vật/N giá_trị/N ./CH end/P_s
+start/Ps Nói/V là/C vậy/P chứ/C vợ_chồng/N ông/N cũng/R phải/V cố/V mà/C chuẩn_bị/V bữa/N ăn/V cho/E chu_đáo/A hơn/R mọi_khi/N để/E đảm_bảo/V sức_khỏe/N cho/E các/L sĩ_tử/N cũng/R như/C cho/E con/N gái/N ông/N ./CH end/P_s
+start/Ps Thế/T nhưng/C đa_số/N TS/Ny cứ/R nhầm/V tưởng/V là/C dân/N “/CH cò/N ”/CH thuê/V trọ/V nên/C không/R ai/P theo/V về/V ./CH end/P_s
+start/Ps Tất_cả/P hoàn_toàn/A tự_nguyện/V và/C tự/P đóng_góp/V kinh_phí/N ./CH end/P_s
+start/Ps Tôi/P vào/V nhà/N gia_đình/N anh/Nc Trần_Văn_Đạt/Np ở/E xóm/N Hồ_Sen/Np ./CH end/P_s
+start/Ps Thêm/V người/N chỉ/R thêm/V chén_đũa/N ,/CH tốn_kém/V chi/P mấy/L mà/C vui_cửa_vui_nhà/X ./CH end/P_s
+start/Ps “/CH Con_cháu/N người_ta/P khác/A chi/P con_cháu/N mình/P ./CH end/P_s
+start/Ps Điều/N này/P chỉ/R có/V sống/V chung/A ,/CH ăn/V chung/A ,/CH ở/V chung/A mà/C biết/V chứ/C bằng/E lời/N thì/C không/R tả/V được/V ”/CH ./CH end/P_s
+start/Ps Chiều/N 6/M -/CH 7/M ,/CH khi/N nghe/V tôi/P tìm/V gặp/V để/E viết/V bài/N về/E chuyện/N tiếp_sức/V thi_cử/V ở/E làng/N mình/P ,/CH ông/Nc Lê_Đình_Thuyên/Np -/CH phụ_trách/V công_an/N cụm/N ba/M ,/CH khu_vực/N làng/N La_Chữ/Np -/CH bỏ/V ngay/T đám/Nc đất/N đang/R cuốc/V dở/A ngoài/E đồng/N dẫn/V tôi/P đi/V khắp/A làng/N ./CH end/P_s
+start/Ps Mãi/R sau/N gia_đình/N ông/N phải/V cậy/V đến/E tình_nguyện_viên/N mới/R dẫn/V được/R ba/M TS/Ny về/V nhà/N nuôi/V trọ/V .../X end/P_s
+start/Ps Mình/P cũng/R có/V con/N ./CH end/P_s
+start/Ps Ông/N kể/V về/E làng/N mình/P với/E một/M lòng/N tự_hào/A khôn_nguôi/V rằng/E La_Chữ/Np là/V đất/N học/V ,/CH đã/R nổi_tiếng/A là/C làng/N cử_nhân/N từ/E xưa/N với/E hàng/R chục/M người/N đỗ_đạt/V thời/N vua/N ;/CH rằng/C từ/E giải_phóng/N đến/E nay/P đã/R có/V gần/A 200/M người/N đỗ/V cử_nhân/N và/C những/L năm/N trở_lại/V đây/P bình_quân/A mỗi/M năm/N có/V 25/M -/CH 30/M con_em/N trong/E làng/N đỗ/V đại_học/N .../X end/P_s
+start/Ps Đó/P là/V làng/N La_Chữ/Np ,/CH nằm/V cách/V trung_tâm/N TP/Ny Huế/Np khoảng/A 8/M km/Nu ,/CH thuộc/V xã/N Hương_Chữ/Np ,/CH huyện/N Hương_Trà/Np ,/CH tỉnh/N Thừa_Thiên/Np -/CH Huế/Np ./CH end/P_s
+start/Ps Một/M đôi/M lông/N trĩ/N thật/A (/CH trong/E nước/N không/R có/V ,/CH phải/V nhập/V từ/E Trung_Quốc/Np )/CH giá/N 1/M -/CH 2,5/X triệu/N đồng/Nu ,/CH phải/V trữ/V ít_nhất/X 5/M -/CH 7/M đôi/M ./CH end/P_s
+start/Ps thuê/V ./CH end/P_s
+start/Ps Khi/N chúng_tôi/P đến/V nhà/N ,/CH vợ_chồng/N Công_Minh/Np cho/V biết/V vừa/R bán/V một/M chiếc/Nc long_bào/N phục_trang/N loại/N cũ/A ,/CH kết/V kim_sa/N rất/R nặng/A ,/CH rất/R kỹ_lưỡng/A ,/CH gìn_giữ/V đã/R mấy/L chục/M năm/N cho/E một/M người/Nc Đài_Loan/Np làm/V nghiên_cứu/V với/E giá/N chỉ/R vài/L trăm/M ngàn/M đồng/Nu ./CH end/P_s
+start/Ps Sau/E đó/P ,/CH vì/E hoàn_cảnh/N lịch_sử/N ,/CH không/R còn/V các/L đoàn/Nc hát/V Quảng/Np sang/V ,/CH các/L nghệ_sĩ/N cải_lương/N ,/CH hát_bội/N nước/N ta/P mới/R mày_mò/V tự/P làm/V trang_phục/N ./CH end/P_s
+start/Ps Nước/N họ/P có/V truyền_thống/N sản_xuất/V phục_trang/N cho/E nền/N sân_khấu/N lâu_đời/A nên/C đã/R thành/V dây_chuyền/N chuyên_nghiệp/A ,/CH mọi/L thứ/Nc có/V sẵn/A ,/CH mua_bán/V dễ_dàng/A ./CH end/P_s
+start/Ps Sau/E 1975/M ,/CH với/E những/L tuồng/N tích/N cải_lương/N VN/Ny lừng_lẫy/V (/CH Tiếng/N trống/N Mê_Linh/Np ,/CH Thái_hậu/Np Dương_Vân_Nga/Np ,/CH Câu_thơ/N yên/N ngựa/N ,/CH Tô_Hiến_Thành/Np xử/V án/N ,/CH Rạng/A ngọc/N Côn_Sơn/Np ,/CH Tâm_sự/N Ngọc_Hân/Np .../X end/P_s
+start/Ps Giờ/N cả/P hai/M đều/R eo_sèo/V ,/CH mỗi/M đêm/N hát/V tiền/N thuê/V phục_trang/N cho/E cả/P đoàn/Nc từ/E vài/L chục/M đến/E cả/T trăm/M bộ/Nc chỉ/R vài/L trăm/M ngàn/M trồi_sụt/V theo/E doanh_thu/N đêm/N diễn/V ,/CH nghề/N này/P càng/R sống/V khó/A ./CH end/P_s
+start/Ps rất/R hết_hồn/V :/CH 2.000/X USD/Nu ./CH end/P_s
+start/Ps Không_thể/R ngờ/V ,/CH trên/E tay/N chúng_tôi/P một/M chiếc/Nc mão/N thôi/T đã/R nặng/A 5/M -/CH 7/M kg/Nu ./CH end/P_s
+start/Ps Chỉ/R thấy/V vẻ/N sung_túc/A nơi/N cơ_sở/N Phượng_Nga/Np khi/N chúng_tôi/P đến/V đúng/A thời_điểm/N nơi/N đây/P có/V một_số/L hợp_đồng/N may/V đồ/N Anh_hùng/N xạ/N điêu/N ,/CH Thần/N điêu/N đại/A hiệp/N .../X end/P_s
+start/Ps Nhưng/C kinh_phí/N khách_hàng/N khoán/V bao_giờ/P cũng/R lỗ/V ;/CH phần/N lời/V là/C số/N đồ/N thu_hồi/V để/E cho/V thuê/V sau_này/N ./CH end/P_s
+start/Ps ”/CH ./CH end/P_s
+start/Ps Chị/Nc Nga/Np ,/CH chủ/N cơ_sở/N phục_trang/N Phượng_Nga/Np ,/CH cũng/R thở/V ra/V :/CH “/CH Phục_trang/N sân_khấu/N đang/R bị/V hạn_chế/V vì/E phía/N đoàn/N đầu_tư/V kinh_phí/N ít/A ,/CH nghệ_sĩ/N trẻ/A có/V tiền/N đầu_tư/V thì/C lại/R ít/A hiểu_biết/N ,/CH chỉ/R muốn/V làm/V theo/V ý/N mình/P ./CH end/P_s
+start/Ps Một/M bộ/Nc phục_trang/N kỹ/A thì/C làm/V trong/E vài/L ngày/N ,/CH gấp/A chỉ/R nội/N trong/E ngày/N đã/R xong/V ./CH end/P_s
+start/Ps Một/M bộ/Nc giáp/N thường/A thì/C 4/M -/CH 5/M mảnh/N ,/CH nhiều/A thì/C 7/M -/CH 8/M mảnh/N ,/CH trước_tiên/N phải/V vẽ/V ,/CH sau/E đó/P thêu/V đặc/A kín/A rồng/N ,/CH mây/N ,/CH hoa_văn/N hoặc/C kết/V kim_sa/N ;/CH tất_cả/P đều/R làm/V bằng/E tay/N tỉ_mỉ/A ./CH end/P_s
+start/Ps Tôi/P rất/R nể/A nghệ_sĩ/N Bạch_Tuyết/Np ,/CH với/E những/L vở/N lịch_sử/N Việt/Np như/C Thái_hậu/N Dương_Vân_Nga/Np ,/CH đặt/V tôi/P may/V phục_trang/N ,/CH chị/N biết/V tường_tận/A kiểu_mẫu/N hồi/N xưa/A như/C thế_nào/P với/E con/Nc rồng/N thời/N đó/P ra_sao/X ,/CH mấy/L móng/N ,/CH nằm/V ở/E đâu/P .../X end/P_s
+start/Ps Song/C từ/E thế_hệ/N Thanh_Bạch/Np ,/CH Bạch_Lê/Np ,/CH Thanh_Tòng/Np ,/CH Trường_Sơn/Np trở/V lên/V lại/R quen_thuộc/A khi/N múa/V hát/V với/E những/L bộ/Nc giáp/N nặng_trịch/A như_thế/X )/CH ./CH end/P_s
+start/Ps Nghệ_sĩ/N hát_bội/N -/CH cải_lương/N tuồng/N cổ/A Ba_Lâm/Np ,/CH sinh/V năm/N 1929/M ,/CH hiện/N đang/R kiếm/V sống/V bằng/E nghề/N làm/V hia/N sân_khấu/N ,/CH cho/V biết/V :/CH “/CH Một/M bộ_đồ/N hát/V ngày_xưa/N phải/V may/V trên_dưới/N một/M tháng/N mới/R xong/V ./CH end/P_s
+start/Ps Nó/P được/V làm/V bằng/E gọng/N kẽm/N ,/CH bồi/V giấy/N cứng/A ,/CH trang_trí/V những/L lục_lạc/N ,/CH tua/N ngù/N .../X end/P_s
+start/Ps Nghệ_sĩ/N nhiều/A người/N cứ/R đòi/V thêm/V cái/Nc này/P cái/Nc kia/P ,/CH đóng/V vai/N tì_nữ/N mà/C đòi/V may/V trang_phục/N màu_sắc/N rực_rỡ/A ,/CH tay/N bướm/N quí_phái/A thì/C anh/Nc Công_Minh/Np đành/V lắc_đầu/V ./CH end/P_s
+start/Ps Ông/N mở/V chiếc/Nc tủ/N gỗ/N xộc_xệch/A lấy/V ra/R một/M chiếc/Nc mão/N vua/N cũ_kỹ/A ông/N còn/V giữ/V được/V cho/E riêng/A mình/P ./CH end/P_s
+start/Ps Chính/T vì_thế/C phục_trang/N sân_khấu/N giai_đoạn/N này/P rất/R đẹp/A ,/CH rất/R sang/A bởi/E sự/Nc chăm_chút/V và/C đúng_mực/A :/CH có/V cách_điệu/V nhưng/C nhìn/V vào/R là/C nhận/V ra/V trang_phục/N cổ/A của/E VN/Ny ,/CH không/R bị/V cảm_giác/N sai_lệch/A lịch_sử/N ./CH end/P_s
+start/Ps HCM/Np ,/CH nguyên/S giám_đốc/N Xưởng/N Mỹ_thuật/N sân_khấu/N của/E Bộ/N VH/Ny -/CH TT/Ny ,/CH kể/V :/CH “/CH Lúc/N đó/P ,/CH mỗi/M lần/N dựng/V vở/N ,/CH họa_sĩ/N của/E đoàn/Nc phải/V nghiên_cứu/V rất/R kỹ/A ,/CH khảo_sát/V tại/E các/L viện_bảo_tàng/N ,/CH rồi/C dựa/V theo/V tính_cách/N ,/CH vai_trò/N nhân_vật/N mới/R vẽ/V thiết_kế/V giống/A như/C những/L nhà/Nc thiết_kế/V thời_trang/N hiện_nay/N ,/CH cuối_cùng/A là/C tìm/V chất_liệu/N phù_hợp/V để/E may/V ”/CH ./CH end/P_s
+start/Ps Họ/P bảo/V :/CH “/CH Chúng_tôi/P rất/R thích/V làm/V đồ/N kiểu/N ngày_xưa/N ,/CH coi/V sần_sùi/A vậy/P nhưng/C lên/V sân_khấu/N rất/R chiếu/V ,/CH rất/R đẹp/A ,/CH mặc/V bền/A đến/E vài/L chục/M năm/N ,/CH nhưng/C thời_buổi/N công_nghiệp/N ,/CH phải/V nhanh/A ,/CH nghệ_sĩ/N cũng/R không/R thích/V mặc/V đồ/N kiểu/N xưa/N nữa/R .../X end/P_s
+start/Ps Số/N nghệ_sĩ/N đặt/V may/V đồ/N riêng/A không/R nhiều/A ,/CH thị_trường/N chủ_yếu/A là/C cho/E các/L đoàn/Nc hát/V ,/CH đoàn/Nc làm/V phim/N cải_lương/N -/CH ca_nhạc/N -/CH phim_truyện/N ,/CH đài_truyền_hình/N ,/CH các/L trường/N sân_khấu/N ,/CH những/L hội_diễn/N văn_nghệ/N ,/CH những/L chương_trình/N sân_khấu/N hóa/S .../X end/P_s
+start/Ps Sau/E liveshow/Nb cải_lương/N Vươn/V tới/E tương_lai/N ,/CH người_ta/P đồn/V rùm_beng/A về/E chiếc/Nc thắt_lưng/N gắn/V hột/Nc xoàn/N của/E Vũ_Luân/Np ./CH end/P_s
+start/Ps Những/L tiếng/N thở_dài/V kín_đáo/A .../X end/P_s
+start/Ps Còn/C 15/M năm/N về/E trước/N ,/CH nổi_tiếng/A khó_tính/A ,/CH kỹ/A và/C đặt/V may/V phục_trang/N nhiều/A để/E quay/V video/Nb có/V nghệ_sĩ/N Mỹ_Châu/Np và/C Bạch_Tuyết/Np ./CH end/P_s
+start/Ps Khởi_nguồn/N từ/E .../X end/P_s
+start/Ps Thời/N sân_khấu/N diễn/V và/C video/Nb cải_lương/N thịnh/V ,/CH nghề/N này/P sống/V được/R ./CH end/P_s
+start/Ps Kiểu_dáng/N thì/C phăng/R đủ/A màu/N đủ/A cách/N ,/CH chủ_yếu/A lấy/V từ/E phim/N Hong_Kong/Np ,/CH từ/E những/L catalogue/Nb đồ/N hát/V Quảng/Np gửi/V từ/E Hong_Kong/N về/V ./CH end/P_s
+start/Ps Dần_dà/R mọi/L người/N chuyển/V sang/V thêu/V máy/N ,/CH vẽ/V kim_tuyến/N ,/CH dán/V keo/N kim_sa/N thay_vì/X kết/V từng/P hột/Nc .../X end/P_s
+start/Ps Lưu_diễn/V ở/E VN/Ny trở_về/V ,/CH họ/P bán/V rẻ/A phục_trang/N lại/R cho/E các/L đoàn/Nc hát/V VN/Ny ,/CH vừa/R đỡ/V nặng_nề/A hành_lý/N vừa/R có/V điều_kiện/N mua/V hàng/N mới/A ./CH end/P_s
+start/Ps Những/L tiếng/N thở_dài/V vẫn/R còn/V đó/P .../X end/P_s
+start/Ps Nghệ_sĩ/N nghèo/A có_thể/R cả/P đời/N không/R sở_hữu/V được/R một/M đôi/M lông/N trĩ/N tiền/N triệu/M ,/CH xài/V toàn/R đồ/N thuê/V ,/CH vuốt/N gãy/V phải/V đền/V ;/CH hoặc/C có/V một/M đôi/M xài/V vài/L chục/M năm/N từ/E đời/N cha/N qua/V đời/N con/N ./CH end/P_s
+start/Ps Chính/T vợ_chồng/N Công_Minh/Np đã/R nghĩ/V ra/R cách/N in/V lụa/N trên/E vải/N để/E thêu/V hoặc/C kết/V ./CH end/P_s
+start/Ps Chị/Nc Bạch_Tuyết/Np thì/C nói/V chỗ/N nhược/A hình_thể/N của/E mình/P để/E khắc_phục/V ,/CH yêu_cầu/V các/L chi_tiết/N mẫu/N phải/V hoàn_toàn/A chính_xác/A ,/CH rất/R khó/A nhưng/C cũng/R rất/R dễ/A ”/CH ./CH end/P_s
+start/Ps Vải_vóc/N không/R trừ/V một/M loại/Nc nào/P từ/E bố/N ,/CH nhung/N ,/CH lụa/N ,/CH xoa/N truyền_thống/A đến/E katê/Nb ,/CH kaki/Nb ,/CH vải/N quần/N tây/N thời/N hiện_đại/A với/E đủ/A màu_sắc/N hoa_văn/N như/C sọc/N ,/CH carô/Nb .../X end/P_s
+start/Ps Thế/T nên/C mới/R có/V chuyện/N trên/E sân_khấu/N “/CH ngôi_sao/N ”/CH đóng/V vai/N tướng/N mặc/V đồ/N rực_rỡ/A hơn/R cả/T vua/N ;/CH nghệ_sĩ/N nổi_tiếng/A đóng/V vai/N Lương_Sơn_Bá/Np có/V gia_cảnh/N thường/A thôi/T nhưng/C mặc/V đồ/N đẹp/A ,/CH sang/A gấp/V mấy/L lần/N Mã_Văn_Tài/Np con/N quan/N thái_thú/N do/E nghệ_sĩ/N dàn/N bao/N đóng/V ./CH end/P_s
+start/Ps Chỉ/R diễn/V có/R vài/L suất/N vở/N Võ_Tắc_Thiên/Np ,/CH không/R thuộc/V hàng/N ngôi_sao/N giàu_có/A ,/CH Trinh_Trinh/Np cũng/R dám/V bỏ/V ra/R cả/T chục/M triệu/M đồng/Nu may/V đồ/N riêng/A cho/E thật/R lộng_lẫy/A ,/CH đặc_sắc/A .../X end/P_s
+start/Ps Đó/P là/V sự_thật/N về/E lịch_sử/N phục_trang/N cải_lương/N và/C hát_bội/N từ/E những/L năm/N đầu/N thế_kỷ/N 20/M mà/C nhiều/A nghệ_sĩ/N lớn_tuổi/A và/C những/L người/N hiện/N đang/R làm/V nghề/N may/V phục_trang/N ,/CH đóng/V hia/N ,/CH kết/V mão/N cho/E sân_khấu/N như/C nghệ_sĩ/N Ba_Lâm/Np ,/CH Bo_Bo_Hoàng/Np ,/CH Công_Minh/Np ,/CH Phượng_Nga/Np xác_nhận/V ./CH end/P_s
+start/Ps Lão/N nghệ_sĩ/N nói/V thêm/V :/CH “/CH Phải/V làm/V như_vậy/X mới/R đúng/A một/M bộ/Nc giáp/N thật/A ./CH end/P_s
+start/Ps Những/L nghệ_sĩ/N hát_bội/N hát_đình/N bây_giờ/P cũng/R xài/V y_như/A xưa/N ,/CH vì/E nghèo/A ,/CH đi/V xe_cộ/N chật_chội/A ,/CH làm/V kiểu/N xưa/N cũng/R xài/V bền/A .../X end/P_s
+start/Ps Nghệ_sĩ_nhân_dân/N -/CH họa_sĩ/N thiết_kế/V mỹ_thuật/N sân_khấu/N Lương_Đống/Np ,/CH đã/R thiết_kế/V mỹ_thuật/N cho/E hầu_hết/X các/L đoàn/Nc cải_lương/N ở/E TP/Ny ./CH end/P_s
+start/Ps (/CH Có/V lần/N Kim_Tử_Long/Np đã/R thử/V mặc/V một/M bộ/Nc giáp/N xưa/A ,/CH mới/R diễn/V được/R một/M màn/N anh/N đã/R ra/V mồ_hôi/N như/C tắm/V ,/CH thở/V không/R nổi/V .../X end/P_s
+start/Ps Thật_ra/X đó/P chỉ/R là/V chiếc/Nc dây/N nịt/V gắn/V hột/Nc đá/N Mỹ/Np anh/N mua/V từ/E nước_ngoài/N với/E cái/T giá/N cũng/R .../X end/P_s
+start/Ps Hơn_nữa/C ngày_xưa/N đi_lại/V khó_khăn/A ,/CH không/R làm/V cứng_cáp/A thì/C khi/N chất/V đồ/N lên/E tàu_xe/N ,/CH ghe_xuồng/N sẽ/R bị/V móp/V méo/A ,/CH hư_hỏng/A không/R xài/V được/R ./CH end/P_s
+start/Ps Với/E giới/Nc chủ/N ,/CH làm/V nghề/N này/P phải/V chịu/V chôn/V vốn/N ./CH end/P_s
+start/Ps Làm_việc/V với/E những/L nghệ_sĩ/N như_thế/X tôi/P thấy/V rất/R vui/A và/C say_mê/V !/CH ”/CH ./CH end/P_s
+start/Ps Nhìn/V sơ/A qui_mô/N kho/N đồ/N ngồn_ngộn/A của/E vợ_chồng/N Công_Minh/Np đã/R thấy/V ngợp/V ./CH end/P_s
+start/Ps Được/R biết/V đến/V trong/E số/N hiếm_hoi/A những/L người/N còn/R làm/V phục_trang/N sân_khấu/N hiện_nay/N là/V vợ_chồng/N nghệ_sĩ/N Công_Minh/Np ,/CH chị_em/N Phượng_Nga/Np và/C Bảo_Ly/Np ./CH end/P_s
+start/Ps Tính/V trung_bình/A mỗi/M bộ/Nc khoảng/A 20/M -/CH 30/M kg/Nu ,/CH nặng/A có_thể/R lên/V tới/T 40/M -/CH 50/M kg/Nu ”/CH ./CH end/P_s
+start/Ps theo/E đơn/N đặt_hàng/V của/E nghệ_sĩ/N hải_ngoại/N ;/CH còn/C vợ_chồng/N Công_Minh/Np hiện/N phải/V sống/V thêm/V bằng/E nghề/N tay_trái/A ./CH end/P_s
+start/Ps Để/E giữ/V mối/N làm_ăn/V lâu_dài/A ,/CH nơi/N nào/P yêu_cầu/V may/V đồ/N cho/E họ/P thuê/V làm/V vở/N mới/A cũng/R phải/V đáp_ứng/V ngay/R ./CH end/P_s
+start/Ps Mấy/L mươi/M năm/N về/E trước/N ,/CH từ/E thời/N những/L lão/N nghệ_sĩ/N nay/P đã/R trăm_tuổi/V như/C Năm_Châu/Np ,/CH Phùng_Há/Np ,/CH Ba_Vân/Np ,/CH Minh_Tơ/Np làm/V gánh_hát/N ,/CH phục_trang/N hầu_hết/X được/R mua/V lại/R của/E những/L đoàn/Nc hát/V Quảng/Np từ/E Hong_Kong/Np ,/CH Quảng_Châu/Np (/CH Trung_Quốc/Np )/CH sang/V VN/Ny biểu_diễn/V ./CH end/P_s
+start/Ps Dù/C gì/P ảnh/N cũng/R là/V con/N bầu/N Minh_Tơ/Np ,/CH cũng/R có/V hiểu_biết/N ,/CH cần/V phải/V giữ/V lại/R chút/L gì/P cho/E nghề/N tổ/N !/CH ”/CH ./CH end/P_s
+start/Ps TT/Ny -/CH Những_tưởng/V mớ/Nc áo/N mão/N vô_tri/A không/R biết/V nói/V ,/CH song/C đó/P cũng/R lại/R là/V một/M thế_giới/N riêng/A có/V lắm/A bi/A -/CH hài/A lẫn/C những/L tiếng/N thở_dài/V .../X end/P_s
+start/Ps Chị/Nc Yến_Phương/Np -/CH vợ/N nghệ_sĩ/N Công_Minh/Np -/CH nói/V mà/C như/C thở_dài/V :/CH “/CH Làm_ăn/V thì/C phải/V chiều/V khách/N ,/CH sân_khấu/N cũng/R rất/R cần/V màu_sắc/N để/E có/V cái/Nc cho/E khán_giả/N xem/V ,/CH thấy/V thích_thú/V ,/CH nhưng/C làm/V quá_đáng/A khán_giả/N sẽ/R chê_cười/V ,/CH họ/P chỉ/R biết/V mình/P may/V phục_trang/N chứ/C đâu/R hiểu/V được/R nội_tình/N ./CH end/P_s
+start/Ps Có/V những/L bộ_đồ/N trong/E liveshow/Nb của/E anh/N rất/R độc_đáo/A ,/CH do/E nhà/Nc thiết_kế/V vẽ/V mẫu/N riêng/A ./CH end/P_s
+start/Ps Việc/Nc mua_bán/V cứ/R thế/P thành/V thông_lệ/N ,/CH kéo_dài/V đến/E tận/E những/L năm/N trước/N 1975/M ./CH end/P_s
+start/Ps Đoàn/Nc hát/V VN/Ny thì/C cũng/R đỡ/V phải/V lặn_lội/V đường/N xa/A ,/CH đỡ/V tiền/N tàu_xe/N đi/V mua/V đồ/N hát/V ./CH end/P_s
+start/Ps Chị/Nc Yến_Phương/Np kể/V :/CH “/CH Chị/Nc Mỹ_Châu/N luôn/R yêu_cầu/V đẹp/A ,/CH sang/A mà/C không/R cầu_kỳ/A ./CH end/P_s
+start/Ps Anh/Nc Văn_Đình_Quang/Np ,/CH người/N đang/R được/V anh/Nc Phúc/Np giao/V quản_lý/V các/L trại/N bò/N ở/E xã/N H’Bông/X ,/CH cho/V biết/V gia_đình/N anh/N quê/N ở/E Huế/Np ,/CH khi/N lên/V H’Bông/X trước_đây/N còn/R phải/V tính/V từng/P bữa/N cơm/N sao/P cho/E đủ/A ./CH end/P_s
+start/Ps Sau/E một/M năm/N ,/CH bán/V số/N bò/N đi/R lấy/V tiền/N cộng/V thêm/R số/N vốn/N tích_cóp/V lâu_nay/N ,/CH anh/N mua/V mười/M con/Nc bò/N ./CH end/P_s
+start/Ps Đàn/Nc bò/N tăng/V ,/CH anh/N nghiên_cứu/V phương_thức/N “/CH nuôi/V rẽ/V ”/CH -/CH gửi/V bò/N trong/E đồng_bào/N dân_tộc_thiểu_số/N ,/CH bò/N đẻ/V được/V hai/M con/Nc bê/N ,/CH anh/N thu/V về/E một/M con/Nc ./CH end/P_s
+start/Ps Bây_giờ/P gia_đình/N nào/P cũng/R thoát/V hẳn/R cảnh/N cơ_hàn/A ,/CH làm_ăn/V khấm_khá/A ./CH end/P_s
+start/Ps Nguyễn_Đình_Phúc/Np là/V con_trai/N thứ/N hai/M trong/E một/M gia_đình/N gồm/V bảy/M người/N con/N quanh_năm/N đói_nghèo/A ở/E Thủy_Thanh/Np ,/CH Hương_Thủy/Np ,/CH Thừa_Thiên/Np -/CH Huế/Np ./CH end/P_s
+start/Ps Trong/E lúc/N đợi/V xe/N sửa_chữa/V ,/CH anh/N xuống/V xe/N ngắm/V nhìn/V cảnh_vật/N ,/CH đất_đai/N vùng/N này/P rồi/C lân_la/V hỏi/V chuyện/N mấy/L chị/N đang/R phơi/V thóc/N ven/N đường/N ./CH end/P_s
+start/Ps Sau_này/N có/V vốn/N ,/CH hằng/R năm/N cứ/R vào/E mùa/Nc khô/A anh/N đi/V mua/V bò/N gầy/A về/R vỗ_béo/V ,/CH con/Nc nào/P đẹp/A để/V lại/R nuôi/V ,/CH con/Nc nào/P xấu/A anh/N đưa/V xuống/V các/L tỉnh/N đồng_bằng/N bán/V lấy/V tiền/N về/V mua/V bù/V con/Nc khác/A ./CH end/P_s
+start/Ps Anh/N quyết_định/V đổi/V ba/M phi/N thóc/N lấy/V ba/M con/Nc bò/N địa_phương/N về/V nuôi/V ./CH end/P_s
+start/Ps Có/V bò/N ,/CH cuộc_sống/N dần_dần/R thay_đổi/V ./CH end/P_s
+start/Ps Và/C những/L năm/N tiếp_theo/V ,/CH đàn/Nc bò/N của/E anh/N duy_trì/V ở/E mức/N gần/A 1.000/X con/Nc ,/CH mỗi/M năm/N thu/V lãi/N 600/M -/CH 700/M triệu/M đồng/Nu ./CH end/P_s
+start/Ps Anh/N đặt/V vấn_đề/N với/E chính_quyền/N địa_phương/N cho/E phát_triển/V đàn/Nc bò/N ./CH end/P_s
+start/Ps Mỗi/M hộ/N nhận/V nuôi/V bò/N từ/E 60/M -/CH 70/M con/Nc bò/N ,/CH chỉ/R cần/V một/M lao_động/N chính/A và/C một/M lao_động/N phụ/A ở/E các/L gia_đình/N chăn_dắt/V ./CH end/P_s
+start/Ps Năm/N 1978/M ,/CH khi/N anh/N mới/R lập/V gia_đình/N ở/E tuổi/N 25/M ,/CH mẹ/N anh/N cứ/R thở_dài/V thương/V con/N “/CH không/R biết/V lấy/V chi/P mà/C cho/V vợ_chồng/N mi/P lập_nghiệp/V ”/CH ./CH end/P_s
+start/Ps Nhiều/A hộ/N nuôi/V bò/N cho/V anh/Nc Phúc/Np ở/E Phú_Thiện/Np đều/R giải_quyết/V khâu/N làm/V đất/N và/C vận_chuyển/V phân_bón/N ,/CH sản_phẩm/N và/C có/V phân_bón/N cây_trồng/N ./CH end/P_s
+start/Ps Đó/P là/V đàn/Nc bò/N hơn/A 2.000/X con/N của/E anh/Nc Nguyễn_Đình_Phúc/Np -/CH người/N có/V đàn/Nc bò/N nhiều/A nhất/R Gia_Lai/Np ,/CH khởi_nghiệp/V từ/E tay_trắng/N nhảy/V xe/N lên/V cao_nguyên/N với/E ước_mơ/N hết/V đói_nghèo/A ./CH end/P_s
+start/Ps Hiện_nay/N anh/N có/V hơn/A 2.000/X con/Nc bò/N ./CH end/P_s
+start/Ps Anh_chị/N xin/V vào/V làm/V xã_viên/N Hợp_tác_xã/N nông_nghiệp/N Phú_Thiện/Np suốt/A ba/M năm/N ròng/A ,/CH đến/E năm/N 1983/M anh/N mới/R để/V dư/A được/V bốn/M thùng/N phi/N thóc/N ./CH end/P_s
+start/Ps Từ/E năm/N 2002/M đến/E nay/P năm/N nào/P anh/N cũng/R thu/V lãi/N trên/A 1/M tỉ/M đồng/Nu ./CH end/P_s
+start/Ps Sau/E ba/M năm/N ,/CH các/L gia_đình/N không_những/C trả/V nợ/N hết/V ngân_hàng/N mà/C còn/R được/V nhận/V lại/R nhà_cửa/N ./CH end/P_s
+start/Ps Và/C bước_ngoặt/N cuộc_đời/N anh/N mở/V ra/V từ/E đó/P ./CH end/P_s
+start/Ps Còn/C ông/Nc Ba_Vân/Np quê/N ở/E Tây_Sơn/Np (/CH Bình_Định/Np )/CH kể/V khóm/Nc ông/N có/V ba/M hộ/N gia_đình/N đều/R lâm/V cảnh/N vay/V tiền/N ngân_hàng/N làm_ăn/V ,/CH lỗ/N lớn/A đã/R gán/V nhà/N thế_chấp/V vì/E không/R có/V khả_năng/N trả/V nợ/N ,/CH cùng/A bỏ/V quê/N lên/V H’Bông/X làm_ăn/V ,/CH may/A gặp/V anh/Nc Phúc/Np cho/V nhận/V nuôi/V mỗi/M hộ/N 50/M -/CH 70/M con/Nc bò/N ./CH end/P_s
+start/Ps Đến/V nơi/N ngày/N trước/N ,/CH ngày/N sau/N anh/N đã/R xoay_trần/V ra/V tìm/V cây/N về/V dựng/V một/M túp/Nc lều/N tranh/N che_mưa_che_nắng/X ./CH end/P_s
+start/Ps Ngoài_ra/C gia_đình/N anh/N hằng/R năm/N còn/R thu/V lãi/N vài/L trăm/M triệu/M đồng/Nu từ/E buôn_bán/V hàng/N nông_sản/N ,/CH thực_phẩm/N ./CH end/P_s
+start/Ps Cứ/R như_thế/X ,/CH anh/N nhân/V đàn/Nc bò/N lên/V hàng/R chục/M ,/CH rồi/C được/R trăm/M con/N ./CH end/P_s
+start/Ps “/CH Ước_mong/N của/E tôi/P là/V tất_cả/P người/N dân/N nơi/N đây/P có_thể/R khấm_khá/A được/R từ/E bò/N ,/CH chấm_dứt/V cảnh/N thiếu/V ăn/V như/C ngày_trước/N tôi/P mới/R lên/V vùng_đất/N này/P ./CH end/P_s
+start/Ps Thấy/V đất_đỏ/N bazan/Nb ở/E đây/P lúc/N bấy_giờ/P còn/R bỏ_hoang/V nhiều/A ,/CH anh/N liền/R nhảy/V xe_đò/N về/V quê/N đón/V vợ/N ./CH end/P_s
+start/Ps Đất/N sẽ/R không/R phụ/V lòng/N người/N bỏ/V công/N đâu/T ”/CH -/CH anh/Nc Phúc/Np tâm_sự/V ./CH end/P_s
+start/Ps Khi/E đàn/Nc bò/N phát_triển/V lên/V con_số/N hàng/R ngàn/M ,/CH không_thể/R dừng/V lại/R ở/E vùng/N lúa/N Phú_Thiện/Np được/R nữa/R ,/CH anh/N chọn/V xã/N H’Bông/X làm/V điểm/N tập_kết/V nuôi/V bò/N tập_trung/V ./CH end/P_s
+start/Ps Sau/E mấy/L năm/N anh/N đã/R tự/P góp/V vốn/N mua/V bò/N ,/CH phát_triển/V cho/E mình/P được/V một/M đàn/Nc 90/M con/N ./CH end/P_s
+start/Ps Đối_với/E các/L hộ/N người/Nc Kinh/Np cần/V sức_kéo/N ,/CH anh/N giao/V cho/V mỗi/M hộ/N một/M cặp/M bò/N đực/A nuôi/V làm/V bò/N kéo/V và/C lấy/V phân/N ,/CH còn/C bò/N vẫn/R là/V của/E anh/N ./CH end/P_s
+start/Ps Hành_trang/N của/E vợ_chồng/N anh/N vào/V Gia_Lai/Np chỉ/R là/V vài/L bộ/Nc quần_áo/N ,/CH lên/V cao_nguyên/N lập_nghiệp/V với/E ước_mơ/N hết/V đói_nghèo/A ./CH end/P_s
+start/Ps Thấu_hiểu/V cảnh/N sống/V đất_chật_người_đông/X ,/CH khốn_khó/A trăm/M bề/N ,/CH lần/V theo/V địa_chỉ/N người/N chị/N họ/N xa/A ,/CH anh/N đến/V xã/N Ia_Blang/Np (/CH huyện/N Chư_Sê/Np ,/CH Gia_Lai/Np )/CH ./CH end/P_s
+start/Ps Đầu/N năm/N 1982/M ,/CH anh/N bị/V sốt_rét/N phải/V đi/V nằm/V viện/N mấy/L tháng/N liền/A ,/CH vợ/N anh/N lại/R phải/V còng/A lưng/N hơn/A nữa/R để/E có/V cái/N nuôi/V chồng/N ./CH end/P_s
+start/Ps Hiện_nay/N ,/CH anh/N có/V 27/M trại/N nuôi/V trên/A 1.400/X con/Nc bò/N trên/E địa_bàn/N xã/N H'Bông/X ,/CH mỗi/M tháng/N đóng/V 500.000/X đồng/Nu cho/E xã/N ./CH end/P_s
+start/Ps Đến/E năm/N 1999/M ,/CH đàn/Nc bò/N tăng/V lên/V trên/A 500/M con/Nc ,/CH anh/N bán/V đi/R 300/M con/Nc thu/V lãi/N trên/A 500/M triệu/M đồng/Nu ./CH end/P_s
+start/Ps TT/Ny -/CH Đi/V dọc/A quốc_lộ/N 25/M qua/V đèo/N Chư_Sê/Np đến/V địa_phận/N xã/N H’Bông/X (/CH huyện/N Chư_Sê/Np ,/CH Gia_Lai/Np )/CH thấy/V rất/R nhiều/A trại/N nuôi/V bò/N với/E từng/P đàn/Nc bò/N ung_dung/A gặm/V cỏ/N dưới/E tán/Nc rừng_phòng_hộ/N đầu/N nguồn/N ./CH end/P_s
+start/Ps Ngày_ngày/R hai/M vợ_chồng/N vác/V cuốc/N đi/V làm/V theo/V tập_đoàn/N sản_xuất/V ./CH end/P_s
+start/Ps Đang/R lúng_túng/A không/R biết/V làm_sao/X thì/C được/V anh/Nc Phúc/Np giúp_đỡ/V ,/CH giao/V nuôi/V 50/M con/Nc bò/N ./CH end/P_s
+start/Ps Đây/P là/V vùng_đất/N còn/R rộng/A ở/E đầu/N nguồn/N lòng/N hồ/N thủy_lợi/N Ayun_Hạ/Np ,/CH dưới/E tán/N rừng/N thưa/A là/C đồng_cỏ/N xanh/A tốt/A quanh_năm/N ./CH end/P_s
+start/Ps Cật_lực/R làm_lụng/V cũng/R đủ/A ăn/V qua_ngày/X ,/CH anh_chị/N xoay/V sang/V nấu/V rượu/N nuôi/V heo/N ./CH end/P_s
+start/Ps Nay/P gia_đình/N anh/N vừa/R quản_lý/V tất_cả/P trại/N bò/N ở/E H’Bông/X cho/E anh/Nc Phúc/Np ,/CH thời_gian/N còn/V lại/R anh/N phát_triển/V đàn/Nc bò/N của/E mình/P ./CH end/P_s
+start/Ps Một/M năm/N sau/N bán/V bò/N lớn/A lấy/V tiền/N mua/V thêm/V bò/N ./CH end/P_s
+start/Ps Thương/V vợ/N ,/CH một/M hôm/N vừa/R dứt/V cơn_sốt/N ,/CH anh/N đem/V rượu/N đi/V bán/V ở/E thị_trấn/N Phú_Bổn/Np (/CH huyện/N Ayun_Pa/Np )/CH ,/CH trên/E đường/N về/V không/R may/A chiếc/Nc xe/N chở/V khách/N đến/V thị_trấn/N Phú_Thiện/Np bị/V hỏng/A ./CH end/P_s
+start/Ps Cũng/R phải/V nói/V thêm/V ,/CH làng/N Phú_Sơn/Np có/V 1.870/X nhân_khẩu/N ,/CH chủ_yếu/A là/V công_chức/N nhà_nước/N ,/CH lao_động/V trí_óc/N nhiều/A hơn/A ,/CH việc/N đảm_bảo/V đúng/A giờ/N để/E dậy/V tập/V thể_thao/N là/V một/M khó_khăn/N ./CH end/P_s
+start/Ps T./X hoảng_hốt/V ,/CH mặt_mày/N cắt/V không/R ra/V giọt/Nc máu/N ,/CH vội/A quẳng/V gà/N đi/R và/C nhảy/V xuống/E mương/N ngâm/V mình/P tránh/V tai_hoạ/N ./CH end/P_s
+start/Ps Nhưng/C khổ/A ,/CH T./X ngâm/V đến/E gần/A sáng/N mà/C trên/E mặt_đường/N người/N vẫn/R một/M ,/CH hai/M chạy/V đều/R ./CH end/P_s
+start/Ps Người/N nào/P người/N ấy/P rũ/V ra/R mà/C ốm/A ,/CH sợ/V quá/R ,/CH đành/V bỏ_dở/V giữa_chừng/R ,/CH phong_trào/N lắng/V xuống/V ./CH end/P_s
+start/Ps Thế_là/C nghĩ_đi_nghĩ_lại/X ,/CH ngoài/E phong_trào/N thành_lập/V hội/N liên_gia/N liên/S bích/N ,/CH giúp/V nhau/N vượt/V khó/A vươn/V lên/V ,/CH lập/V hội/N khuyến_học/V của/E làng/N ,/CH xây_dựng/V mô_hình/N cả/P làng/N cùng/A học_tập/V ./CH end/P_s
+start/Ps -/CH Nghe/V nói/V uỷ_ban/N huyện/N -/CH xã/N sắp/R tặng/V bằng/N khen/V cho/E bác/N vì/E đóng_góp/V cho/E làng_xã/N ,/CH cho/V thôn/N ./CH end/P_s
+start/Ps Rằng/C trong/E cuộc/N họp/V làng/N ,/CH ông/N đã/R đề_xuất/V ,/CH bất_kỳ/R ai/P "/CH bỏ/V chạy/V "/CH một/M hôm/N ,/CH không/R tham_gia/V phong_trào/N một/M hôm/N (/CH trừ/V lý_do/N chính_đáng/A )/CH là/C phải/V nộp/V cho/E làng/N 5.000/X đ/Nu để/E sung/V vào/E quỹ/N khuyến_học/V ./CH end/P_s
+start/Ps Thì/C nay/P ,/CH tôi/P lại/R nghe/V về/E chuyện/N "/CH làng/N việt_dã/N "/CH ở/E cận/A nam/N Thanh_Hoá/Np ,/CH những/L kỳ_tích/N do/E người/N làng/N lập/V được/V cũng/R không/R kém/A phần/N hấp_dẫn/V và/C có/V ý_nghĩa/N dân_sinh/N ,/CH từ/E một/M ông_già/N mê/V thể_dục/N thể_thao/N đã/R vực/V dậy/V phong_trào/N "/CH làng/N chạy/V "/CH ,/CH làng/N việt_dã/N .../X end/P_s
+start/Ps Thế_là/C tên/N trộm/V "/CH lòi/V "/CH cái/Nc người/N phốp_pháp/A ra/V ,/CH lập_tức/R cả/P làng/N đổ_xô/V đến/V bắt/V hắn/P ./CH end/P_s
+start/Ps Để/E có/V sức_khoẻ/N ,/CH có/V tinh_thần/N ,/CH ông/N lấy/V đội/N bóng_chuyền/N ,/CH vốn/R nổi_tiếng/A Nam_Thanh/Np ra/V ,/CH làm/V mô_hình/N ./CH end/P_s
+start/Ps Chợt/R hắn/P nghe/V tiếng/N còi/N tuýt/V ,/CH tiếng/N người/N hô/V ,/CH bước/V chạy/V thình_thịch/A ,/CH chó/N cắn/V dữ_dội/A .../X end/P_s
+start/Ps Đã/R một/M dạo/N ,/CH vì/E một_số/L người/N nhác/V chạy/V ,/CH phao/V tin/N rằng/C ông/Nc Lớc/Np có/V tội/N với/E chính_quyền/N ,/CH đã/R phát_động/V người/N làng/N "/CH chạy/V tán_loạn/V "/CH ,/CH coi/V như/C là/C tuyên_truyền/V ý_đồ/N cá_nhân/N ./CH end/P_s
+start/Ps chạy/V vòng_quanh/V xóm/N .../X end/P_s
+start/Ps -/CH Tui/P (/CH tôi/P )/CH biết/V là/V có/V tội/N với/E các/L anh/N ,/CH với/E chính_quyền/N ./CH end/P_s
+start/Ps Đối_với/E người/N chưa/R tham_gia/V ,/CH muốn/V hoà_đồng/V ,/CH phải/V tuân/V theo/V nguyên_tắc/N ,/CH phải/V viết/V đơn/N tình_nguyện/V ,/CH hứa_hẹn/V đủ/A "/CH lệ/N "/CH ./CH end/P_s
+start/Ps Có/V độ/N ,/CH làng/N mới/R chạy/V thử/V ,/CH trong/E cái/T đám/Nc người/N nhô_nhố/A ,/CH chân_tay/N ngoe_nguẩy/V ,/CH người/N nào/P mạnh/A ,/CH người/N ấy/P chạy/V trước/A ,/CH hết/V tốc/N ,/CH hết_hơi/X rồi/T thì/C thở/V hổn_hển/A ./CH end/P_s
+start/Ps Đến/E bây_giờ/P ,/CH vụ/Nc bắt/V trộm/N tình_cờ/A đó/P được/R cả/T người/N xứ/N Thanh/Np kể/V như/C chuyện/N hài/A mỗi/M khi/N nhắc/V về/E làng/N chạy/V nổi_tiếng/A ./CH end/P_s
+start/Ps Ngồi/V nghe/V ông/N kể/V chuyện/N chạy/V của/E làng/N đến/E cười_ra_nước_mắt/X ./CH end/P_s
+start/Ps Anh_em/N hăng_hái/A lắm/T ,/CH nâng/V cao/A thể_lực/N bằng/E cách/N chạy/V tập/V vào/E mờ/A sáng/N ./CH end/P_s
+start/Ps Mờ/A sáng/N hôm/N đó/P ,/CH hắn/P vừa/R đến/V đầu/N làng/N Phú_Sơn/Np ,/CH đang/R xách/V mấy/L con/Nc gà/N vừa/R "/CH chôm/V "/CH được/R ,/CH đang/R hí_hởn/V đắc_thắng/A ./CH end/P_s
+start/Ps Đến/V nâng/V cao/A ý_thức/N xây_dựng/V quê_hương/N ,/CH con_cháu/N có/V học_hàm/N ,/CH học_vị/N ở/E xa/A ,/CH có_khi/X ở/E tít/R tận/E bên/N tây/N ,/CH bên/N Nga/Np ,/CH nghe/V thấy/V tin/N về/E ông/Nc Lớc/Np việt_dã/N ,/CH nghe/V tin/N làng/N mình/P khấm_khá/A ,/CH cũng/R viết/V thư/N ,/CH gửi/V tiền/N về/E ủng_hộ/V động_viên/V quê_hương/N ngày_càng/X tốt_đẹp/A ./CH end/P_s
+start/Ps -/CH Răng/P bác/N biết/V ,/CH có/V chuyện/N cấm/V đó/P mô/T ./CH end/P_s
+start/Ps Trước_kia/N công_tác/N ở/E Bộ/N Tài_chính/N ,/CH rồi/C chuyển/V làm/V Giám_đốc/N Ngân_hàng/N tỉnh/N Cà_Mau/Np ,/CH về/V hưu/V cũng/R là/V lúc/N con_cháu/N thành_đạt/V ./CH end/P_s
+start/Ps Từ/E phía/N cuối/N đường/N làng/N Phú_Sơn/Np (/CH xã/N Các_Sơn/Np -/CH Tĩnh_Gia/Np -/CH Thanh_Hoá/Np )/CH ,/CH nhà/N ông/Nc "/CH Lớc/Np việt_dã/N "/CH bỗng/R loé/V ánh/Nc điện/N sáng/N loè/V ,/CH xoá/V tan/V màn/N sương/N đêm/N lạnh_lẽo/A ./CH end/P_s
+start/Ps Chả_là/X ,/CH trong/E đội/N bóng_chuyền/N của/E làng/N ,/CH có/V người/N đã/R đi/V thi_đấu/V ở/E tỉnh/N ,/CH được/V chọn/V vào/E đội_tuyển/N ,/CH thi_đấu/V khắp/A Bắc/Np -/CH Nam/Np ./CH end/P_s
+start/Ps Thế_là/C ,/CH mỗi/M khi/N ,/CH ông/N cứ/R chạy/V ra/R ngõ/N là/V ngó/N trước/N nhìn/V sau/N xem/V có/V ai/P đến/V bắt/V quả_tang/R mình/P đang/R "/CH cầm_đầu/V "/CH làng/N đi/V chạy/V ./CH end/P_s
+start/Ps cũng/R được/V tham_gia/V đóng/V phim_truyền_hình/N ,/CH có/V người/N vì_thế/C cũng/R nổi_tiếng/A như_ai/X với/E những/L vai/N diễn/N phụ/A ,/CH vai/N quần_chúng/N .../X end/P_s
+start/Ps Nghe/V nói/V ,/CH về/E sau/N ông/N "/CH trả_thù/V "/CH những/L người/N phao/V tin_vịt/N bằng/E một/M văn_bản/N lạ_kỳ/A ./CH end/P_s
+start/Ps Đúng/A 4/M h/Nu kém/A 5/M ,/CH dù/E trời/N mưa/V ,/CH rét/A ,/CH nắng_nóng/A .../X end/P_s
+start/Ps Từ/E công_tác/N từ_thiện/A quyên_góp/V quỹ/N vì/E người/N nghèo/A ,/CH ủng_hộ/V đồng_bào/N bị/V lũ_lụt/N ,/CH thiên_tai/N ,/CH bao_giờ/P tinh_thần/N của/E làng/N cũng/R đứng/V đầu/N tỉnh_thành/N ./CH end/P_s
+start/Ps như/C làng/N đang/R đuổi/V trộm/N ,/CH lại/R thấy/V mấy/L bà/N hàng_xáo/N dưới/E xuôi/N lên/V mua/V lúa/N quẳng/V xe/N ,/CH la/V toáng/A lên/V ,/CH tưởng/V làng/N đuổi/V trộm/N ./CH end/P_s
+start/Ps Làm/V răng/P bắt/V bác/N được/V chứ/R ./CH end/P_s
+start/Ps Lại/R còn/V chuyện/N bác/N phải/V đi/V tập_huấn/V kinh_nghiệm/N thể_thao/N cho/E huyện/N ./CH end/P_s
+start/Ps Bọn/Nc trẻ_con/N ới/V gọi/V nhau/N xông_xáo/A bật/V ra/V khỏi/V giường/N ,/CH rồi/C cánh/N thanh_niên/N ,/CH người/N già/A ,/CH sức/N nào/P chạy/V nấy/P ,/CH nối_đuôi/V nhau/N theo/V bước/N chạy/V đều/A của/E ông/Nc Lớc/Np ,/CH dọc/A con/Nc đường_tỉnh_lộ/N 12/M .../X end/P_s
+start/Ps Lại/R có/V chuyện/N hài/A thế/P này/P ,/CH tên/N T./X ở/E làng/N bên/N là/V tên/N trộm/V vặt/A có/V tiếng/N ./CH end/P_s
+start/Ps Nói/V ra/R thì/C ai/P cũng/R cười/V ,/CH nhưng/C nghĩ_đi_nghĩ_lại/V ,/CH đấy/P cũng/R là/V việc/N có_ích/A ,/CH các/L đồng_chí/N lãnh_đạo/V xã/N chấp_nhận/V ủng_hộ/V và/C chuyện/N xung_quanh/N những/L lá/Nc đơn/N lạ/A đó/P làm/V người_ta/P xì_xào/V tán_thưởng/V ./CH end/P_s
+start/Ps Ông/Nc "/CH Lớc/V việt_dã/N "/CH -/CH người/N làng/N gọi/V thế/P -/CH tên/N thật/A là/C Đậu_Văn_Lớc/Np ,/CH 59/M tuổi/N ./CH end/P_s
+start/Ps Để/E lá/Nc đơn/N có/V hiệu_lực/N ,/CH ông/N còn/R "/CH đẻ/V "/CH ra/R một/M độc_chiêu/N ,/CH muốn/V xin/V được/R vào/V làng/N chạy/V ,/CH phải/V có/V chữ_ký/N và/C dấu/N đỏ/A của/E chủ_tịch/N xã/N hẳn_hoi/A ./CH end/P_s
+start/Ps Mới/R nghe/V qua/V ,/CH ông/N cũng/R giật_mình/V ,/CH nhưng/C vì/E phong_trào/N thể_dục/N thể_thao/N của/E làng/N mà/C ông/N cứ/R hô_hào/V bà_con/N chạy/V với/E niềm/Nc tin/V "/CH cây_ngay_không_sợ_chết_đứng/X "/CH ./CH end/P_s
+start/Ps Nhưng/C ông/Nc Lớc/Np lại/R bắt_mạch/V đúng/A cái/T điểm/N thiếu/A khoa_học/N của/E người/N làng/N ./CH end/P_s
+start/Ps Cả/P làng/N ta/P .../X end/P_s
+start/Ps Được/V biết/V rằng/C ,/CH nhờ/V ông/Nc "/CH Lớc/Np việt_dã/N "/CH mọi/L lứa/N tuổi/N noi/V theo/V ,/CH các/L em/N sinh_viên/N đại_học/N về/V làng/N mở/V lớp/N dạy/V thêm/V miễn_phí/V như/C cô_giáo/N Thịnh/Np ,/CH cô_giáo/N Diệp/Np .../X end/P_s
+start/Ps Ông/Nc Lớc/Np thấy/V thế/P liền/R vận_động/V cả/P làng/N ,/CH mọi/L lứa/N tuổi/N ,/CH cùng/A học_tập/V theo/V cách/N chạy/V ấy/P ,/CH thế_là/C thành/V làng/N chạy_việt_dã/N nổi_đình_nổi_đám/X như/C bây_giờ/P ./CH end/P_s
+start/Ps Nhưng/C nói/V như/C ông/Nc Lớc/Np ,/CH cái/T quý/A nhất/R là/V thấy/V lớp/Nc người/N tuổi_trẻ/N học_sinh/N nâng/V cao/A ý_chí/N vươn/V lên/V học_tập/V làm_sao/X mà/C không/R mừng/V ,/CH khi/N bản_lĩnh/N được/V tôi_luyện/V từ/E phong_trào/N thể_thao/N ,/CH mỗi/L năm/N ,/CH số/N con_em/N của/E làng/N vào/V đại_học/N từ/E 5/M đến/E 8/M em/N ./CH end/P_s
+start/Ps Đồng_chí/N Phạm_Hữu_Năm/Np -/CH Phó/S Chủ_tịch/N xã/N ,/CH cũng/R là/V người/N làng/N ,/CH thường_xuyên/A sâu_sát/A với/E phong_trào/N chạy/V của/E làng/N ,/CH cho/V biết/V :/CH Chính_quyền/N làng_xã/N cảm_ơn/V bác/Nc Lớc/Np đã/R phát_động/V phong_trào/N chạy/V thể_dục/N ,/CH nâng/V cao/A thể_lực/N và/C tinh_thần/N cho/E mọi/L người/N dân/N ,/CH không_những/C thế/P ,/CH noi/V theo/V bác/Nc Lớc/N ,/CH các/L cấp/N các/L tổ/N -/CH phường/N xã_hội/N cũng/R cho/V ra_đời/V và/C nâng/V cao/A hơn/A nữa/R những/L hoạt_động/N có_ích/A như/C :/CH Khuyến_học/V ,/CH thành_lập/V thư_viện/N sách_báo/N cho/E thôn/N ,/CH học_tập/V kinh_nghiệm/N làm_ăn/V ,/CH nuôi/V con/N tốt/A ,/CH dạy/V con/N ngoan/A .../X end/P_s
+start/Ps Có/V người/N còn/R bảo/V ,/CH ông/N sắp/V bị/V công_an/N bắt/V ,/CH ông/Nc Lớc/Np đâm_ra/V sợ/V ./CH end/P_s
+start/Ps Đảng_uỷ/N ,/CH chính_quyền/N không/R cảm_ơn/V bác/N thì/C thui/V ,/CH làm/V cho/E làng/N ,/CH cho/E nước/N được/V như_thế/P là/V một/M đóng_góp/N quý_giá/A đấy/P chứ/R ./CH end/P_s
+start/Ps Ông/Nc Lớc/Np lại/R cười/V mãn_nguyện/V .../X end/P_s
+start/Ps -/CH Tui/P biết/V ,/CH có/V người/N nói/V cho/E tui/P biết/V ./CH end/P_s
+start/Ps Về/V làng/N muốn/V góp_phần/V xây/V làng/N thêm/V phần/N tốt_đẹp/A ./CH end/P_s
+start/Ps Rồi/C các/L làng/N các/L xã/N bên/N cũng/R học/V theo/V cách/N làm/V của/E ông/Nc "/CH Lớc/Np việt_dã/N "/CH ./CH end/P_s
+start/Ps Tôi/P đã/R nghe/V nhiều/A chuyện/N ly_kỳ/A về/E "/CH làng/N Holywood/Np "/CH ở/E cực/N nam/N tổ_quốc/N ,/CH từ/E bà/N bán/V cá/N ,/CH đứa/Nc trẻ/N chăn/V trâu/N ,/CH cụ/N già/A bệnh_tật/N ốm_yếu/A lụm_khụm/A .../X end/P_s
+start/Ps Đã/R thành_lệ/V ,/CH sau/E tiếng/N còi/N lệnh/N của/E ông/Nc Lớc/Np ,/CH tiếng/N chó/N làng/N sủa/V râm_ran/A ,/CH cả/P làng/N sáng/A điện/N ./CH end/P_s
+start/Ps từ/E hơn/A một/M năm/N nay/P ,/CH nhịp_độ/N của/E làng/N chạy/V vẫn/R đảm_bảo/V làm/V cả/P xứ/N Thanh/Np khâm_phục/V ./CH end/P_s
+start/Ps Ông/Nc Lớc/Np tự/P nghĩ/V ra/R phương_pháp/N rồi/C dạy/V cách/N chạy/V cho/E mọi/L người/N :/CH Thở/V đều/R ,/CH hít/V bằng/E mũi/N ,/CH thở/V ra/R bằng/E miệng/N ,/CH đều_đều/A ,/CH chạy/V theo/V quy_tắc/N tăng/V dần/R ,/CH dài/A dần/R về/E quãng/N đường/N .../X end/P_s
+start/Ps Đáng/V lắm/R chứ/R ./CH end/P_s
+start/Ps Khi/N kết_thúc/V bài/Nc viết/V này/P ,/CH tôi/P lại/R có/V một/M so_sánh/V nho_nhỏ/A :/CH Ở/E trung_tâm/N thể_thao/N quốc_gia/N hay/C ở/E một/M câu_lạc_bộ/N nào/P đó/P ,/CH việc/N "/CH chạy/V "/CH tập/V thể_lực/N của/E vận_động_viên/N đã/R làm/V người/N hâm_mộ/V cả/P nước/N quan_tâm/V quá/R nhiều/A ./CH end/P_s
+start/Ps Ông/Nc Lớc/Np ,/CH dáng/N người/N ngắn/A củn/A ,/CH mặc/V bộ_đồ/N thể_thao/N ,/CH mồm/N ngậm/V chiếc/Nc còi/N nhôm/N thổi/V tuýt_tuýt/A náo/V cả/P xóm/N ,/CH rồi/C ông/N hô/V một/M ,/CH hai/M .../X end/P_s
+start/Ps Nên/C mới/R có/V chuyện/N ,/CH có/V cô/N cậu/N ngủ/V liều/V ,/CH bố_mẹ/N xua/V dậy/V thì/C phải/V dậy/V nhưng/C ,/CH lần/V cửa/N trước/N ,/CH ra/V cửa/N sau/N ,/CH chờ/V mọi/L người/N trong/E gia_đình/N chạy/V nhập/V vào/E đường/N chạy/V của/E làng/N là/C lại/R tót/V lên/V giường/N ngủ/V ./CH end/P_s
+start/Ps Làng/N Phú_Sơn/Np bắt_đầu/V một/M ngày/N làm_việc/V bằng/E phong_trào/N chạy/V như_thế/X ./CH end/P_s
+start/Ps Hắn/P hay/C "/CH ăn_sương/V "/CH trong/E khu_vực/N xã/N huyện/N lân_cận/A ./CH end/P_s
+start/Ps Vào/V trường/N ,/CH không/R còn/V những/L “/CH cuộc/N vui/A suốt/A sáng/N ,/CH trận/N cười/V thâu/A đêm/N ”/CH nữa/R ,/CH mọi/L sinh_hoạt/N của/E học_viên/N đều/R phải/V tuân/V theo/V thời_biểu/N đã/R được/V định/V sẵn/A ,/CH không/R được/V sai_lệch/A ,/CH không/R được/V có/V biểu_hiện/N cá_nhân/N ./CH end/P_s
+start/Ps ”/CH ./CH end/P_s
+start/Ps Trong/E đó/P có/V 6.229/X học_viên/N đã/R hoàn_thành/V giai_đoạn/N cai_nghiện/V tập_trung/V ,/CH đã/R có/V việc_làm/N và/C thu_nhập/N hằng/R tháng/N tại/E các/L trường/N và/C trung_tâm/N .../X end/P_s
+start/Ps Các/L phòng/N đều/R đã/R sáng/A đèn/N ,/CH ồn_ã/A tiếng/N nước/N chảy/V ,/CH tiếng/N nói_chuyện/V ./CH end/P_s
+start/Ps Nguyện_vọng/N thật/R chính_đáng/A và/C rất/R thật/A như/C những/L bài_học/N mà/C học_viên/N cai_nghiện/V đang/R ngày_đêm/N “/CH tụng/V ,/CH niệm/V ”/CH :/CH lao_động/V mới/R là/V cuộc_sống/N ;/CH tự_do/N mới/R là/V giá_trị/N ;/CH hạnh_phúc/N chính/T là/V về/V nhà/N .../X end/P_s
+start/Ps Các/L giáo_dục/N viên/S cho/V biết/V họ/P phải/V mất/V nhiều/A thời_gian/N suy_nghĩ/V khi/N định/V ra/R hình_thức/N xử_lý/V kỷ_luật/N với/E từng/P người/N khi/N có/V vi_phạm/V ./CH end/P_s
+start/Ps Cao_Chí_Long/Np có/V cái/Nc đầu_đinh/N và/C đôi/M mắt/N rất/R lì/A ,/CH nhưng/C trong/E hơn/A ba/M năm/N cai_nghiện/V tại/E Nhị_Xuân/Np đã/R lấy/V được/R bằng/N tốt_nghiệp/V THPT/Ny ,/CH chứng_chỉ/N kỹ_thuật_viên/N tin_học/N và/C chứng_chỉ/N Aptech/Nb ./CH end/P_s
+start/Ps Đạt/Np ,/CH một/M trong/E những/L học_viên/N thuộc/V vào/E hàng/N “/CH xịn/A ”/CH nhất/R của/E TT/Ny Nhị_Xuân/Np ,/CH học/V giỏi/A và/C không/R bao_giờ/P vi_phạm/V kỷ_luật/N ,/CH tâm_sự/V rằng/C nếu/C bây_giờ/P được/V về/V nhà/N ,/CH em/N sẽ/R “/CH lớn/A ”/CH hơn/A những/L người/N bạn/N cùng/A tuổi/N 20/M với/C mình/P nhiều/A lắm/T ./CH end/P_s
+start/Ps tái/S nghiện/V ./CH end/P_s
+start/Ps Ở/E các/L TT/Ny Đức_Hạnh/Np ,/CH Trọng_Điểm/Np ,/CH tôi/P được/V mấy/L anh/N giáo_dục/N viên/S cho/V phép/N lang_thang/V từ/E ngoài/N rẫy/N vào/E đến/E khu/N ở/V ,/CH từ/E lớp_học/N văn_hóa/N đến/E các/L xưởng/N làm_việc/V ./CH end/P_s
+start/Ps giá_như/C đừng/R nghiện/V ,/CH đừng/R phải/V đi/V cai_nghiện/V thì/C tốt/A hơn/R ./CH end/P_s
+start/Ps Sau/E bài/Nc thể_dục/N buổi/N sáng/N ,/CH từng/P đoàn/Nc học_viên/N đồng_phục/N tề_chỉnh/A ,/CH xếp_hàng/V vào/V lớp_học/N ,/CH vác/V cuốc/N ra/V rẫy/N trồng/V điều/N hay/C vào/V xưởng/N may/V ,/CH xưởng/N mộc/N ./CH end/P_s
+start/Ps nhưng/C ở/E đây/P đâu/R thể_nào/X gọi/V là/C vui/A được/R ./CH end/P_s
+start/Ps Lần/N này/P ở/E đây/P mấy/L chục/M tháng/N đã/R quá/R sợ/V rồi/R ./CH end/P_s
+start/Ps S./X là/V một/M học_viên/N rất/R nổi_tiếng/A ở/E TT/Ny Nhị_Xuân/Np vì/E thành_tích/N cai_nghiện/V .../X end/P_s
+start/Ps đi/V ./CH end/P_s
+start/Ps Long/Np bảo/V như_vậy/X là/C còn/R thua/V xa/A cô/Nc em_gái/N ở/V nhà/N vừa_mới/R lấy/V bằng/N đại_học/N ngành/N công_nghệ_thông_tin/N ./CH end/P_s
+start/Ps Tối/N ,/CH cũng/R đèn/N màu/N nhấp_nháy/V ,/CH nhạc/N ,/CH phim/N ,/CH từng/P nhóm/N rì_rầm/A trò_chuyện/V ./CH end/P_s
+start/Ps Phải/V phấn_đấu/V ,/CH phải/V đăng_ký/V và/C chịu/V sự/Nc kiểm_tra/V mới/R được/V đi/V giao_lưu/V như_vậy/X nên/C gương_mặt/N ai/P cũng/R rạng/V vui/A ./CH end/P_s
+start/Ps Để/E có/V được/R ba/M ngày/N phép/N về/V thăm/V nhà/N ,/CH các/L học_viên/N phải/V đạt/V được/V vô_số/A điều_kiện/N :/CH ở/E giai_đoạn/N hậu/S cai/V ,/CH kết_quả/N học_tập/V ,/CH lao_động/V tốt/A ,/CH chấp_hành/V kỷ_luật/N tốt/A .../X end/P_s
+start/Ps Tôi/P giật_mình/V ,/CH ừ/T ,/CH hạnh_phúc/N quả/T là/C đơn_sơ/A ./CH end/P_s
+start/Ps Tôi/P thề/V rằng/C không/R bao_giờ/P có/V lần/N cai_nghiện/V sau/N nữa/R .../X end/P_s
+start/Ps TT/Ny -/CH Ở/E Trung_tâm/N trung_chuyển/V Bình_Triệu/Np ,/CH tôi/P đã/R phải/V nổi/V gai_ốc/N trước/E hàng/R chục/M cặp/M mắt/N chăm_chắm/A nhìn/V mình/P qua/E chấn_song/N sắt/N ,/CH tôi/P đã/R day_dứt/V trước/E những/L cặp/M mắt/N thờ_ơ/V đến/E gần/A như/C vô_cảm/A ngay/R trước/E tương_lai/N của/E chính/T họ/P ./CH end/P_s
+start/Ps ”/CH được/V đưa/V ra/R thảo_luận/V ./CH end/P_s
+start/Ps S./X nói/V và/C tất_cả/P cùng/A cười/V ./CH end/P_s
+start/Ps Trung_tâm/N (/CH TT/Ny )/CH Trọng_Điểm/Np ,/CH 5/M g/Nu 30/M sáng/N đã/R nghe/V những/L tiếng/N kẻng/N vang_vọng/V từ/E đội/N này/P sang/V đội/N khác/A ./CH end/P_s
+start/Ps “/CH Vì/C em/N đã/R biết/V được/V tới/E hai/M cuộc_sống/N :/CH một/M là/V phá/V hỏng/A những/L gì/P tốt_đẹp/A ,/CH hai/M là/V làm/V lại/R từng/P chút/L từ/E số_âm/N ”/CH ./CH end/P_s
+start/Ps ”/CH đó/P là/V nguyên_tắc/N ở/E tất_cả/P các/L trường/N cai_nghiện/V ./CH end/P_s
+start/Ps Rồi/C Thanh/Np làm_quen/V với/E ma_túy/N ,/CH đốt/V thành/V khói/N mỗi/M lần/N cả/T một/M gánh/N rau/N của/E bà/N .../X end/P_s
+start/Ps Nhưng/C .../X end/P_s
+start/Ps Hồi/N đó/P tôi/P đi/V cai_nghiện/V mỗi/M lần/N vài/L tuần/N ,/CH mấy/L tháng/N ,/CH cảm_giác/N thèm/V thuốc/N chưa/R kịp/A quên/V ,/CH mặc_cảm/V chưa/R kịp/A mất/V nên/C .../X end/P_s
+start/Ps Nhưng/C để/E không/R phải/A xử_lý/V còn/R tốt/A hơn/R nhiều/A ”/CH ./CH end/P_s
+start/Ps Tôi/P để_ý/V nhiều/A đến/E những/L cánh_tay/N của/E học_viên/N ./CH end/P_s
+start/Ps Với/E những/L người/N tôi/P đang/R nói_chuyện/V đây/P thì/C còn/R hạnh_phúc/N nào/P hơn/A thế/P nữa/R ./CH end/P_s
+start/Ps “/CH Đông/A người/N thì/C cũng/R thường_xuyên/A cười_nói/V ,/CH ca_hát/V ,/CH đánh/V cầu_lông/N ,/CH cũng/R có/V tivi/Nb ,/CH karaoke/Nb .../X end/P_s
+start/Ps và/C còn/R phải/V vượt/V lên/V hàng/R chục/M người/N khác/A cũng/R tốt/A như_thế/X ./CH end/P_s
+start/Ps Có/V cánh_tay/N vằn_vện/A hình/N xăm/V trổ/V ,/CH có/V cánh_tay/N vẫn/R còn/R rất/R rõ/A những/L u/N cục/Nc mang/V dấu/N kim/N tiêm/V ./CH end/P_s
+start/Ps Từ/E bé/N em/N mong_ước/V trở_thành/V kiến_trúc_sư/N ,/CH nhưng/C biết/V bao_giờ/P mới/R được/V đến/V trường/N đây/P .../X end/P_s
+start/Ps Những/L cánh_tay/N như_vậy/X đang/R gồng/V lên/V cầm/V cây_bút/N viết/V từng/P chữ/N trong/E lớp_học/N ,/CH tỉ_mẩn/A từng/P đường/N kim/N mũi/N chỉ/N trong/E xưởng/N thợ/N ,/CH hăm_hở/A vác/V trên/E rẫy/N về/V bó/Nc mụt/N măng/N ,/CH rổ/N rau/N xanh/A ,/CH cắt/V gọt/V rửa/V từng/P cái/Nc lá/N bổ_sung/V vào/E bữa/N ăn/V chiều/N .../X end/P_s
+start/Ps Cuộc_sống/N tốt/A nhưng/C tự_do/N thì/C mất/V ,/CH cơ_hội/N làm/V lại/R cuộc_đời/N ,/CH làm/V cho/E cha_mẹ/N vui_lòng/A một_chút/L cũng/R mòn_mỏi/A dần/R .../X end/P_s
+start/Ps Tính/V đến/E ngày/N 31/M -/CH 5/M -/CH 2005/M ,/CH tổng_số/N học_viên/N đang/R cai_nghiện/V tại/E 20/M trường/N ,/CH trung_tâm/N (/CH thuộc/V Sở/N LĐ/Ny -/CH TB/Ny &/CH XH/Ny và/C Lực_lượng/N TNXP/Ny TP/Ny HCM/Ny )/CH là/V 31.300/X người/N ./CH end/P_s
+start/Ps Mái/N lá/N ,/CH cột/N gỗ/N ,/CH từng/P không_gian/N hình_tròn/N ,/CH vuông/N ,/CH chữ_nhật/N ngăn_cách/V và/C nối/V nhau/N bằng/E những/L thảm/Nc cỏ/N ,/CH hình_thức/N y_như/A mấy/L quán/N cà_phê/N sân/N vườn/N ở/E Sài_Gòn/Np ./CH end/P_s
+start/Ps Câu_chuyện/N được/V đọc/V hôm_nay/N kể/V về/E một/M thanh_niên/N đi/V khắp/A nơi/N tìm/V hạnh_phúc/N ./CH end/P_s
+start/Ps Tôi/P gặp/V một/M cô/N gái/N nằm/V sấp/A trên/E giường/N ,/CH bặm/V môi/N viết/V trong/E lúc/N những/L người/N khác/A giặt/V quần_áo/N ,/CH lau/V nhà/N ./CH end/P_s
+start/Ps Mấy/L cậu/N con_trai/N ngẩng/V lên/V khỏi/R bàn_máy/N buông/V một/M câu/N đùa/V :/CH “/CH Ngoài/N đời/N ,/CH mấy/L ngã/N tư/M còn/R đèn_xanh/N đèn_đỏ/N không/R chị/N ?/CH ”/CH ./CH end/P_s
+start/Ps Ừ/T ,/CH cuộc_sống/N ở/E đây/P làm_sao/X mà/C vui/A được/R khi/N tứ_phía/N đều/R là/V những/L tường/N rào/N ,/CH song/N sắt/N ,/CH bảo_vệ/N canh_gác/V ,/CH khám_xét/V chặt_chẽ/A mỗi/N khi/N ra_vào/V ./CH end/P_s
+start/Ps Trời/N còn/R tối_mò/A ,/CH mờ/A sương/N ,/CH lạnh/A nhưng/C không/R ai/P được/V phép/N ngủ/V tiếp/V ./CH end/P_s
+start/Ps Thấy/V tôi/P hơi/R ngạc_nhiên/V trước/E câu/N triết_lý/N ,/CH Đạt/Np lại/R .../X end/P_s
+start/Ps Niềm/Nc hãnh_diện/V lớn/A nhất/R mà/E một/M học_viên/N cai_nghiện/V có_thể/R khoe/V với/E khách/N lạ/A là/V :/CH “/CH Tôi/P mới/R được/V về/V phép/N ”/CH ./CH end/P_s
+start/Ps Được/V trang_bị/V tivi/Nb ,/CH đầu_video/N ,/CH thực_đơn/N giải_khát/V dán/V trên/E bàn/N ,/CH CLB/Ny sẽ/R là/C chỗ/N giao_lưu/V giữa/E các/L học_viên/N nam_nữ/N ./CH end/P_s
+start/Ps Mấy/L anh/N giáo_dục/N viên/S bảo/V một/M đặc_điểm/N của/E những/L người/N nghiện/V ma_túy/N là/V nói_chuyện/V rất/R hay/A ,/CH rất/R ngọt_ngào/A để/E đạt/V được/V mục_đích/N ,/CH nhưng/C tôi/P tin/V rằng/C S./X đã/R nói/V rất/R thật/A lòng/N ./CH end/P_s
+start/Ps “/CH triết_lý/V ”/CH tiếp/V :/CH “/CH Thật/A mà/C ,/CH em/N đã/R học/V được/R rất/R nhiều/A ở/E đây/P chứ/C không/R chỉ/R là/C cai_nghiện/V ./CH end/P_s
+start/Ps “/CH Không/R để/V thời_gian/N trống/A ,/CH không/R để/V học_viên/N có/V thời_gian/N suy_nghĩ/V ,/CH mơ_tưởng/V về/E ma_túy/N .../X end/P_s
+start/Ps Trên/E tường/N phòng/N sinh_hoạt/N đội/N ở/E TT/Ny Nhị_Xuân/Np tôi/P thấy/V có/V một/M câu/N khẩu_hiệu/N :/CH “/CH Xử_lý/V đúng/A là/V tốt/A ./CH end/P_s
+start/Ps Ghi_chép/V từ/E những/L cánh/N rừng/N “/CH cai_nghiện/V ”/CH .../X end/P_s
+start/Ps Trong/E khuôn_viên/N đội/N 3/M ,/CH TT/Ny Đức_Hạnh/Np có/V một/M câu_lạc_bộ/N mới/R được/V xây_dựng/V bằng/E chính/T bàn_tay/N của/E học_viên/N ./CH end/P_s
+start/Ps chép/V phạt/V vì/C đã/R vi_phạm/V kỷ_luật/N ./CH end/P_s
+start/Ps Hỏi/V mãi/R ,/CH cô/N mới/R hé/V môi/N cho/V biết/V không/R phải/A mình/P viết/V thư/N về/E nhà/N mà/C là/C đang/R .../X end/P_s
+start/Ps S./X nói_chuyện/V rất/R hay/A :/CH “/CH Tất_cả/P những/L gì/P chúng_tôi/P nỗ_lực/V ở/E đây/P là/C để/E được/V về/V nhà/N ,/CH lấy/V lại/R danh_dự/N bản_thân/N ,/CH niềm/Nc tin/V của/E gia_đình/N ./CH end/P_s
+start/Ps Không/R có/V tiếng/N cười/V nào/P sau/N câu/N đùa/V ấy/P cả/T ,/CH câu_chuyện/N bỗng/R đi/V vào/E ngõ_cụt/N ./CH end/P_s
+start/Ps Hỏi/V gì/P trả_lời/V nấy/P ,/CH mấy/L cô/N gái/N cứ/R cắm_cúi/V xuống/V cái/Nc máy_may/N ,/CH rổ/N hạt/Nc điều/N ,/CH thoáng/R cười/V nhẹ/A khi/N tôi/P hỏi/V về/E cuộc_sống/N tập_thể/N ./CH end/P_s
+start/Ps Mình/P làm/V mình/P chịu/V thôi/T ”/CH ,/CH một/M cô/N bé/N còn/R rất/R trẻ/A lạnh_lùng/A đáp/V ./CH end/P_s
+start/Ps “/CH Nhưng_mà/C nếu/C ba/M năm/N rồi/R em/N không/R vào/V đây/P ,/CH không/R cai_nghiện/V chắc/A giờ/N đã/R mắc/V bệnh/N AIDS/Ny ,/CH chắc/A vẫn/R còn/R mù/A tin_học/N và/C vẫn/R cứ/R là/V một/M đứa/N đã/R bỏ/V học/V từ/E lớp/N 11/M ”/CH ,/CH Long/Np nói/V rất/R thật/A lòng/N ./CH end/P_s
+start/Ps Anh_em/N trong/E phòng/N ,/CH trong/E đội/N ,/CH các/L giáo_dục/N viên/S trực_tiếp/A quản_lý/V phải/V bỏ_phiếu/V kín/A để/E bầu_chọn/V người/N xứng_đáng/A được/V hưởng/V phép/N ./CH end/P_s
+start/Ps Lịch/N học_tập/V ,/CH sinh_hoạt/V vì_thế/C ken/V kín/A suốt/A ngày/N ,/CH suốt/A tuần/N ./CH end/P_s
